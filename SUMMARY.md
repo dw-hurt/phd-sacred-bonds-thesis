@@ -15,3 +15,17 @@
     * [by\_source](notes/reading_notes/by_source/README.md)
       * [SOURCE SUMMARY: Gangestad & Simpson (2000)](notes/reading_notes/by_source/gangestad_simpson_2000_notes.md)
 * [Test GitBook to GitHub](test-gitbook-to-github.md)
+
+## Research Materials
+
+* [Quote Database](quotes/README.md)
+  * [Chapter 2 Quotes](quotes/by_chapter/chapter_02_quotes.md)
+  * [Chapter 3 Quotes](quotes/by_chapter/chapter_03_quotes.md)
+
+* [Source Summaries](notes/reading_notes/by_source/README.md)
+  * [Gangestad & Simpson 2000](notes/reading_notes/by_source/gangestad_simpson_2000_summary.md)
+  * [Buss 2023 - Sexual Strategies](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
+
+* [Reading Notes](notes/README.md)
+  * [By Source](notes/reading_notes/by_source/README.md)
+  * [By Theme](notes/reading_notes/by_theme/README.md)
