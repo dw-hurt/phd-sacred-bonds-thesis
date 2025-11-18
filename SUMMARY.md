@@ -14,3 +14,4 @@
   * [reading\_notes](notes/reading_notes/README.md)
     * [by\_source](notes/reading_notes/by_source/README.md)
       * [SOURCE SUMMARY: Gangestad & Simpson (2000)](notes/reading_notes/by_source/gangestad_simpson_2000_notes.md)
+* [Test GitBook to GitHub](test-gitbook-to-github.md)
