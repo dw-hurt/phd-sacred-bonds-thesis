@@ -14,9 +14,10 @@
 ## Research Materials
 
 * [Quote Database](quotes/README.md)
-  * [by\_chapter](quotes/by_chapter/README.md)
   * [Chapter 2 Quotes](quotes/by_chapter/chapter_02_quotes.md)
   * [Chapter 3 Quotes](quotes/by_chapter/chapter_03_quotes.md)
+  * [Chapter 4 Quotes](quotes/by_chapter/chapter_04_quotes.md)
+  * [Chapter 5 Quotes](quotes/by_chapter/chapter_05_quotes.md)
 
 * [Source Summaries](notes/reading_notes/by_source/README.md)
   * [Gangestad & Simpson 2000](notes/reading_notes/by_source/gangestad_simpson_2000_summary.md)
