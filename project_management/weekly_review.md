@@ -1,8 +1,8 @@
 # Weekly Review Template
 
-**Week of:** [Insert Date Range]  
-**Completed by:** [Your Name]  
-**Date Completed:** [Completion Date]
+**Week of:** [11-17]  
+**Completed by:** [david]  
+**Date Completed:** [11/18]
 
 ---
 
@@ -10,9 +10,9 @@
 
 | Metric | Target | Actual | Difference |
 |--------|--------|--------|------------|
-| **Writing Sessions** | 4-5 | [Fill in] | [+/- X] |
+| **Writing Sessions** | 4-5 | [2] | [+/- X] |
 | **Hours Worked** | 15-20 | [Fill in] | [+/- X] |
-| **Words Written** | 3,000-5,000 | [Fill in] | [+/- X] |
+| **Words Written** | 3,000-5,000 | [500] | [+/- X] |
 | **Sources Processed** | 1 | [Fill in] | [+/- X] |
 | **Quotes Extracted** | 15-20 | [Fill in] | [+/- X] |
 | **Git Commits** | 5-7 | [Fill in] | [+/- X] |
@@ -23,18 +23,18 @@
 
 ### Major Wins
 *List 3-5 significant accomplishments. Examples:*
-- Completed first draft of Chapter 1, Section 1.1 (1,500 words)
-- Processed Jung's "Psychology of the Transference" and extracted 18 quotes
-- Resolved technical issue with GitBook sync
+-Completed majority of gitbook and hub setup
+- uploaded 2 sources and had AI complete summary and quotes
+- configred project to do in Github
 - [Add your accomplishments]
 
 ### Progress by Stage
 **Stage 1 (Source Processing):**
-- [What sources were processed this week?]
+- 2
 - [Any sources acquired but not yet processed?]
 
 **Stage 2 (Integration):**
-- [How many quotes extracted?]
+- 28
 - [Any integration notes created?]
 
 **Stage 3 (Chapter Development):**
@@ -67,8 +67,8 @@
 
 ### Unresolved Issues / Carry-Forward
 *Challenges that remain open:*
-- [Issue 1]
-- [Issue 2]
+- Understanding how to use dashboard in github
+- Identify useful information in gitbook
 
 ---
 
@@ -76,18 +76,18 @@
 
 ### Overall Progress Rating
 *Rate your overall progress this week on a scale of 1-10:*
-- **Rating:** [X/10]
-- **Reasoning:** [Brief explanation of rating]
+- **Rating:** [2/10]
+- **Reasoning:** [More technical focus]
 
 ### Stage-Specific Progress
-**Stage 1 (Source Processing):** [🟢 On Track / 🟡 Slow / 🔴 Blocked]  
-**Stage 2 (Integration):** [🟢 On Track / 🟡 Slow / 🔴 Blocked]  
-**Stage 3 (Chapter Development):** [🟢 On Track / 🟡 Slow / 🔴 Blocked]
+**Stage 1 (Source Processing):** [🟢 On Track ]  
+**Stage 2 (Integration):** [ 🟡 Slow ]  
+**Stage 3 (Chapter Development):** [ 🟡 Slow ]
 
 ### On Track for Milestones?
 *Review milestone tracker in `progress_tracker.md`:*
 - **Next Milestone:** [Milestone name and target date]
-- **On Track?** [Yes / No / At Risk]
+- **On Track?** [Yes ]
 - **Adjustments Needed?** [Any timeline changes needed?]
 
 ---
