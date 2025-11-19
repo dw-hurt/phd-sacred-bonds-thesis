@@ -23,6 +23,11 @@
   * [By Source](notes/reading_notes/by_source/README.md)
   * [By Theme](research-materials/notes/by-theme.md)
 
+* ## Research Journal
+  * [Journal Overview](research_journal/README.md)
+  * [Journal Template](research_journal/journal_template.md)
+
+
 ## 📦 What You're Deploying
 
 * [progress\_tracker.md - Master progress overview](what-youre-deploying/progress_tracker.md-master-progress-overview.md)
