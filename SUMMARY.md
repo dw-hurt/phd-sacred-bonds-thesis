@@ -45,7 +45,8 @@
 
 * [Journal Overview](research_journal/README.md)
   * [Journal Template](research_journal/journal_template.md)
-  * [2025-11-19 Thesis abstract](research-journal/research_journal/journal_template-1.md)
+  * [2025-11-19 Thesis abstract version 2](research-journal/research_journal/journal_template-1.md)
+  * [2025-11-19 Thesis abstract](research-journal/research_journal/journal_template-2.md)
   * [2025-11-19: Synchronicity in Modern Dating](research_journal/2025-11-19_synchronicity_modern_dating.md)
   * [2025-11-19: Anima Projection in Dating Apps](research-journal/research_journal/2025-11-19-anima-projection-in-dating-apps.md)
 
