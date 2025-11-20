@@ -2,6 +2,11 @@
 
 * [PhD Dissertation: Sacred Bonds and Sexual Selection](README.md)
 
+## Thesis Outline
+
+* [Original Thesis Outline](thesis_outline/README.md)
+
+
 ## Front Matter
 
 * [Abstract](front-matter/abstract.md)
