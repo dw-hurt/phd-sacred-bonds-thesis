@@ -4,8 +4,8 @@
 
 ## Thesis Outline
 
-* [Original Thesis Outline](thesis_outline/README.md)
-
+* [Original Thesis Outline](thesis-outline/thesis_outline/README.md)
+  * [Version 2 thesis outline](thesis-outline/thesis_outline/version-2-thesis-outline.md)
 
 ## Front Matter
 
