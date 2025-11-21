@@ -63,15 +63,6 @@
   * [2025-11-19: Synchronicity in Modern Dating](research_journal/2025-11-19_synchronicity_modern_dating.md)
   * [2025-11-19: Anima Projection in Dating Apps](research-journal/research_journal/2025-11-19-anima-projection-in-dating-apps.md)
 
-## Quotes Database
-
-* [Quote Database](quotes/README.md)
-  * [Chapter 1 Quotes (Introduction)](quotes/by_chapter/chapter_01_quotes.md)
-  * [Chapter 2 Quotes](quotes/by_chapter/chapter_02_quotes.md)
-  * [Chapter 3 Quotes](quotes/by_chapter/chapter_03_quotes.md)
-  * [Chapter 4 Quotes](quotes/by_chapter/chapter_04_quotes.md)
-  * [Chapter 5 Quotes](quotes/by_chapter/chapter_05_quotes.md)
-  * [Fayyaz (2019) - All Quotes (44 quotes)](quotes/by_source/fayyaz_2019_quotes.md)
 
 ## Integration Notes
 
