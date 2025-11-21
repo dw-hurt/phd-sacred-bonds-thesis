@@ -29,33 +29,20 @@
 ## Research Materials
 
 * [Quote Database](quotes/README.md)
+  * [Chapter 1 Quotes (Introduction)](quotes/by_chapter/chapter_01_quotes.md)
   * [Chapter 2 Quotes](quotes/by_chapter/chapter_02_quotes.md)
   * [Chapter 3 Quotes](quotes/by_chapter/chapter_03_quotes.md)
   * [Chapter 4 Quotes](quotes/by_chapter/chapter_04_quotes.md)
   * [Chapter 5 Quotes](quotes/by_chapter/chapter_05_quotes.md)
   * [Fayyaz (2019) - All Quotes (44 quotes)](quotes/by_source/fayyaz_2019_quotes.md)
 * [Source Summaries](notes/reading_notes/by_source/README.md)
-  * [Gangestad & Simpson 2000](notes/reading_notes/by_source/gangestad_simpson_2000_summary.md)
-  * [Buss 2023](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
+  * [Gangestad & Simpson (2000)](notes/reading_notes/by_source/gangestad_simpson_2000_summary.md)
+  * [Buss (2023)](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
   * [Fayyaz (2019) - SST Critique Summary](notes/reading_notes/by_source/fayyaz_2019_summary.md)
   * [Fayyaz (2019) - Resource Record](notes/reading_notes/by_source/fayyaz_2019_resource_record.md)
-* [Reading Notes](notes/README.md)
+* [Reading Notes Overview](notes/README.md)
 
-**Chapter Relevance
 
-### Chapter 1: Introduction
-- [Fayyaz (2019) - Contemporary Crisis](notes/reading_notes/by_source/fayyaz_2019_summary.md)
-
-### Chapter 2: Evolutionary Psychology
-- [Gangestad & Simpson (2000)](notes/reading_notes/by_source/gangestad_simpson_2000_summary.md)
-- [Buss (2023)](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
-- [Chapter 2 Quotes](quotes/by_chapter/chapter_02_quotes.md)
-
-* [Reading Notes](notes/README.md)
-  * - [📚 All Reading Notes](notes/reading_notes/by_source/README.md)
-  - [Gangestad & Simpson (2000)](notes/reading_notes/by_source/gangestad_simpson_2000_summary.md)
-  - [Buss (2023)](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
-  - [Fayyaz (2019)](notes/reading_notes/by_source/fayyaz_2019_summary.md)
 
 ## Project Management
 
