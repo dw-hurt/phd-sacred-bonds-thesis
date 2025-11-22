@@ -11,6 +11,7 @@
 
 Jungian analytical psychology framework for understanding unconscious dynamics in mate selection.
 
-[CONTENT TO BE DEVELOPED]
+The jungian content needs to incorporate the unconcious dynamics Jung identified that lead to people projecting desires onto the other, but where does the connected soul 
+component fall into this idea?  And could quantum entanglement be a hypothesis that explains how two souls vibrate together?  
 
 See quotes: [Chapter 3 Quotes](../../quotes/by_chapter/chapter_03_quotes.md)
