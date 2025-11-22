@@ -1,0 +1,2 @@
+# Gangestad & Simpson Quotes
+
