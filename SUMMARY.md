@@ -74,7 +74,8 @@
 
 ## Bibliography
 
-* [Source Inventory](notes/project_management/source_inventory.md)
+* [Bibliography (Alphabetical)](bibliography/README.md)
+* [Source Inventory](bibliography/source_inventory.md)
 
 ## Project Management
 
