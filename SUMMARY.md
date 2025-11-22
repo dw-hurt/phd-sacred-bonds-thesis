@@ -35,16 +35,15 @@
   * [Chapter 4 Quotes](quotes/by_chapter/chapter_04_quotes.md)
   * [Chapter 5 Quotes](quotes/by_chapter/chapter_05_quotes.md)
   * [Fayyaz (2019) - All Quotes (44 quotes)](quotes/by_source/fayyaz_2019_quotes.md)
+  * [Limar 2011 Quotes](quotes/by_source/limar_2011_quotes.md)
 * [Source Summaries](notes/reading_notes/by_source/README.md)
   * [Gangestad & Simpson (2000)](notes/reading_notes/by_source/gangestad_simpson_2000_summary.md)
   * [Buss (2023)](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
   * [Fayyaz (2019) - SST Critique Summary](notes/reading_notes/by_source/fayyaz_2019_summary.md)
   * [Fayyaz (2019) - Resource Record](notes/reading_notes/by_source/fayyaz_2019_resource_record.md)
+  * [Limar 2011 Summary](notes/reading_notes/by_source/limar_2011_summary.md)
+  * [Limar 2011 Resource Record](notes/reading_notes/by_source/limar_2011_resource_record.md)
 * [Reading Notes Overview](notes/README.md)
-
-
-
-## Project Management
 
 ## Project Management
 
@@ -75,3 +74,6 @@
 
 * [Bibliography](back-matter/bibliography.md)
 * [Appendices](back-matter/appendices.md)
+
+
+[def]: quotes/by_source/limar_2011_quotes.md
