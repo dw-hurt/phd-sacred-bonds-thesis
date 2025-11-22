@@ -5,7 +5,7 @@
 ## Front Matter
 
 * [Abstract](front_matter/abstract.md)
-* [Acknowledgements](front-matter/acknowledgements.md)
+* [Acknowledgements](front_matter/acknowledgements.md)
 
 ## Working Documents
 
@@ -17,10 +17,12 @@
 * [Chapter 6: Contemporary Crisis](chapters/06_contemporary_crisis/chapter_06_contemporary_crisis.md)
 * [Chapter 7: Synthesis](chapters/07_synthesis/chapter_07_synthesis.md)
 * [Chapter 8: Implications](chapters/08_implications/chapter_08_implications.md)
+* [Chapter 9: Applications](chapters/09_implications/chapter_09_implications.md)
+* [Chapter 10: Conclusion](chapters/10_conclusion/chapter_10_conclusion.md)
 
 ## Reading Notes
 
-* * [Reading Notes Overview](notes/README.md)
+* [Reading Notes Overview](notes/README.md)
   * [By Chapter Notes](notes/reading_notes/by_chapter/README.md)
   * [By Source Notes](notes/reading_notes/by_source/README.md)
     * [Bertrand et al. - Economics of Hypergamy](notes/reading_notes/by_source/bertrand_et_al_hypergamy_summary.md)
@@ -55,30 +57,29 @@
     * [Chapter 03 Quotes](quotes/by_chapter/chapter_03_quotes.md)
     * [Chapter 04 Quotes](quotes/by_chapter/chapter_04_quotes.md)
     * [Chapter 05 Quotes](quotes/by_chapter/chapter_05_quotes.md)
+    * [Chapter 06 Quotes](quotes/by_chapter/chapter_06_quotes.md)
+    * [Chapter 07 Quotes](quotes/by_chapter/chapter_07_quotes.md)
+    * [Chapter 08 Quotes](quotes/by_chapter/chapter_08_quotes.md)
+    * [Chapter 09 Quotes](quotes/by_chapter/chapter_09_quotes.md)
+    * [Chapter 10 Quotes](quotes/by_chapter/chapter_10_quotes.md)
 * [Thesis Outline](research_materials/thesis_outline.md)
 
 ## Research Journal
 
-* [Journal Home](research-journal/journal-home.md)
-* [Daily Progress Logs](research-journal/daily-progress-logs.md)
+* [Journal Home](research_journal/README.md)
 
 ## Integration Notes
 
-* [Integration Overview](integration-notes/integration-overview.md)
-* [Cross-Source Connections](integration-notes/cross-source-connections.md)
-* [Theoretical Synthesis](integration-notes/theoretical-synthesis.md)
+* [Integration Overview](notes/integration_notes/README.md)
 
 ## Bibliography
 
-* [Bibliography (Alphabetical)](bibliography/bibliography-alphabetical.md)
-* [Source Inventory](bibliography/source-inventory.md)
-
-## Appendices
-
-* [Appendices Overview](appendices/appendices-overview.md)
+* [Source Inventory](notes/project_management/source_inventory.md)
 
 ## Project Management
 
 * [Project Overview](project_management/README.md)
-* [Timeline & Milestones](project-management/timeline-and-milestones.md)
-* [Task Lists](project-management/task-lists.md)
+* [Chapter Tracker](project_management/chapter_tracker.md)
+* [Progress Tracker](project_management/progress_tracker.md)
+* [Todo List](project_management/todo_list.md)
+* 
