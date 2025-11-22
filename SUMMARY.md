@@ -80,6 +80,7 @@
 ## Project Management
 
 * [Project Overview](project_management/README.md)
+* [Workflow Automation Guide](project_management/automation_guide.md)
 * [Chapter Tracker](project_management/chapter_tracker.md)
 * [Progress Tracker](project_management/progress_tracker.md)
 * [Todo List](project_management/todo_list.md)
