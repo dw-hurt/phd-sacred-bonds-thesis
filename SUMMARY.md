@@ -46,13 +46,16 @@
 
 ## Project Management
 
+## Project Management
+
 * [Dashboard Overview](project_management/README.md)
   * [Progress Tracker](project_management/progress_tracker.md)
   * [To-Do List](project_management/todo_list.md)
-  * [Stage Status](project-management/project_management/stage-status.md)
+  * [Stage Status](project_management/stage_status.md)
   * [Chapter Tracker](project_management/chapter_tracker.md)
   * [Source Inventory](project_management/source_inventory.md)
   * [Weekly Review Template](project_management/weekly_review.md)
+  * [📅 Weekly Reviews Archive](project_management/weekly_reviews/README.md)
 
 ## Research Journal
 
