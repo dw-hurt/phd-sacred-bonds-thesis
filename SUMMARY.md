@@ -70,6 +70,7 @@
 ## Research Journal
 
 * [Journal Home](research_journal/README.md)
+* [Gangestad & Simpson ↔ All Sources](research_journal/idea_linking/cross_reference_gangestad_simpson_all_sources.md)
 
 ## Integration Notes
 
