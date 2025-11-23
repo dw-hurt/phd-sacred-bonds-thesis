@@ -33,6 +33,9 @@
   * [By Type Notes](notes/reading_notes/by_type/README.md)
     * [Ideas & Connections](notes/reading_notes/by_type/ideas.md)
     * [Advisor Comments](notes/reading_notes/by_type/advisor_comments.md)
+* [Source Summary](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
+* [Resource Record](notes/reading_notes/by_source/gangestad_simpson_resource_record.md)
+* [Quotes Database](quotes/by_source/gangestad_simpson_quotes.md)
 
 ## Research Materials
 
@@ -42,7 +45,7 @@
   * [Bertrand et al. - Resource Record](notes/reading_notes/by_source/bertrand_et_al_hypergamy_resource_record.md)
   * [Buss (2023) Summary](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
   * [Fayyaz (2019) Summary](notes/reading_notes/by_source/fayyaz_2019_summary.md)
-  * [Gangestad & Simpson Summary](notes/reading_notes/by_source/gangestad_simpson_2000_summary.md)
+  * [Source Summary](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
   * [Limar (2011) Summary](notes/reading_notes/by_source/limar_2011_summary.md)
 * [Quotes Collection](quotes/README.md)
   * [Quotes by Source](quotes/by_source/README.md)
