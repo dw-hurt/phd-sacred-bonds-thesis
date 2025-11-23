@@ -28,7 +28,7 @@
     * [Bertrand et al. - Economics of Hypergamy](notes/reading_notes/by_source/bertrand_et_al_hypergamy_summary.md)
     * [Buss (2023) - Mating Strategies](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
     * [Fayyaz (2019) - SST Critique](notes/reading_notes/by_source/fayyaz_2019_summary.md)
-    * [Gangestad & Simpson - Sexual Selection](notes/reading_notes/by_source/gangestad_simpson_2000_summary.md)
+    * [Gangestad & Simpson - Sexual Selection](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
     * [Limar (2011) - DNA & Consciousness](notes/reading_notes/by_source/limar_2011_summary.md)
   * [By Type Notes](notes/reading_notes/by_type/README.md)
     * [Ideas & Connections](notes/reading_notes/by_type/ideas.md)
