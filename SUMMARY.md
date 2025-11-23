@@ -89,3 +89,20 @@
 * [Progress Tracker](project_management/progress_tracker.md)
 * [Todo List](project_management/todo_list.md)
 * 
+
+## Larsen (2023) - Polygyny & Demographic Collapse
+
+### Reading Notes
+* [Source Summary](notes/reading_notes/by_source/larsen_2023_polygyny_demographic_collapse_summary.md)
+* [Resource Record / Bibliography](notes/reading_notes/by_source/larsen_2023_polygyny_resource_record.md)
+
+### Quotes
+* [Quotes by Chapter](quotes/by_source/larsen_2023_polygyny_quotes.md)
+
+### Cross-References & Integration
+* [Cross-Reference: Larsen ? All Sources](research_journal/idea_linking/cross_reference_larsen_all_sources.md)
+
+### Project Management
+* [Progress Summary - Nov 23, 2025](project_management/dissertation_progress_summary_2025_11_23.md)
+* [Integration Script](project_management/scripts/integrate-larsen.ps1)
+
