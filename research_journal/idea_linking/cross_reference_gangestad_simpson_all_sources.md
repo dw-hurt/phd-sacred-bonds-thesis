@@ -1,5 +1,16 @@
 # Cross-Reference: Gangestad & Simpson (2000) with Other Dissertation Sources
 
+---
+**Related Documents:**
+- 📄 [G&S Source Summary](../../notes/reading_notes/by_source/gangestad_simpson_2000_summary.md)
+- 📚 [G&S Resource Record](../../notes/reading_notes/by_source/gangestad_simpson_resource_record.md)
+- 💬 [G&S Quotes Database](../../quotes/by_source/gangestad_simpson_quotes.md)
+
+**Applied in Chapters:**
+- ✍️ [Chapter 2: Evolutionary Foundations](../../chapters/02_evolutionary_foundations/chapter_02_evolutionary_foundations.md)
+- ✍️ [Chapter 3: Psychological Archetypes](../../chapters/03_psychological_archetypes/chapter_03_psychological_archetypes.md)
+- ✍️ [Chapter 4: Sociological Structures](../../chapters/04_sociological_structures/chapter_04_sociological_structures.md)
+
 ## Document Overview
 
 **Purpose:** Map conceptual connections between Gangestad & Simpson's Strategic Pluralism Theory and other key dissertation sources to facilitate integrated analysis and cross-citation.
