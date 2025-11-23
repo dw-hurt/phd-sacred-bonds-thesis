@@ -5,7 +5,7 @@
 ## Front Matter
 
 * [Abstract](front_matter/abstract.md)
-* [Acknowledgements](front_matter/acknowledgements.md)
+* [Acknowledgements](front-matter/acknowledgements.md)
 
 ## Working Documents
 
@@ -39,7 +39,7 @@
 
 ## Research Materials
 
-* [Research Materials Overview](research_materials/README.md)
+* [Research Materials Overview](research-materials/research-materials-overview.md)
 * [Source Summaries & Resource Records](research_materials/summaries/README.md)
   * [Bertrand et al. - Hypergamy Summary](notes/reading_notes/by_source/bertrand_et_al_hypergamy_summary.md)
   * [Bertrand et al. - Resource Record](notes/reading_notes/by_source/bertrand_et_al_hypergamy_resource_record.md)
@@ -48,9 +48,9 @@
   * [Source Summary](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
   * [Limar (2011) Summary](notes/reading_notes/by_source/limar_2011_summary.md)
 * [Quotes Collection](quotes/README.md)
-  * [Quotes by Source](quotes/by_source/README.md)
+  * [Quotes by Source](research-materials/quotes/quotes-by-source/README.md)
     * [Bertrand et al. Quotes](quotes/by_source/bertrand_et_al_hypergamy_quotes.md)
-    * [Buss (2023) Quotes](quotes/by_source/buss_2023_quotes.md)
+    * [Buss (2023) Quotes](research-materials/quotes/quotes-by-source/buss-2023-quotes.md)
     * [Fayyaz (2019) Quotes](quotes/by_source/fayyaz_2019_quotes.md)
     * [Gangestad & Simpson Quotes](quotes/by_source/gangestad_simpson_quotes.md)
     * [Limar (2011) Quotes](quotes/by_source/limar_2011_quotes.md)
@@ -60,11 +60,11 @@
     * [Chapter 03 Quotes](quotes/by_chapter/chapter_03_quotes.md)
     * [Chapter 04 Quotes](quotes/by_chapter/chapter_04_quotes.md)
     * [Chapter 05 Quotes](quotes/by_chapter/chapter_05_quotes.md)
-    * [Chapter 06 Quotes](quotes/by_chapter/chapter_06_quotes.md)
-    * [Chapter 07 Quotes](quotes/by_chapter/chapter_07_quotes.md)
-    * [Chapter 08 Quotes](quotes/by_chapter/chapter_08_quotes.md)
-    * [Chapter 09 Quotes](quotes/by_chapter/chapter_09_quotes.md)
-    * [Chapter 10 Quotes](quotes/by_chapter/chapter_10_quotes.md)
+    * [Chapter 06 Quotes](research-materials/quotes/by_chapter/chapter-06-quotes.md)
+    * [Chapter 07 Quotes](research-materials/quotes/by_chapter/chapter-07-quotes.md)
+    * [Chapter 08 Quotes](research-materials/quotes/by_chapter/chapter-08-quotes.md)
+    * [Chapter 09 Quotes](research-materials/quotes/by_chapter/chapter-09-quotes.md)
+    * [Chapter 10 Quotes](research-materials/quotes/by_chapter/chapter-10-quotes.md)
 * [Thesis Outline](research_materials/thesis_outline.md)
 
 ## Research Journal
@@ -88,7 +88,6 @@
 * [Chapter Tracker](project_management/chapter_tracker.md)
 * [Progress Tracker](project_management/progress_tracker.md)
 * [Todo List](project_management/todo_list.md)
-* 
 
 ## Larsen (2023) - Polygyny & Demographic Collapse
 
@@ -105,4 +104,6 @@
 ### Project Management
 * [Progress Summary - Nov 23, 2025](project_management/dissertation_progress_summary_2025_11_23.md)
 * [Integration Script](project_management/scripts/integrate-larsen.ps1)
+
+=======
 

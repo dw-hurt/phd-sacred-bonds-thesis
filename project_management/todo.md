@@ -1,14 +1,18 @@
-﻿# To-Do List
-
-## This Week
-- [ ] Complete Git setup
-- [ ] Install research tools
-- [ ] Add first sources to Zotero
-
-## This Month
-- [ ] Process 10 sources
-- [ ] Create Chapter 1 outline
-- [ ] Write first section
+﻿# PhD Project ToDo List
+## Legend
+- 🔴 High Priority
+- 🟡 Medium Priority
+- 🟢 Low Priority
+- ✅ Completed
+- ⏳ In Progress
+---
+## High Priority Tasks
+- 🔴 **[Reading]** Process Stone, Shackelford & Buss (2007) - Sex Ratio Theory *(Added: 2025-11-23)*
+## Medium Priority Tasks
+- 🟡 **[Admin]** Update SUMMARY.md with new automation pages *(Added: 2025-11-23)*
+## Low Priority Tasks
+## Completed Tasks
+- ✅� **[Admin]** Test remaining automation scripts (2-5) *(Added: 2025-11-23)* *(Completed: 2025-11-23)*
 
 ---
-**Updated:** 2025-11-14
+*Last Updated: 2025-11-23 11:56:08*
