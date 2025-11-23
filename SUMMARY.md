@@ -1,4 +1,4 @@
-﻿# Table of contents
+# Table of contents
 
 * [Pair bonding, reproduction and Jungian Archetypes](README.md)
 
@@ -70,7 +70,7 @@
 ## Research Journal
 
 * [Journal Home](research_journal/README.md)
-* [Gangestad & Simpson ↔ All Sources](research_journal/idea_linking/cross_reference_gangestad_simpson_all_sources.md)
+* [Gangestad & Simpson ? All Sources](research_journal/idea_linking/cross_reference_gangestad_simpson_all_sources.md)
 
 ## Integration Notes
 
