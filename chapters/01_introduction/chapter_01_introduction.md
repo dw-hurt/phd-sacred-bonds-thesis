@@ -4,7 +4,7 @@ description: >-
   integration into gitbooks.
 ---
 
-# Chapter 1: Introduction - Sacred Bonds and Sexual Selection
+# Chapter 1: Introduction
 
 **Chapter Status:** Draft in progress\
 **Word Count Target:** 8,000-10,000 words\
@@ -23,22 +23,25 @@ This chapter establishes the contemporary mating crisis as the central problem, 
 
 ### 1.1.1 Observable Symptoms
 
-Modern men feel neglected, excluded from the dating pool.  On line apps that opened the world result in extrodinary effort for minimal results.  Men have responded with men going their own way philosophies, Red-Pill, extreme feminism and the classification as 'incels'.  &#x20;
+Modern men feel neglected, excluded from the dating pool. On line apps that opened the world result in extrodinary effort for minimal results. Men have responded with men going their own way philosophies, Red-Pill, extreme feminism and the classification as 'incels'.
 
-Women, with the same expanded access to available partners, have become even more chosie.  Hypergamy is accelerated in women as they complete for online 'likes' and expectations that the 'man' they accept is top 1%.  &#x20;
+Women, with the same expanded access to available partners, have become even more chosie. Hypergamy is accelerated in women as they complete for online 'likes' and expectations that the 'man' they accept is top 1%.
 
-What has led to this evolution of unreasonable standards and outcomes?   How does porn play into this evolution?  What factors related to environmentalism and over population may have influenced men and women to avoid mating practices?  &#x20;
+What has led to this evolution of unreasonable standards and outcomes? How does porn play into this evolution? What factors related to environmentalism and over population may have influenced men and women to avoid mating practices?
 
 The contemporary Western world faces a paradox in human pair bonding: despite unprecedented access to potential partners through digital technology and expanded social networks, relationship formation and stability have reached historic lows.
 
 **Key statistics to include:**
 
 * Marriage rates declining (cite sources)
-* Divorce rates elevated (cite sources)
+* Divorce rates increasing (cite sources)
 * Dating app dysfunction (cite research)
 * Increased loneliness and relationship dissatisfaction
+* An apparent high level of dissatisfaction between the sexes
 
-\[CONTINUE WITH YOUR ANALYSIS...]
+[\[CONTINUE WITH YOUR ANALYSIS...\]](../../quotes/by_source/larsen_2023_polygyny_quotes.md)
+
+Larsen proposes a solution to a problem driven by the actions of women in the dating pool and in western societies. &#x20;
 
 ***
 
