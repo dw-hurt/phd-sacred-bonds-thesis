@@ -1,2 +1,0 @@
-# Writing Best Practices:
-

@@ -1,2 +1,0 @@
-# Navigate & Sync:
-

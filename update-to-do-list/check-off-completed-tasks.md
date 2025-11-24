@@ -1,2 +1,0 @@
-# Check off completed tasks
-

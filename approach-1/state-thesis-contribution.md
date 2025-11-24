@@ -1,2 +1,0 @@
-# State thesis contribution
-

@@ -1,2 +1,0 @@
-# List accomplishments and challenges
-

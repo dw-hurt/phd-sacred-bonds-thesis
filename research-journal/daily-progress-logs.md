@@ -1,2 +1,0 @@
-# Daily Progress Logs
-

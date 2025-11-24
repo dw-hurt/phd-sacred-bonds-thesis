@@ -1,2 +1,0 @@
-# Define core research questions
-

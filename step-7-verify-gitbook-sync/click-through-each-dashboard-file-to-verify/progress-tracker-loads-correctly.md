@@ -1,2 +1,0 @@
-# Progress Tracker loads correctly
-
