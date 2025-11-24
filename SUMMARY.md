@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [Pair bonding, reproduction and Jungian Archetypes](README.md)
 
@@ -88,6 +88,11 @@
 * [Chapter Tracker](project_management/chapter_tracker.md)
 * [Progress Tracker](project_management/progress_tracker.md)
 * [Todo List](project_management/todo_list.md)
+* [📋 ToDo List (Automated)](project_management/todo.md)
+* [📊 Dashboard (Automated)](project_management/dashboard.md)
+* [🗄️ Archive Index](archive/archive_index.md)
+* [✍️ Writing Submissions](writing_submissions/submissions_index.md)
+* [⚙️ Automation Scripts](project_management/scripts/README.md)
 
 ## Larsen (2023) - Polygyny & Demographic Collapse
 
@@ -104,6 +109,3 @@
 ### Project Management
 * [Progress Summary - Nov 23, 2025](project_management/dissertation_progress_summary_2025_11_23.md)
 * [Integration Script](project_management/scripts/integrate-larsen.ps1)
-
-=======
-
