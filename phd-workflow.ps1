@@ -1,2 +1,21 @@
-﻿function Show-Menu{Clear-Host;Write-Host "PhD Workflow`n" -ForegroundColor Cyan;Write-Host "1. Update Dashboard";Write-Host "2. Progress Note";Write-Host "3. Start Writing";Write-Host "4. Sync GitBook";Write-Host "5. Git Status";Write-Host "0. Exit`n"}
-do{Show-Menu;switch(Read-Host "Select"){'1'{& ".\update-dashboard.ps1";Pause}'2'{& ".\add-progress-note.ps1";Pause}'3'{$ch=Read-Host "Chapter";if($ch-match'^\d+$'){& ".\start-writing-session.ps1" -ChapterNumber([int]$ch)};Pause}'4'{& ".\sync-to-gitbook.ps1";Pause}'5'{git status;git log --oneline -5;Pause}'0'{exit}}}while($true)
+﻿<#
+.SYNOPSIS
+    PhD Workflow Launcher - Quick access to automation scripts
+.DESCRIPTION
+    Launches the main PhD automation menu from any directory
+#>
+
+$scriptsPath = Join-Path $PSScriptRoot "project_management\scripts"
+$masterScript = Join-Path $scriptsPath "phd-master.ps1"
+
+if (Test-Path $masterScript) {
+    Write-Host "`nLaunching PhD Automation Suite...`n" -ForegroundColor Cyan
+    Set-Location $scriptsPath
+    & $masterScript
+} else {
+    Write-Host "Error: Cannot find phd-master.ps1" -ForegroundColor Red
+    Write-Host "Expected location: $masterScript" -ForegroundColor Yellow
+    Write-Host "`nPlease run from repository root or navigate to:" -ForegroundColor Yellow
+    Write-Host "  cd project_management\scripts" -ForegroundColor White
+    Write-Host "  .\phd-master.ps1" -ForegroundColor White
+}
