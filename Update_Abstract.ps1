@@ -1,7 +1,23 @@
+# Update Abstract with New Research Findings
+# Creates new abstract reflecting expanded source integration
+
+$ErrorActionPreference = "Stop"
+$RepoPath = "C:\Users\user\Documents\PhD\phd-sacred-bonds-thesis"
+
+Push-Location $RepoPath
+
+Write-Host "`n================================" -ForegroundColor Cyan
+Write-Host "ABSTRACT UPDATER" -ForegroundColor Cyan
+Write-Host "================================`n" -ForegroundColor Cyan
+
+$timestamp = Get-Date -Format "yyyy-MM-dd HH:mm"
+
+# New abstract incorporating all recent research
+$newAbstract = @"
 ---
 title: Abstract - Evolutionary Psychology of Mating
 description: Multi-level integration of mate selection from quantum biology to demographic outcomes
-last_updated: 2025-11-25 18:10
+last_updated: $timestamp
 ---
 
 # Abstract
@@ -29,3 +45,113 @@ This work distinguishes itself by refusing reductionist monism—neither purely 
 **Key Quantitative Findings:** 77% paternity bias (Firman), 10:1 reproductive ratio (Larsen), 3.3:1 genetic advantage (Firman)  
 **Methodological Approach:** Comparative analysis across experimental evolution, historical demography, economic sociology, depth psychology, and quantum biology  
 **Dissertation Status:** Chapter 1 draft (~1,300 words), comprehensive source integration framework complete (~15,000 words comparative analyses)
+"@
+
+# Backup old abstract
+$abstractPath = "front_matter/abstract.md"
+if (Test-Path $abstractPath) {
+    $backupPath = "front_matter/abstract.md.backup_$(Get-Date -Format 'yyyyMMdd_HHmmss')"
+    Copy-Item $abstractPath $backupPath -Force
+    Write-Host "✓ Backed up original abstract to:" -ForegroundColor Green
+    Write-Host "  $backupPath`n" -ForegroundColor Gray
+}
+
+# Write new abstract
+$newAbstract | Out-File $abstractPath -Encoding UTF8
+Write-Host "✓ Created new abstract at:" -ForegroundColor Green
+Write-Host "  $abstractPath`n" -ForegroundColor Gray
+
+# Calculate word counts
+$oldWordCount = 0
+if (Test-Path $backupPath) {
+    $oldContent = Get-Content $backupPath -Raw
+    $oldWordCount = ($oldContent -split '\s+').Count
+}
+$newWordCount = ($newAbstract -split '\s+').Count
+
+Write-Host "Abstract Statistics:" -ForegroundColor Cyan
+Write-Host "  Old: ~$oldWordCount words" -ForegroundColor Gray
+Write-Host "  New: ~$newWordCount words" -ForegroundColor Gray
+Write-Host "  Change: +$($newWordCount - $oldWordCount) words`n" -ForegroundColor Gray
+
+Write-Host "Key Updates:" -ForegroundColor Cyan
+Write-Host "  ✓ Added Firman & Simmons (2011) experimental evolution data" -ForegroundColor White
+Write-Host "  ✓ Added Larsen (2023) 5,000-year demographic analysis" -ForegroundColor White
+Write-Host "  ✓ Added Gangestad & Simpson (2000) good genes framework" -ForegroundColor White
+Write-Host "  ✓ Upgraded to multi-level integration model (6 levels)" -ForegroundColor White
+Write-Host "  ✓ Added quantitative findings: 77% paternity bias, 10:1 ratio" -ForegroundColor White
+Write-Host "  ✓ Added reproductive stratification (~30:1 combined effect)" -ForegroundColor White
+Write-Host "  ✓ Strengthened evolutionary mismatch thesis" -ForegroundColor White
+Write-Host "  ✓ Updated methodology to comparative analysis approach`n" -ForegroundColor White
+
+# Show comparison
+Write-Host "================================" -ForegroundColor Yellow
+Write-Host "COMPARISON: OLD vs NEW" -ForegroundColor Yellow
+Write-Host "================================`n" -ForegroundColor Yellow
+
+Write-Host "FRAMEWORK:" -ForegroundColor Cyan
+Write-Host "  Old: Four-dimensional model" -ForegroundColor Gray
+Write-Host "  New: Six-level integration model`n" -ForegroundColor White
+
+Write-Host "EMPIRICAL GROUNDING:" -ForegroundColor Cyan
+Write-Host "  Old: Mentioned Buss, Bertrand, Fayyaz, Limar" -ForegroundColor Gray
+Write-Host "  New: Experimental evolution (Firman), 5,000-year data (Larsen)," -ForegroundColor White
+Write-Host "       cross-cultural surveys (G&S), economic data (Bertrand)`n" -ForegroundColor White
+
+Write-Host "QUANTITATIVE FINDINGS:" -ForegroundColor Cyan
+Write-Host "  Old: None specified" -ForegroundColor Gray
+Write-Host "  New: 77% paternity bias, 10:1 reproductive ratio, 3.3:1 genetic advantage`n" -ForegroundColor White
+
+Write-Host "THEORETICAL DEPTH:" -ForegroundColor Cyan
+Write-Host "  Old: Integration of biological + transpersonal" -ForegroundColor Gray
+Write-Host "  New: Multi-level causal chains from quantum → demographic`n" -ForegroundColor White
+
+Write-Host "PRACTICAL IMPLICATIONS:" -ForegroundColor Cyan
+Write-Host "  Old: General relationship counseling applications" -ForegroundColor Gray
+Write-Host "  New: Specific demographic policy recommendations (economic redistribution)`n" -ForegroundColor White
+
+# Git status
+Write-Host "================================" -ForegroundColor Green
+Write-Host "ABSTRACT UPDATE COMPLETE!" -ForegroundColor Green
+Write-Host "================================`n" -ForegroundColor Green
+
+$commitNow = Read-Host "Commit changes to Git? (yes/no)"
+
+if ($commitNow -eq "yes") {
+    Write-Host "`nCommitting..." -ForegroundColor Cyan
+    
+    git add -A
+    git commit -m "Update abstract with comprehensive source integration
+
+Major updates:
+- Added Firman & Simmons (2011) experimental evolution findings
+- Added Larsen (2023) 5,000-year demographic analysis  
+- Added Gangestad & Simpson (2000) good genes framework
+- Upgraded to multi-level integration model (6 levels)
+- Added key quantitative findings: 77% paternity bias, 10:1 reproductive ratio
+- Documented ~30:1 combined reproductive stratification effect
+- Strengthened evolutionary mismatch thesis
+- Updated methodology to comparative analysis approach
+
+Word count: ~$oldWordCount → ~$newWordCount words (+$($newWordCount - $oldWordCount))
+
+Reflects completion of 5 comparative analyses and comprehensive source integration."
+    
+    git push origin main
+    
+    Write-Host "`n✓ Changes committed and pushed!" -ForegroundColor Green
+    Write-Host "GitBook will sync within 2-3 minutes.`n" -ForegroundColor Cyan
+    
+} else {
+    Write-Host "`nCommit manually when ready:" -ForegroundColor Yellow
+    Write-Host "  git add -A" -ForegroundColor Gray
+    Write-Host "  git commit -m 'Update abstract with new research'" -ForegroundColor Gray
+    Write-Host "  git push origin main`n" -ForegroundColor Gray
+}
+
+Write-Host "Next Steps:" -ForegroundColor Cyan
+Write-Host "  1. Review new abstract in: front_matter/abstract.md" -ForegroundColor White
+Write-Host "  2. Check GitBook display after sync" -ForegroundColor White
+Write-Host "  3. Consider updating dissertation proposal if required`n" -ForegroundColor White
+
+Pop-Location
