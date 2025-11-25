@@ -30,6 +30,16 @@
     * [Fayyaz (2019) - SST Critique](notes/reading_notes/by_source/fayyaz_2019_summary.md)
     * [Gangestad & Simpson - Sexual Selection](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
     * [Limar (2011) - DNA & Consciousness](notes/reading_notes/by_source/limar_2011_summary.md)
+
+
+### Firman & Simmons (2011) - Postcopulatory Sexual Selection ⭐
+
+* [📄 Source Summary](sources/summaries/Firman_2011_Source_Summary.md)
+* [💬 Quotes Database (35 quotes)](sources/quotes/Firman_2011_Quotes_Database.md)
+* [🔗 Chapter Integration Guide](sources/integration_guides/Firman_2011_Chapter_Integration_Guide.md)
+* [📊 Firman-Larsen Comparative Analysis](sources/comparative_analyses/Firman_Larsen_Comparative_Analysis.md)
+* [📚 Bibliography (BibTeX)](sources/bibliography/Firman_2011_Bibliography.bib)
+
   * [By Type Notes](notes/reading_notes/by_type/README.md)
     * [Ideas & Connections](notes/reading_notes/by_type/ideas.md)
     * [Advisor Comments](notes/reading_notes/by_type/advisor_comments.md)
