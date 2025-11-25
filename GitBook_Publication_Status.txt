@@ -1,0 +1,11 @@
+GitBook Publication Status Report
+Generated: 2025-11-25 16:16:38
+================================================================================
+
+GitBook URL Detection: SUCCESS
+Detection Method: Manual Input
+URL: https://app.gitbook.com/o/cyZpWhV7KomErB6BnmVk/s/hRoSpCiTUrfuH62swMvH/~/diff/~/revisions/3CmCBzgIACOUEeNJWqce/
+
+GitBook Accessibility: FAILED
+Error: Response status code does not indicate success: 500 (Internal Server Error).
+
