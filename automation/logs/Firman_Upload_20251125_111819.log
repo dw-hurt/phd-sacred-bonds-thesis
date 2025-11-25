@@ -1,0 +1,66 @@
+[2025-11-25 11:18:19] [INFO] ========================================
+[2025-11-25 11:18:19] [INFO] Firman (2011) GitBook Upload Master
+[2025-11-25 11:18:19] [INFO] ========================================
+[2025-11-25 11:18:19] [INFO] GitBook Repository: C:\Users\user\Documents\PhD\phd-sacred-bonds-thesis
+[2025-11-25 11:18:19] [INFO] Source Materials: C:\Users\user\Documents\PhD\PhD_Sources\Firman_2011
+[2025-11-25 11:18:19] [INFO] Auto-Commit: False
+[2025-11-25 11:18:19] [INFO] Log File: C:\Users\user\Documents\PhD\phd-sacred-bonds-thesis\automation\logs\Firman_Upload_20251125_111819.log
+[2025-11-25 11:18:19] [INFO] 
+[2025-11-25 11:18:19] [INFO] Starting pre-flight checks...
+[2025-11-25 11:18:19] [SUCCESS] Git detected: git version 2.51.0.windows.1
+[2025-11-25 11:18:19] [SUCCESS] PowerShell version check passed: 7.5.4
+[2025-11-25 11:18:19] [SUCCESS] GitBook repository found: C:\Users\user\Documents\PhD\phd-sacred-bonds-thesis
+[2025-11-25 11:18:19] [SUCCESS] Source materials directory found: C:\Users\user\Documents\PhD\PhD_Sources\Firman_2011
+[2025-11-25 11:18:19] [SUCCESS] Required file found: Firman_2011_Source_Summary.md
+[2025-11-25 11:18:19] [SUCCESS] Required file found: Firman_2011_Quotes_Database.md
+[2025-11-25 11:18:19] [SUCCESS] Required file found: Firman_2011_Chapter_Integration_Guide.md
+[2025-11-25 11:18:19] [SUCCESS] Required file found: Firman_2011_Bibliography.bib
+[2025-11-25 11:18:19] [SUCCESS] Required file found: Firman_Larsen_Comparative_Analysis.md
+[2025-11-25 11:18:19] [WARNING] Git repository has uncommitted changes:
+[2025-11-25 11:18:19] [WARNING] ?? Firman_2011_GitBook_Upload_Master_CORRECTED.ps1 ?? automation/
+[2025-11-25 11:18:19] [WARNING] Recommendation: Commit or stash changes before running this script
+[2025-11-25 11:18:23] [INFO] 
+[2025-11-25 11:18:23] [INFO] Creating target directory structure...
+[2025-11-25 11:18:23] [SUCCESS] Created directory: sources\bibliography
+[2025-11-25 11:18:23] [SUCCESS] Created directory: sources\quotes
+[2025-11-25 11:18:23] [SUCCESS] Created directory: sources\comparative_analyses
+[2025-11-25 11:18:23] [SUCCESS] Created directory: sources\summaries
+[2025-11-25 11:18:23] [SUCCESS] Created directory: sources\integration_guides
+[2025-11-25 11:18:23] [INFO] 
+[2025-11-25 11:18:23] [INFO] Uploading Firman source files to GitBook repository...
+[2025-11-25 11:18:24] [SUCCESS] Uploaded: Firman_2011_Quotes_Database.md -> sources\quotes
+[2025-11-25 11:18:24] [SUCCESS] Uploaded: Firman_Larsen_Comparative_Analysis.md -> sources\comparative_analyses
+[2025-11-25 11:18:24] [SUCCESS] Uploaded: Firman_2011_Bibliography.bib -> sources\bibliography
+[2025-11-25 11:18:24] [SUCCESS] Uploaded: Firman_2011_Source_Summary.md -> sources\summaries
+[2025-11-25 11:18:24] [SUCCESS] Uploaded: Firman_2011_Chapter_Integration_Guide.md -> sources\integration_guides
+[2025-11-25 11:18:24] [INFO] 
+[2025-11-25 11:18:24] [INFO] Verifying upload integrity...
+[2025-11-25 11:18:24] [SUCCESS] Verified: Firman_2011_Quotes_Database.md (29535 bytes)
+[2025-11-25 11:18:24] [SUCCESS] Verified: Firman_Larsen_Comparative_Analysis.md (39710 bytes)
+[2025-11-25 11:18:24] [SUCCESS] Verified: Firman_2011_Bibliography.bib (5485 bytes)
+[2025-11-25 11:18:24] [SUCCESS] Verified: Firman_2011_Source_Summary.md (48137 bytes)
+[2025-11-25 11:18:24] [SUCCESS] Verified: Firman_2011_Chapter_Integration_Guide.md (43169 bytes)
+[2025-11-25 11:18:24] [INFO] 
+[2025-11-25 11:18:24] [INFO] Integrating changes with Git...
+[2025-11-25 11:18:24] [INFO] Staged: sources/quotes/Firman_2011_Quotes_Database.md
+[2025-11-25 11:18:24] [INFO] Staged: sources/comparative_analyses/Firman_Larsen_Comparative_Analysis.md
+[2025-11-25 11:18:24] [INFO] Staged: sources/bibliography/Firman_2011_Bibliography.bib
+[2025-11-25 11:18:24] [INFO] Staged: sources/summaries/Firman_2011_Source_Summary.md
+[2025-11-25 11:18:24] [INFO] Staged: sources/integration_guides/Firman_2011_Chapter_Integration_Guide.md
+[2025-11-25 11:18:24] [INFO] Files staged but not committed (AutoCommit not enabled)
+[2025-11-25 11:18:24] [INFO] To commit manually, run:
+[2025-11-25 11:18:24] [INFO]    git commit -m "Add Firman (2011) research materials"
+[2025-11-25 11:18:24] [INFO]    git push
+[2025-11-25 11:18:24] [INFO] 
+[2025-11-25 11:18:24] [SUCCESS] ========================================
+[2025-11-25 11:18:24] [SUCCESS] UPLOAD COMPLETE
+[2025-11-25 11:18:24] [SUCCESS] ========================================
+[2025-11-25 11:18:24] [SUCCESS] Files uploaded: 5
+[2025-11-25 11:18:24] [SUCCESS] Total size: 162.14 KB
+[2025-11-25 11:18:24] [SUCCESS] Log file: C:\Users\user\Documents\PhD\phd-sacred-bonds-thesis\automation\logs\Firman_Upload_20251125_111819.log
+[2025-11-25 11:18:24] [INFO] 
+[2025-11-25 11:18:24] [INFO] NEXT STEPS:
+[2025-11-25 11:18:24] [INFO] 1. Review uploaded files in GitBook repository
+[2025-11-25 11:18:24] [INFO] 2. Update SUMMARY.md to link to new materials (if needed)
+[2025-11-25 11:18:24] [INFO] 3. Test GitBook build locally: gitbook serve
+[2025-11-25 11:18:24] [INFO] 4. If not auto-committed, commit and push changes manually
