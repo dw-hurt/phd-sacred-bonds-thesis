@@ -1,0 +1,606 @@
+================================================================================
+GITBOOK REPOSITORY STRUCTURE ANALYSIS
+================================================================================
+Repository: C:\Users\user\Documents\PhD\phd-sacred-bonds-thesis
+Generated: 2025-11-25 13:23:05
+================================================================================
+
+
+================================================================================
+SECTION 1: DIRECTORY TREE STRUCTURE
+================================================================================
+
+├── citation_guide.md [977 bytes]
+├── commit-and-push.md [20 bytes]
+├── copy-files-to-project_management-folder.md [48 bytes]
+├── find-duplicates.ps1 [1.50 KB]
+├── Firman_2011_GitBook_Upload_Master_CORRECTED.ps1 [17.51 KB]
+├── GitBook_Structure_Analyzer.ps1 [15.24 KB]
+├── goal-have-chapter-2-draft-advancing-while-unlocking-chapter-3-material.md [77 bytes]
+├── navigate-to-ai-drive-location.md [35 bytes]
+├── phd-workflow.ps1 [820 bytes]
+├── README.md [995 bytes]
+├── source_inventory.md [2.57 KB]
+├── SUMMARY.md [6.51 KB]
+├── archive/ [750.93 KB]
+│   ├── archive_index.md [647 bytes]
+│   └── 2025-11-23_142730/ [750.30 KB]
+│       ├── add-progress-note.ps1 [449 bytes]
+│       ├── ARCHIVE_INFO.md [1005 bytes]
+│       ├── citation_guide.md [977 bytes]
+│       ├── commit-and-push.md [20 bytes]
+│       ├── copy-files-to-project_management-folder.md [48 bytes]
+│       ├── create_weekly_review.ps1 [7.75 KB]
+│       ├── daily_progress_simple.ps1 [1.95 KB]
+│       ├── daily_progress.ps1 [842 bytes]
+│       ├── goal-have-chapter-2-draft-advancing-while-unlocking-chapter-3-material.md [77 bytes]
+│       ├── navigate-to-ai-drive-location.md [35 bytes]
+│       ├── phd-workflow.ps1 [587 bytes]
+│       ├── README.md [995 bytes]
+│       ├── run-daily_progress.ps1-update-word-counts.md [50 bytes]
+│       ├── save-summary.md-ctrl+s.md [30 bytes]
+│       ├── setup_dw_hurt_dissertation (1).ps1 [25.11 KB]
+│       ├── source_inventory.md [1.65 KB]
+│       ├── source-processing-begin-processing-jung-psychology-of-transference.md [75 bytes]
+│       ├── start-writing-session.ps1 [505 bytes]
+│       ├── status-material-ready-15-quotes-available.md [55 bytes]
+│       ├── SUMMARY.md [5.84 KB]
+│       ├── SUMMARY.md.backup_20251121_232200 [4.21 KB]
+│       ├── SUMMARY.md.backup_before_fix [4.91 KB]
+│       ├── SUMMARY.md.backup.20251123_111438 [4.96 KB]
+│       ├── sync-to-gitbook.ps1 [354 bytes]
+│       ├── target-draft-section-1.2-research-questions-800-1-000-words.md [70 bytes]
+│       ├── target-draft-section-2.1-darwins-sexual-selection-framework-4-000-5-000-words.md [89 bytes]
+│       ├── test-gitbook-to-github.md [262 bytes]
+│       ├── test.md [268 bytes]
+│       ├── update-dashboard.ps1 [1.54 KB]
+│       ├── update-todo_list.md-check-off-tasks.md [44 bytes]
+│       ├── writing_session.ps1 [2.39 KB]
+│       ├── writing-continue-drafting-chapter-2-sections-sequentially.md [64 bytes]
+│       ├── chapters/ [16.62 KB]
+│       │   ├── README.md [14 bytes]
+│       │   ├── 00_front_matter/ [0 bytes]
+│       │   ├── 01_introduction/ [10.07 KB]
+│       │   │   ├── chapter_01_introduction.md [10.04 KB]
+│       │   │   ├── opening prologue [0 bytes]
+│       │   │   └── README.md [22 bytes]
+│       │   ├── 02_evolutionary_foundations/ [1.99 KB]
+│       │   │   └── chapter_02_evolutionary_foundations.md [1.99 KB]
+│       │   ├── 03_archetypal_dimensions/ [685 bytes]
+│       │   │   └── chapter_03_archetypal_dimensions.md [685 bytes]
+│       │   ├── 04_synchronicity/ [400 bytes]
+│       │   │   └── chapter_04_synchronicity.md [400 bytes]
+│       │   ├── 05_transpersonal_dimensions/ [400 bytes]
+│       │   │   └── chapter_05_transpersonal_dimensions.md [400 bytes]
+│       │   ├── 06_contemporary_crisis/ [303 bytes]
+│       │   │   └── chapter_06_contemporary_crisis.md [303 bytes]
+│       │   ├── 07_synthesis/ [280 bytes]
+│       │   │   └── chapter_07_synthesis.md [280 bytes]
+│       │   ├── 08_implications/ [287 bytes]
+│       │   │   └── chapter_08_implications.md [287 bytes]
+│       │   ├── 09_back_matter/ [0 bytes]
+│       │   ├── 09_implications/ [1.04 KB]
+│       │   │   └── chapter_09_implications.md [1.04 KB]
+│       │   └── 10_conclusion/ [1.21 KB]
+│       │       └── chapter_10_conclusion.md [1.21 KB]
+│       ├── front_matter/ [3.12 KB]
+│       │   └── abstract.md [3.12 KB]
+│       ├── notes/ [309.93 KB]
+│       │   ├── README.md [609 bytes]
+│       │   ├── advisor_meetings/ [0 bytes]
+│       │   ├── integration_notes/ [910 bytes]
+│       │   │   ├── README.md [910 bytes]
+│       │   │   ├── by_chapter/ [0 bytes]
+│       │   │   └── by_theme/ [0 bytes]
+│       │   ├── project_management/ [1.29 KB]
+│       │   │   └── source_inventory.md [1.29 KB]
+│       │   └── reading_notes/ [307.16 KB]
+│       │       ├── README.md [20 bytes]
+│       │       ├── by_chapter/ [3.03 KB]
+│       │       ├── by_source/ [300.34 KB]
+│       │       ├── by_topic/ [0 bytes]
+│       │       └── by_type/ [3.77 KB]
+│       ├── project_management/ [161.78 KB]
+│       │   ├── automation_guide.md [12.19 KB]
+│       │   ├── chapter_tracker.md [18.50 KB]
+│       │   ├── dashboard.md [2.32 KB]
+│       │   ├── dissertation_progress_summary_2025_11_23.md [34.75 KB]
+│       │   ├── progress_tracker.md [529 bytes]
+│       │   ├── README.md [10.55 KB]
+│       │   ├── source_inventory.md [14.17 KB]
+│       │   ├── stage_status.md [12.65 KB]
+│       │   ├── todo_list.md [7.92 KB]
+│       │   ├── todo.md [583 bytes]
+│       │   ├── weekly_review.md [6.38 KB]
+│       │   ├── scripts/ [37.95 KB]
+│       │   │   ├── add-todo.ps1 [7.87 KB]
+│       │   │   ├── archive-snapshot.ps1 [7.25 KB]
+│       │   │   ├── integrate-larsen.ps1 [14.58 KB]
+│       │   │   └── update-dashboard.ps1 [8.24 KB]
+│       │   └── weekly_reviews/ [3.32 KB]
+│       │       ├── README.md [447 bytes]
+│       │       └── weekly_review_2025-11-21.md [2.88 KB]
+│       ├── quotes/ [96.84 KB]
+│       │   ├── README.md [1.45 KB]
+│       │   ├── by_chapter/ [14.51 KB]
+│       │   │   ├── chapter_01_quotes.md [3.92 KB]
+│       │   │   ├── chapter_02_quotes.md [8.31 KB]
+│       │   │   ├── chapter_03_quotes.md [1.53 KB]
+│       │   │   ├── chapter_04_quotes.md [368 bytes]
+│       │   │   ├── chapter_05_quotes.md [388 bytes]
+│       │   │   └── README.md [17 bytes]
+│       │   ├── by_dimension/ [0 bytes]
+│       │   └── by_source/ [80.87 KB]
+│       │       ├── bertrand_et_al_hypergamy_quotes.md [23.67 KB]
+│       │       ├── fayyaz_2019_quotes.md [24.97 KB]
+│       │       ├── gangestad_simpson_quotes.md [32 bytes]
+│       │       ├── larsen_2023_polygyny_quotes.md [16.62 KB]
+│       │       └── limar_2011_quotes.md [15.58 KB]
+│       └── research_journal/ [94.99 KB]
+│           ├── 2025-11-19_synchronicity_modern_dating.md [2.10 KB]
+│           ├── journal_template.md [580 bytes]
+│           ├── README.md [720 bytes]
+│           ├── daily/ [365 bytes]
+│           │   └── 2025-11-22_progress.md [365 bytes]
+│           └── idea_linking/ [91.26 KB]
+│               ├── cross_reference_gangestad_simpson_all_sources.md [40.96 KB]
+│               └── cross_reference_larsen_all_sources.md [50.31 KB]
+├── automation/ [10.96 KB]
+│   └── logs/ [10.96 KB]
+│       ├── Firman_Upload_20251125_111819.log [5.01 KB]
+│       └── Firman_Upload_20251125_111839.log [5.95 KB]
+├── bibliography/ [2.74 KB]
+│   ├── bibliography-alphabetical.md [33 bytes]
+│   ├── README.md [0 bytes]
+│   ├── references.bib [720 bytes]
+│   ├── source_inventory.md [1.98 KB]
+│   └── source-inventory.md [22 bytes]
+├── chapters/ [16.79 KB]
+│   ├── README.md [14 bytes]
+│   ├── 00_front_matter/ [0 bytes]
+│   ├── 01_introduction/ [10.24 KB]
+│   │   ├── chapter_01_introduction.md [10.22 KB]
+│   │   ├── opening prologue [0 bytes]
+│   │   └── README.md [22 bytes]
+│   ├── 02_evolutionary_foundations/ [1.99 KB]
+│   │   └── chapter_02_evolutionary_foundations.md [1.99 KB]
+│   ├── 03_archetypal_dimensions/ [685 bytes]
+│   │   └── chapter_03_archetypal_dimensions.md [685 bytes]
+│   ├── 04_synchronicity/ [400 bytes]
+│   │   └── chapter_04_synchronicity.md [400 bytes]
+│   ├── 05_transpersonal_dimensions/ [400 bytes]
+│   │   └── chapter_05_transpersonal_dimensions.md [400 bytes]
+│   ├── 06_contemporary_crisis/ [303 bytes]
+│   │   └── chapter_06_contemporary_crisis.md [303 bytes]
+│   ├── 07_synthesis/ [280 bytes]
+│   │   └── chapter_07_synthesis.md [280 bytes]
+│   ├── 08_implications/ [287 bytes]
+│   │   └── chapter_08_implications.md [287 bytes]
+│   ├── 09_back_matter/ [0 bytes]
+│   ├── 09_implications/ [1.04 KB]
+│   │   └── chapter_09_implications.md [1.04 KB]
+│   └── 10_conclusion/ [1.21 KB]
+│       └── chapter_10_conclusion.md [1.21 KB]
+├── data/ [0 bytes]
+│   ├── dating_app_statistics/ [0 bytes]
+│   ├── relationship_outcomes/ [0 bytes]
+│   └── y_chromosome_bottleneck/ [0 bytes]
+├── front_matter/ [3.12 KB]
+│   └── abstract.md [3.12 KB]
+├── front-matter/ [22 bytes]
+│   └── acknowledgements.md [22 bytes]
+├── notes/ [311.02 KB]
+│   ├── README.md [609 bytes]
+│   ├── advisor_meetings/ [0 bytes]
+│   ├── integration_notes/ [910 bytes]
+│   │   ├── README.md [910 bytes]
+│   │   ├── by_chapter/ [0 bytes]
+│   │   │   ├── chapter_04/ [0 bytes]
+│   │   │   └── chapter_06/ [0 bytes]
+│   │   └── by_theme/ [0 bytes]
+│   ├── project_management/ [1.29 KB]
+│   │   └── source_inventory.md [1.29 KB]
+│   └── reading_notes/ [308.25 KB]
+│       ├── README.md [20 bytes]
+│       ├── by_chapter/ [4.11 KB]
+│       │   ├── chapter_01_notes.md [1.39 KB]
+│       │   ├── chapter_02_notes.md [633 bytes]
+│       │   ├── chapter_07_notes.md [920 bytes]
+│       │   └── README.md [1.21 KB]
+│       ├── by_source/ [300.34 KB]
+│       │   ├── bertrand_et_al_hypergamy_resource_record.md [31.85 KB]
+│       │   ├── bertrand_et_al_hypergamy_summary.md [37.61 KB]
+│       │   ├── buss_2023_mating_strategies_summary.md [33.41 KB]
+│       │   ├── fayyaz_2019_resource_record.md [18.65 KB]
+│       │   ├── fayyaz_2019_summary.md [19.32 KB]
+│       │   ├── gangestad_simpson_2000_source_summary.md [27.97 KB]
+│       │   ├── gangestad_simpson_resource_record.md [33.98 KB]
+│       │   ├── larsen_2023_polygyny_demographic_collapse_summary.md [29.24 KB]
+│       │   ├── larsen_2023_polygyny_resource_record.md [24.22 KB]
+│       │   ├── limar_2011_resource_record.md [22.68 KB]
+│       │   ├── limar_2011_summary.md [18.59 KB]
+│       │   └── README.md [2.83 KB]
+│       ├── by_topic/ [0 bytes]
+│       └── by_type/ [3.77 KB]
+│           ├── advisor_comments.md [850 bytes]
+│           ├── ideas.md [2.13 KB]
+│           └── README.md [833 bytes]
+├── outlines/ [0 bytes]
+│   └── chapter_briefs/ [0 bytes]
+├── project_management/ [200.15 KB]
+│   ├── automation_guide.md [12.19 KB]
+│   ├── chapter_tracker.md [18.50 KB]
+│   ├── dashboard.md [2.32 KB]
+│   ├── dissertation_progress_summary_2025_11_23.md [34.75 KB]
+│   ├── progress_tracker.md [529 bytes]
+│   ├── README.md [10.55 KB]
+│   ├── source_inventory.md [14.17 KB]
+│   ├── stage_status.md [12.65 KB]
+│   ├── todo_list.md [7.92 KB]
+│   ├── todo.md [583 bytes]
+│   ├── weekly_review.md [6.38 KB]
+│   ├── scripts/ [76.33 KB]
+│   │   ├── add-todo.ps1 [7.87 KB]
+│   │   ├── archive-snapshot.ps1 [7.25 KB]
+│   │   ├── integrate-larsen.ps1 [14.58 KB]
+│   │   ├── phd-master.ps1 [8.43 KB]
+│   │   ├── reorganize-quotes.ps1 [19.21 KB]
+│   │   ├── submit-writing.ps1 [10.74 KB]
+│   │   └── update-dashboard.ps1 [8.24 KB]
+│   └── weekly_reviews/ [3.32 KB]
+│       ├── README.md [447 bytes]
+│       └── weekly_review_2025-11-21.md [2.88 KB]
+├── project-management/ [63 bytes]
+│   ├── automation-scripts.md [31 bytes]
+│   └── writing-submissions.md [32 bytes]
+├── project-management-1/ [24 bytes]
+│   └── integration-script.md [24 bytes]
+├── quotes/ [256.47 KB]
+│   ├── QUOTE_INDEX.md [3.13 KB]
+│   ├── README.md [1.45 KB]
+│   ├── by_chapter/ [99.64 KB]
+│   │   ├── chapter_01_Introduction.md [5.39 KB]
+│   │   ├── chapter_01_quotes.md [3.92 KB]
+│   │   ├── chapter_02_Literature_Review.md [13.05 KB]
+│   │   ├── chapter_02_quotes.md [8.31 KB]
+│   │   ├── chapter_03_Mating_Strategies.md [12.69 KB]
+│   │   ├── chapter_03_quotes.md [1.53 KB]
+│   │   ├── chapter_04_Economic_Dimensions.md [14.65 KB]
+│   │   ├── chapter_04_quotes.md [368 bytes]
+│   │   ├── chapter_05_Psychological_Dimensions.md [9.48 KB]
+│   │   ├── chapter_05_quotes.md [388 bytes]
+│   │   ├── chapter_06_Cultural_Evolution.md [8.61 KB]
+│   │   ├── chapter_07_Sex_Ratio_Dynamics.md [8.46 KB]
+│   │   ├── chapter_08_Synthesis.md [4.17 KB]
+│   │   ├── chapter_09_Implications.md [5.65 KB]
+│   │   ├── chapter_10_Conclusion.md [2.98 KB]
+│   │   └── README.md [17 bytes]
+│   ├── by_dimension/ [0 bytes]
+│   ├── by_source/ [80.87 KB]
+│   │   ├── bertrand_et_al_hypergamy_quotes.md [23.67 KB]
+│   │   ├── fayyaz_2019_quotes.md [24.97 KB]
+│   │   ├── gangestad_simpson_quotes.md [32 bytes]
+│   │   ├── larsen_2023_polygyny_quotes.md [16.62 KB]
+│   │   └── limar_2011_quotes.md [15.58 KB]
+│   └── by_theme/ [71.37 KB]
+│       ├── Cultural_Influences.md [9.02 KB]
+│       ├── Demographic_Crisis.md [4.45 KB]
+│       ├── Economic_Factors.md [8.05 KB]
+│       ├── Hypergamy.md [9.92 KB]
+│       ├── Mating_Market.md [715 bytes]
+│       ├── Modernization_Effects.md [4.53 KB]
+│       ├── Parental_Investment.md [8.25 KB]
+│       ├── Polygyny.md [9.82 KB]
+│       ├── Psychological_Mechanisms.md [9.96 KB]
+│       └── Sexual_Selection.md [6.66 KB]
+├── research_journal/ [95.04 KB]
+│   ├── 2025-11-19_synchronicity_modern_dating.md [2.10 KB]
+│   ├── journal_template.md [580 bytes]
+│   ├── README.md [720 bytes]
+│   ├── daily/ [418 bytes]
+│   │   ├── 2025-11-22_progress.md [365 bytes]
+│   │   └── 2025-11-23_progress.md [53 bytes]
+│   └── idea_linking/ [91.26 KB]
+│       ├── cross_reference_gangestad_simpson_all_sources.md [40.96 KB]
+│       └── cross_reference_larsen_all_sources.md [50.31 KB]
+├── research_materials/ [60.68 KB]
+│   ├── thesis_outline.md [58.88 KB]
+│   └── summaries/ [1.80 KB]
+│       └── README.md [1.80 KB]
+├── research-materials/ [194 bytes]
+│   ├── research-materials-overview.md [33 bytes]
+│   └── quotes/ [161 bytes]
+│       ├── by_chapter/ [115 bytes]
+│       │   ├── chapter-06-quotes.md [23 bytes]
+│       │   ├── chapter-07-quotes.md [23 bytes]
+│       │   ├── chapter-08-quotes.md [23 bytes]
+│       │   ├── chapter-09-quotes.md [23 bytes]
+│       │   └── chapter-10-quotes.md [23 bytes]
+│       └── quotes-by-source/ [46 bytes]
+│           ├── buss-2023-quotes.md [24 bytes]
+│           └── README.md [22 bytes]
+├── sources/ [324.29 KB]
+│   ├── bibliography/ [10.71 KB]
+│   │   ├── Firman_2011_Bibliography.bib [5.36 KB]
+│   │   └── Firman_2011_Bibliography.bib.backup_20251125_111842 [5.36 KB]
+│   ├── comparative_analyses/ [77.56 KB]
+│   │   ├── Firman_Larsen_Comparative_Analysis.md [38.78 KB]
+│   │   └── Firman_Larsen_Comparative_Analysis.md.backup_20251125_111842 [38.78 KB]
+│   ├── integration_guides/ [84.31 KB]
+│   │   ├── Firman_2011_Chapter_Integration_Guide.md [42.16 KB]
+│   │   └── Firman_2011_Chapter_Integration_Guide.md.backup_20251125_111842 [42.16 KB]
+│   ├── quotes/ [57.69 KB]
+│   │   ├── Firman_2011_Quotes_Database.md [28.84 KB]
+│   │   └── Firman_2011_Quotes_Database.md.backup_20251125_111842 [28.84 KB]
+│   └── summaries/ [94.02 KB]
+│       ├── Firman_2011_Source_Summary.md [47.01 KB]
+│       └── Firman_2011_Source_Summary.md.backup_20251125_111842 [47.01 KB]
+├── synthesis/ [0 bytes]
+└── templates/ [0 bytes]
+
+
+================================================================================
+SECTION 2: FILE INVENTORY SUMMARY
+================================================================================
+
+Total Files: 245
+Total Size: 2.03 MB
+
+
+================================================================================
+SECTION 3: FILES BY TYPE
+================================================================================
+
+Extension                 Count      Total Size
+--------------------------------------------------
+.md                         206         1.66 MB
+.ps1                         25       190.74 KB
+.backup_20251125_111842          5       162.14 KB
+(no extension)                2         0 bytes
+.bib                          2         6.06 KB
+.log                          2        10.96 KB
+.20251123_111438              1         4.96 KB
+.backup_20251121_232200          1         4.21 KB
+.backup_before_fix            1         4.91 KB
+
+
+================================================================================
+SECTION 4: SUMMARY.MD ANALYSIS
+================================================================================
+
+Status: ✓ Found
+Lines: 118
+Total Links: 80
+Valid File Links: 80
+
+✓ No broken links detected
+
+Linked Files in SUMMARY.md:
+--------------------------------------------------
+  • README.md
+  • front_matter/abstract.md
+  • front-matter/acknowledgements.md
+  • chapters/01_introduction/chapter_01_introduction.md
+  • chapters/02_evolutionary_foundations/chapter_02_evolutionary_foundations.md
+  • chapters/03_archetypal_dimensions/chapter_03_archetypal_dimensions.md
+  • chapters/04_synchronicity/chapter_04_synchronicity.md
+  • chapters/05_transpersonal_dimensions/chapter_05_transpersonal_dimensions.md
+  • chapters/06_contemporary_crisis/chapter_06_contemporary_crisis.md
+  • chapters/07_synthesis/chapter_07_synthesis.md
+  • chapters/08_implications/chapter_08_implications.md
+  • chapters/09_implications/chapter_09_implications.md
+  • chapters/10_conclusion/chapter_10_conclusion.md
+  • notes/README.md
+  • notes/reading_notes/by_chapter/README.md
+  • notes/reading_notes/by_source/README.md
+  • notes/reading_notes/by_source/bertrand_et_al_hypergamy_summary.md
+  • notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md
+  • notes/reading_notes/by_source/fayyaz_2019_summary.md
+  • notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md
+  • notes/reading_notes/by_source/limar_2011_summary.md
+  • notes/reading_notes/by_type/README.md
+  • notes/reading_notes/by_type/ideas.md
+  • notes/reading_notes/by_type/advisor_comments.md
+  • notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md
+  • notes/reading_notes/by_source/gangestad_simpson_resource_record.md
+  • quotes/by_source/gangestad_simpson_quotes.md
+  • research-materials/research-materials-overview.md
+  • research_materials/summaries/README.md
+  • notes/reading_notes/by_source/bertrand_et_al_hypergamy_summary.md
+  • notes/reading_notes/by_source/bertrand_et_al_hypergamy_resource_record.md
+  • notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md
+  • notes/reading_notes/by_source/fayyaz_2019_summary.md
+  • notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md
+  • notes/reading_notes/by_source/limar_2011_summary.md
+  • sources/summaries/Firman_2011_Source_Summary.md
+  • sources/quotes/Firman_2011_Quotes_Database.md
+  • sources/integration_guides/Firman_2011_Chapter_Integration_Guide.md
+  • sources/bibliography/Firman_2011_Bibliography.bib
+  • sources/comparative_analyses/Firman_Larsen_Comparative_Analysis.md
+  • quotes/README.md
+  • research-materials/quotes/quotes-by-source/README.md
+  • quotes/by_source/bertrand_et_al_hypergamy_quotes.md
+  • research-materials/quotes/quotes-by-source/buss-2023-quotes.md
+  • quotes/by_source/fayyaz_2019_quotes.md
+  • quotes/by_source/gangestad_simpson_quotes.md
+  • quotes/by_source/limar_2011_quotes.md
+  • quotes/by_chapter/README.md
+  • quotes/by_chapter/chapter_01_quotes.md
+  • quotes/by_chapter/chapter_02_quotes.md
+  • quotes/by_chapter/chapter_03_quotes.md
+  • quotes/by_chapter/chapter_04_quotes.md
+  • quotes/by_chapter/chapter_05_quotes.md
+  • research-materials/quotes/by_chapter/chapter-06-quotes.md
+  • research-materials/quotes/by_chapter/chapter-07-quotes.md
+  • research-materials/quotes/by_chapter/chapter-08-quotes.md
+  • research-materials/quotes/by_chapter/chapter-09-quotes.md
+  • research-materials/quotes/by_chapter/chapter-10-quotes.md
+  • research_materials/thesis_outline.md
+  • research_journal/README.md
+  • research_journal/idea_linking/cross_reference_gangestad_simpson_all_sources.md
+  • notes/integration_notes/README.md
+  • bibliography/README.md
+  • bibliography/source_inventory.md
+  • project_management/README.md
+  • project_management/automation_guide.md
+  • project_management/chapter_tracker.md
+  • project_management/progress_tracker.md
+  • project_management/todo_list.md
+  • project_management/todo.md
+  • project_management/dashboard.md
+  • archive/archive_index.md
+  • project-management/writing-submissions.md
+  • project-management/automation-scripts.md
+  • notes/reading_notes/by_source/larsen_2023_polygyny_demographic_collapse_summary.md
+  • notes/reading_notes/by_source/larsen_2023_polygyny_resource_record.md
+  • quotes/by_source/larsen_2023_polygyny_quotes.md
+  • research_journal/idea_linking/cross_reference_larsen_all_sources.md
+  • project_management/dissertation_progress_summary_2025_11_23.md
+  • project-management-1/integration-script.md
+
+
+================================================================================
+SECTION 5: ORPHANED FILES (Not in SUMMARY.md)
+================================================================================
+
+⚠ Found 114 orphaned Markdown files:
+
+  • citation_guide.md
+  • commit-and-push.md
+  • copy-files-to-project_management-folder.md
+  • goal-have-chapter-2-draft-advancing-while-unlocking-chapter-3-material.md
+  • navigate-to-ai-drive-location.md
+  • source_inventory.md
+  • archive/2025-11-23_142730/ARCHIVE_INFO.md
+  • archive/2025-11-23_142730/citation_guide.md
+  • archive/2025-11-23_142730/commit-and-push.md
+  • archive/2025-11-23_142730/copy-files-to-project_management-folder.md
+  • archive/2025-11-23_142730/goal-have-chapter-2-draft-advancing-while-unlocking-chapter-3-material.md
+  • archive/2025-11-23_142730/navigate-to-ai-drive-location.md
+  • archive/2025-11-23_142730/run-daily_progress.ps1-update-word-counts.md
+  • archive/2025-11-23_142730/save-summary.md-ctrl+s.md
+  • archive/2025-11-23_142730/source_inventory.md
+  • archive/2025-11-23_142730/source-processing-begin-processing-jung-psychology-of-transference.md
+  • archive/2025-11-23_142730/status-material-ready-15-quotes-available.md
+  • archive/2025-11-23_142730/target-draft-section-1.2-research-questions-800-1-000-words.md
+  • archive/2025-11-23_142730/target-draft-section-2.1-darwins-sexual-selection-framework-4-000-5-000-words.md
+  • archive/2025-11-23_142730/test-gitbook-to-github.md
+  • archive/2025-11-23_142730/test.md
+  • archive/2025-11-23_142730/update-todo_list.md-check-off-tasks.md
+  • archive/2025-11-23_142730/writing-continue-drafting-chapter-2-sections-sequentially.md
+  • archive/2025-11-23_142730/chapters/01_introduction/chapter_01_introduction.md
+  • archive/2025-11-23_142730/chapters/02_evolutionary_foundations/chapter_02_evolutionary_foundations.md
+  • archive/2025-11-23_142730/chapters/03_archetypal_dimensions/chapter_03_archetypal_dimensions.md
+  • archive/2025-11-23_142730/chapters/04_synchronicity/chapter_04_synchronicity.md
+  • archive/2025-11-23_142730/chapters/05_transpersonal_dimensions/chapter_05_transpersonal_dimensions.md
+  • archive/2025-11-23_142730/chapters/06_contemporary_crisis/chapter_06_contemporary_crisis.md
+  • archive/2025-11-23_142730/chapters/07_synthesis/chapter_07_synthesis.md
+  • archive/2025-11-23_142730/chapters/08_implications/chapter_08_implications.md
+  • archive/2025-11-23_142730/chapters/09_implications/chapter_09_implications.md
+  • archive/2025-11-23_142730/chapters/10_conclusion/chapter_10_conclusion.md
+  • archive/2025-11-23_142730/front_matter/abstract.md
+  • archive/2025-11-23_142730/notes/project_management/source_inventory.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_chapter/chapter_01_notes.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_chapter/chapter_02_notes.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_chapter/chapter_07_notes.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_source/bertrand_et_al_hypergamy_resource_record.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_source/bertrand_et_al_hypergamy_summary.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_source/fayyaz_2019_resource_record.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_source/fayyaz_2019_summary.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_source/gangestad_simpson_resource_record.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_source/larsen_2023_polygyny_demographic_collapse_summary.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_source/larsen_2023_polygyny_resource_record.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_source/limar_2011_resource_record.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_source/limar_2011_summary.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_type/advisor_comments.md
+  • archive/2025-11-23_142730/notes/reading_notes/by_type/ideas.md
+  • archive/2025-11-23_142730/project_management/automation_guide.md
+  • archive/2025-11-23_142730/project_management/chapter_tracker.md
+  • archive/2025-11-23_142730/project_management/dashboard.md
+  • archive/2025-11-23_142730/project_management/dissertation_progress_summary_2025_11_23.md
+  • archive/2025-11-23_142730/project_management/progress_tracker.md
+  • archive/2025-11-23_142730/project_management/source_inventory.md
+  • archive/2025-11-23_142730/project_management/stage_status.md
+  • archive/2025-11-23_142730/project_management/todo_list.md
+  • archive/2025-11-23_142730/project_management/todo.md
+  • archive/2025-11-23_142730/project_management/weekly_review.md
+  • archive/2025-11-23_142730/project_management/weekly_reviews/weekly_review_2025-11-21.md
+  • archive/2025-11-23_142730/quotes/by_chapter/chapter_01_quotes.md
+  • archive/2025-11-23_142730/quotes/by_chapter/chapter_02_quotes.md
+  • archive/2025-11-23_142730/quotes/by_chapter/chapter_03_quotes.md
+  • archive/2025-11-23_142730/quotes/by_chapter/chapter_04_quotes.md
+  • archive/2025-11-23_142730/quotes/by_chapter/chapter_05_quotes.md
+  • archive/2025-11-23_142730/quotes/by_source/bertrand_et_al_hypergamy_quotes.md
+  • archive/2025-11-23_142730/quotes/by_source/fayyaz_2019_quotes.md
+  • archive/2025-11-23_142730/quotes/by_source/gangestad_simpson_quotes.md
+  • archive/2025-11-23_142730/quotes/by_source/larsen_2023_polygyny_quotes.md
+  • archive/2025-11-23_142730/quotes/by_source/limar_2011_quotes.md
+  • archive/2025-11-23_142730/research_journal/2025-11-19_synchronicity_modern_dating.md
+  • archive/2025-11-23_142730/research_journal/journal_template.md
+  • archive/2025-11-23_142730/research_journal/daily/2025-11-22_progress.md
+  • archive/2025-11-23_142730/research_journal/idea_linking/cross_reference_gangestad_simpson_all_sources.md
+  • archive/2025-11-23_142730/research_journal/idea_linking/cross_reference_larsen_all_sources.md
+  • bibliography/bibliography-alphabetical.md
+  • bibliography/source-inventory.md
+  • notes/project_management/source_inventory.md
+  • notes/reading_notes/by_chapter/chapter_01_notes.md
+  • notes/reading_notes/by_chapter/chapter_02_notes.md
+  • notes/reading_notes/by_chapter/chapter_07_notes.md
+  • notes/reading_notes/by_source/fayyaz_2019_resource_record.md
+  • notes/reading_notes/by_source/limar_2011_resource_record.md
+  • project_management/source_inventory.md
+  • project_management/stage_status.md
+  • project_management/weekly_review.md
+  • project_management/weekly_reviews/weekly_review_2025-11-21.md
+  • quotes/QUOTE_INDEX.md
+  • quotes/by_chapter/chapter_01_Introduction.md
+  • quotes/by_chapter/chapter_02_Literature_Review.md
+  • quotes/by_chapter/chapter_03_Mating_Strategies.md
+  • quotes/by_chapter/chapter_04_Economic_Dimensions.md
+  • quotes/by_chapter/chapter_05_Psychological_Dimensions.md
+  • quotes/by_chapter/chapter_06_Cultural_Evolution.md
+  • quotes/by_chapter/chapter_07_Sex_Ratio_Dynamics.md
+  • quotes/by_chapter/chapter_08_Synthesis.md
+  • quotes/by_chapter/chapter_09_Implications.md
+  • quotes/by_chapter/chapter_10_Conclusion.md
+  • quotes/by_theme/Cultural_Influences.md
+  • quotes/by_theme/Demographic_Crisis.md
+  • quotes/by_theme/Economic_Factors.md
+  • quotes/by_theme/Hypergamy.md
+  • quotes/by_theme/Mating_Market.md
+  • quotes/by_theme/Modernization_Effects.md
+  • quotes/by_theme/Parental_Investment.md
+  • quotes/by_theme/Polygyny.md
+  • quotes/by_theme/Psychological_Mechanisms.md
+  • quotes/by_theme/Sexual_Selection.md
+  • research_journal/2025-11-19_synchronicity_modern_dating.md
+  • research_journal/journal_template.md
+  • research_journal/daily/2025-11-22_progress.md
+  • research_journal/daily/2025-11-23_progress.md
+
+
+================================================================================
+SECTION 6: OPTIMIZATION RECOMMENDATIONS
+================================================================================
+
+⚠ Backup/Temporary Files Detected (8 files):
+  • archive\2025-11-23_142730\SUMMARY.md.backup_20251121_232200
+  • archive\2025-11-23_142730\SUMMARY.md.backup_before_fix
+  • archive\2025-11-23_142730\SUMMARY.md.backup.20251123_111438
+  • sources\bibliography\Firman_2011_Bibliography.bib.backup_20251125_111842
+  • sources\comparative_analyses\Firman_Larsen_Comparative_Analysis.md.backup_20251125_111842
+  • sources\integration_guides\Firman_2011_Chapter_Integration_Guide.md.backup_20251125_111842
+  • sources\quotes\Firman_2011_Quotes_Database.md.backup_20251125_111842
+  • sources\summaries\Firman_2011_Source_Summary.md.backup_20251125_111842
+  → Consider cleaning up backup files or adding to .gitignore
+
+⚠ Orphaned Files (114 files not linked in SUMMARY.md):
+  These files exist but aren't accessible through GitBook navigation
+  → Add links to SUMMARY.md or remove unused files
+
+
+================================================================================
+END OF REPORT
+================================================================================
