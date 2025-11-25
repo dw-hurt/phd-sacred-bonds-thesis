@@ -1,0 +1,767 @@
+====================================================================================================
+GITBOOK CONFIGURATION & CONTENT STRUCTURE ANALYSIS
+Generated: 2025-11-25 16:31:01
+====================================================================================================
+
+====================================================================================================
+SECTION 1: GITBOOK CONFIGURATION FILES
+====================================================================================================
+
+.gitbook.yaml: NOT FOUND
+
+book.json: NOT FOUND
+
+.gitbook/ directory: NOT FOUND
+
+====================================================================================================
+SECTION 2: SUMMARY.MD STRUCTURE (TABLE OF CONTENTS)
+====================================================================================================
+
+Total Lines: 128
+
+--- Full SUMMARY.md Content ---
+# Table of contents
+
+* [Pair bonding, reproduction and Jungian Archetypes](README.md)
+
+## Front Matter
+
+* [Abstract](front_matter/abstract.md)
+* [Acknowledgements](front-matter/acknowledgements.md)
+
+## Working Documents
+
+* [Chapter 1: Introduction](chapters/01_introduction/chapter_01_introduction.md)
+* [Chapter 2: Evolutionary Foundations](chapters/02_evolutionary_foundations/chapter_02_evolutionary_foundations.md)
+* [Chapter 3: Archetypal Dimensions](chapters/03_archetypal_dimensions/chapter_03_archetypal_dimensions.md)
+* [Chapter 4: Synchronicity](chapters/04_synchronicity/chapter_04_synchronicity.md)
+* [Chapter 5: Transpersonal Dimensions](chapters/05_transpersonal_dimensions/chapter_05_transpersonal_dimensions.md)
+* [Chapter 6: Contemporary Crisis](chapters/06_contemporary_crisis/chapter_06_contemporary_crisis.md)
+* [Chapter 7: Synthesis](chapters/07_synthesis/chapter_07_synthesis.md)
+* [Chapter 8: Implications](chapters/08_implications/chapter_08_implications.md)
+* [Chapter 9: Applications](chapters/09_implications/chapter_09_implications.md)
+* [Chapter 10: Conclusion](chapters/10_conclusion/chapter_10_conclusion.md)
+
+## Reading Notes
+
+* [Reading Notes Overview](notes/README.md)
+  * [By Chapter Notes](notes/reading_notes/by_chapter/README.md)
+  * [By Source Notes](notes/reading_notes/by_source/README.md)
+    * [Bertrand et al. - Economics of Hypergamy](notes/reading_notes/by_source/bertrand_et_al_hypergamy_summary.md)
+    * [Buss (2023) - Mating Strategies](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
+    * [Fayyaz (2019) - SST Critique](notes/reading_notes/by_source/fayyaz_2019_summary.md)
+    * [Gangestad & Simpson - Sexual Selection](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
+    * [Limar (2011) - DNA & Consciousness](notes/reading_notes/by_source/limar_2011_summary.md)
+
+
+### Firman & Simmons (2011) - Postcopulatory Sexual Selection ⭐
+
+* [📄 Source Summary](sources/summaries/Firman_2011_Source_Summary.md)
+* [💬 Quotes Database (35 quotes)](sources/quotes/Firman_2011_Quotes_Database.md)
+* [🔗 Chapter Integration Guide](sources/integration_guides/Firman_2011_Chapter_Integration_Guide.md)
+* [📊 Firman-Larsen Comparative Analysis](sources/comparative_analyses/Firman_Larsen_Comparative_Analysis.md)
+* [📚 Bibliography (BibTeX)](sources/bibliography/Firman_2011_Bibliography.bib)
+
+  * [By Type Notes](notes/reading_notes/by_type/README.md)
+    * [Ideas & Connections](notes/reading_notes/by_type/ideas.md)
+    * [Advisor Comments](notes/reading_notes/by_type/advisor_comments.md)
+* [Source Summary](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
+* [Resource Record](notes/reading_notes/by_source/gangestad_simpson_resource_record.md)
+* [Quotes Database](quotes/by_source/gangestad_simpson_quotes.md)
+
+## Research Materials
+
+* [Research Materials Overview](research-materials/research-materials-overview.md)
+* [Source Summaries & Resource Records](research_materials/summaries/README.md)
+  * [Bertrand et al. - Hypergamy Summary](notes/reading_notes/by_source/bertrand_et_al_hypergamy_summary.md)
+  * [Bertrand et al. - Resource Record](notes/reading_notes/by_source/bertrand_et_al_hypergamy_resource_record.md)
+  * [Buss (2023) Summary](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
+  * [Fayyaz (2019) Summary](notes/reading_notes/by_source/fayyaz_2019_summary.md)
+  * [Source Summary](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
+  * [Limar (2011) Summary](notes/reading_notes/by_source/limar_2011_summary.md)
+  * [Source Summary](sources/summaries/Firman_2011_Source_Summary.md)
+  * [Quotes Database](sources/quotes/Firman_2011_Quotes_Database.md)
+  * [Chapter Integration Guide](sources/integration_guides/Firman_2011_Chapter_Integration_Guide.md)
+  * [Bibliography](sources/bibliography/Firman_2011_Bibliography.bib)
+  * [Comparative Analysis: Firman-Larsen](sources/comparative_analyses/Firman_Larsen_Comparative_Analysis.md)
+  * [Quotes Collection](quotes/README.md)
+  * [Quotes by Source](research-materials/quotes/quotes-by-source/README.md)
+    * [Bertrand et al. Quotes](quotes/by_source/bertrand_et_al_hypergamy_quotes.md)
+    * [Buss (2023) Quotes](research-materials/quotes/quotes-by-source/buss-2023-quotes.md)
+    * [Fayyaz (2019) Quotes](quotes/by_source/fayyaz_2019_quotes.md)
+    * [Gangestad & Simpson Quotes](quotes/by_source/gangestad_simpson_quotes.md)
+    * [Limar (2011) Quotes](quotes/by_source/limar_2011_quotes.md)
+  * [Quotes by Chapter](quotes/by_chapter/README.md)
+    * [Chapter 01 Quotes](quotes/by_chapter/chapter_01_quotes.md)
+    * [Chapter 02 Quotes](quotes/by_chapter/chapter_02_quotes.md)
+    * [Chapter 03 Quotes](quotes/by_chapter/chapter_03_quotes.md)
+    * [Chapter 04 Quotes](quotes/by_chapter/chapter_04_quotes.md)
+    * [Chapter 05 Quotes](quotes/by_chapter/chapter_05_quotes.md)
+    * [Chapter 06 Quotes](research-materials/quotes/by_chapter/chapter-06-quotes.md)
+    * [Chapter 07 Quotes](research-materials/quotes/by_chapter/chapter-07-quotes.md)
+    * [Chapter 08 Quotes](research-materials/quotes/by_chapter/chapter-08-quotes.md)
+    * [Chapter 09 Quotes](research-materials/quotes/by_chapter/chapter-09-quotes.md)
+    * [Chapter 10 Quotes](research-materials/quotes/by_chapter/chapter-10-quotes.md)
+* [Thesis Outline](research_materials/thesis_outline.md)
+
+## Research Journal
+
+* [Journal Home](research_journal/README.md)
+* [Gangestad & Simpson ? All Sources](research_journal/idea_linking/cross_reference_gangestad_simpson_all_sources.md)
+
+## Integration Notes
+
+* [Integration Overview](notes/integration_notes/README.md)
+
+## Bibliography
+
+* [Bibliography (Alphabetical)](bibliography/README.md)
+* [Source Inventory](bibliography/source_inventory.md)
+
+## Project Management
+
+* [Project Overview](project_management/README.md)
+* [Workflow Automation Guide](project_management/automation_guide.md)
+* [Chapter Tracker](project_management/chapter_tracker.md)
+* [Progress Tracker](project_management/progress_tracker.md)
+* [Todo List](project_management/todo_list.md)
+* [📋 ToDo List (Automated)](project_management/todo.md)
+* [📊 Dashboard (Automated)](project_management/dashboard.md)
+* [🗄️ Archive Index](archive/archive_index.md)
+* [✍️ Writing Submissions](project-management/writing-submissions.md)
+* [⚙️ Automation Scripts](project-management/automation-scripts.md)
+
+## Reading Notes
+
+* [Source Summary](notes/reading_notes/by_source/larsen_2023_polygyny_demographic_collapse_summary.md)
+* [Resource Record / Bibliography](notes/reading_notes/by_source/larsen_2023_polygyny_resource_record.md)
+
+## Quotes
+
+* [Quotes by Chapter](quotes/by_source/larsen_2023_polygyny_quotes.md)
+
+## Cross-References & Integration
+
+* [Cross-Reference: Larsen ? All Sources](research_journal/idea_linking/cross_reference_larsen_all_sources.md)
+
+## Project Management
+
+* [Progress Summary - Nov 23, 2025](project_management/dissertation_progress_summary_2025_11_23.md)
+* [Integration Script](project-management-1/integration-script.md)
+
+--- Structure Analysis ---
+Level 1 items (chapters): 46
+Level 2 items (sections): 17
+Level 3 items (subsections): 22
+Level 4 items (sub-subsections): 0
+
+====================================================================================================
+SECTION 3: DIRECTORY STRUCTURE & FILE ORGANIZATION
+====================================================================================================
+
+--- Top-Level Directories ---
+archive/ - 105 files
+automation/ - 2 files
+bibliography/ - 5 files
+chapters/ - 13 files
+data/ - 0 files
+front_matter/ - 1 files
+front-matter/ - 1 files
+notes/ - 23 files
+outlines/ - 0 files
+project_management/ - 20 files
+project-management/ - 2 files
+project-management-1/ - 1 files
+quotes/ - 33 files
+research_journal/ - 7 files
+research_materials/ - 2 files
+research-materials/ - 8 files
+sources/ - 5 files
+synthesis/ - 0 files
+templates/ - 0 files
+
+--- File Type Distribution ---
+Markdown files (.md): 206
+HTML files: 0
+JavaScript files: 0
+CSS files: 0
+Image files: 0
+PDF files: 0
+PowerShell scripts: 30
+Bibliography files (.bib): 2
+
+====================================================================================================
+SECTION 4: CHAPTER FILES ANALYSIS
+====================================================================================================
+
+Found 65 chapter files:
+
+File: ./archive/2025-11-23_142730/chapters/01_introduction/chapter_01_introduction.md
+  Size: 10285 bytes
+  Lines: 279
+  Word Count: ~1283
+  Title: # Chapter 1: Introduction - Sacred Bonds and Sexual Selection
+
+File: ./archive/2025-11-23_142730/chapters/01_introduction/README.md
+  Size: 22 bytes
+  Lines: 2
+  Word Count: ~3
+  Title: # 01\_introduction
+
+File: ./archive/2025-11-23_142730/chapters/02_evolutionary_foundations/chapter_02_evolutionary_foundations.md
+  Size: 2033 bytes
+  Lines: 62
+  Word Count: ~253
+  Title: # Chapter 2: Evolutionary Psychology Foundations
+
+File: ./archive/2025-11-23_142730/chapters/03_archetypal_dimensions/chapter_03_archetypal_dimensions.md
+  Size: 685 bytes
+  Lines: 17
+  Word Count: ~90
+  Title: # Chapter 3: Archetypal Dimensions of Mating
+
+File: ./archive/2025-11-23_142730/chapters/04_synchronicity/chapter_04_synchronicity.md
+  Size: 400 bytes
+  Lines: 16
+  Word Count: ~46
+  Title: # Chapter 4: Synchronicity in Relationship Formation
+
+File: ./archive/2025-11-23_142730/chapters/05_transpersonal_dimensions/chapter_05_transpersonal_dimensions.md
+  Size: 400 bytes
+  Lines: 16
+  Word Count: ~48
+  Title: # Chapter 5: Transpersonal Dimensions in Human Mating
+
+File: ./archive/2025-11-23_142730/chapters/06_contemporary_crisis/chapter_06_contemporary_crisis.md
+  Size: 303 bytes
+  Lines: 14
+  Word Count: ~41
+  Title: # Chapter 6: Contemporary Mating Crisis
+
+File: ./archive/2025-11-23_142730/chapters/07_synthesis/chapter_07_synthesis.md
+  Size: 280 bytes
+  Lines: 14
+  Word Count: ~36
+  Title: # Chapter 7: Synthesis and Integration
+
+File: ./archive/2025-11-23_142730/chapters/08_implications/chapter_08_implications.md
+  Size: 287 bytes
+  Lines: 14
+  Word Count: ~37
+  Title: # Chapter 8: Implications and Applications
+
+File: ./archive/2025-11-23_142730/chapters/09_implications/chapter_09_implications.md
+  Size: 1063 bytes
+  Lines: 58
+  Word Count: ~137
+  Title: # Chapter 9: Implications and Applications
+
+File: ./archive/2025-11-23_142730/chapters/10_conclusion/chapter_10_conclusion.md
+  Size: 1243 bytes
+  Lines: 64
+  Word Count: ~166
+  Title: # Chapter 10: Conclusion - Toward Integrated Pair Bonding
+
+File: ./archive/2025-11-23_142730/chapters/README.md
+  Size: 14 bytes
+  Lines: 2
+  Word Count: ~3
+  Title: # chapters
+
+File: ./archive/2025-11-23_142730/goal-have-chapter-2-draft-advancing-while-unlocking-chapter-3-material.md
+  Size: 77 bytes
+  Lines: 2
+  Word Count: ~13
+  Title: # Goal: Have Chapter 2 draft advancing while unlocking Chapter 3 material
+
+File: ./archive/2025-11-23_142730/notes/reading_notes/by_chapter/chapter_01_notes.md
+  Size: 309 bytes
+  Lines: 14
+  Word Count: ~51
+  Title: # Chapter 1: Introduction - Reading Notes
+
+File: ./archive/2025-11-23_142730/notes/reading_notes/by_chapter/chapter_02_notes.md
+  Size: 633 bytes
+  Lines: 19
+  Word Count: ~95
+  Title: # Chapter 2: Evolutionary Psychology - Reading Notes
+
+File: ./archive/2025-11-23_142730/notes/reading_notes/by_chapter/chapter_07_notes.md
+  Size: 920 bytes
+  Lines: 19
+  Word Count: ~129
+  Title: # Chapter 7: Synchronistic/Acausal Dimension - Reading Notes
+
+File: ./archive/2025-11-23_142730/notes/reading_notes/by_chapter/README.md
+  Size: 1236 bytes
+  Lines: 42
+  Word Count: ~149
+  Title: # Reading Notes by Chapter
+
+File: ./archive/2025-11-23_142730/project_management/chapter_tracker.md
+  Size: 18947 bytes
+  Lines: 419
+  Word Count: ~3002
+  Title: # Chapter Tracker - Detailed Progress by Chapter
+
+File: ./archive/2025-11-23_142730/quotes/by_chapter/chapter_01_quotes.md
+  Size: 4015 bytes
+  Lines: 101
+  Word Count: ~553
+  Title: # Chapter 1 Quotes: Introduction - Modern Mating Paradox
+
+File: ./archive/2025-11-23_142730/quotes/by_chapter/chapter_02_quotes.md
+  Size: 8507 bytes
+  Lines: 168
+  Word Count: ~1104
+  Title: ## Source: Buss (2023) - The Sexual Selection of Human Mating Strategies
+
+File: ./archive/2025-11-23_142730/quotes/by_chapter/chapter_03_quotes.md
+  Size: 1563 bytes
+  Lines: 47
+  Word Count: ~209
+  Title: # Chapter 3: Jungian Archetypal Psychology - Quote Database
+
+File: ./archive/2025-11-23_142730/quotes/by_chapter/chapter_04_quotes.md
+  Size: 368 bytes
+  Lines: 13
+  Word Count: ~46
+  Title: # Chapter 4: Synchronicity and Acausal Connection - Quote Database
+
+File: ./archive/2025-11-23_142730/quotes/by_chapter/chapter_05_quotes.md
+  Size: 388 bytes
+  Lines: 13
+  Word Count: ~46
+  Title: # Chapter 5: Transpersonal and Psychoid Dimensions - Quote Database
+
+File: ./archive/2025-11-23_142730/quotes/by_chapter/README.md
+  Size: 17 bytes
+  Lines: 2
+  Word Count: ~3
+  Title: # by\_chapter
+
+File: ./archive/2025-11-23_142730/writing-continue-drafting-chapter-2-sections-sequentially.md
+  Size: 64 bytes
+  Lines: 2
+  Word Count: ~9
+  Title: # Writing: Continue drafting Chapter 2 sections sequentially
+
+File: ./chapters/01_introduction/chapter_01_introduction.md
+  Size: 10468 bytes
+  Lines: 282
+  Word Count: ~1306
+  Title: # Chapter 1: Introduction
+
+File: ./chapters/01_introduction/README.md
+  Size: 22 bytes
+  Lines: 2
+  Word Count: ~3
+  Title: # 01\_introduction
+
+File: ./chapters/02_evolutionary_foundations/chapter_02_evolutionary_foundations.md
+  Size: 2033 bytes
+  Lines: 62
+  Word Count: ~253
+  Title: # Chapter 2: Evolutionary Psychology Foundations
+
+File: ./chapters/03_archetypal_dimensions/chapter_03_archetypal_dimensions.md
+  Size: 685 bytes
+  Lines: 17
+  Word Count: ~90
+  Title: # Chapter 3: Archetypal Dimensions of Mating
+
+File: ./chapters/04_synchronicity/chapter_04_synchronicity.md
+  Size: 400 bytes
+  Lines: 16
+  Word Count: ~46
+  Title: # Chapter 4: Synchronicity in Relationship Formation
+
+File: ./chapters/05_transpersonal_dimensions/chapter_05_transpersonal_dimensions.md
+  Size: 400 bytes
+  Lines: 16
+  Word Count: ~48
+  Title: # Chapter 5: Transpersonal Dimensions in Human Mating
+
+File: ./chapters/06_contemporary_crisis/chapter_06_contemporary_crisis.md
+  Size: 303 bytes
+  Lines: 14
+  Word Count: ~41
+  Title: # Chapter 6: Contemporary Mating Crisis
+
+File: ./chapters/07_synthesis/chapter_07_synthesis.md
+  Size: 280 bytes
+  Lines: 14
+  Word Count: ~36
+  Title: # Chapter 7: Synthesis and Integration
+
+File: ./chapters/08_implications/chapter_08_implications.md
+  Size: 287 bytes
+  Lines: 14
+  Word Count: ~37
+  Title: # Chapter 8: Implications and Applications
+
+File: ./chapters/09_implications/chapter_09_implications.md
+  Size: 1063 bytes
+  Lines: 58
+  Word Count: ~137
+  Title: # Chapter 9: Implications and Applications
+
+File: ./chapters/10_conclusion/chapter_10_conclusion.md
+  Size: 1243 bytes
+  Lines: 64
+  Word Count: ~166
+  Title: # Chapter 10: Conclusion - Toward Integrated Pair Bonding
+
+File: ./chapters/README.md
+  Size: 14 bytes
+  Lines: 2
+  Word Count: ~3
+  Title: # chapters
+
+File: ./goal-have-chapter-2-draft-advancing-while-unlocking-chapter-3-material.md
+  Size: 77 bytes
+  Lines: 2
+  Word Count: ~13
+  Title: # Goal: Have Chapter 2 draft advancing while unlocking Chapter 3 material
+
+File: ./notes/reading_notes/by_chapter/chapter_01_notes.md
+  Size: 1423 bytes
+  Lines: 24
+  Word Count: ~231
+  Title: # Chapter 1: Introduction - Reading Notes
+
+File: ./notes/reading_notes/by_chapter/chapter_02_notes.md
+  Size: 633 bytes
+  Lines: 19
+  Word Count: ~95
+  Title: # Chapter 2: Evolutionary Psychology - Reading Notes
+
+File: ./notes/reading_notes/by_chapter/chapter_07_notes.md
+  Size: 920 bytes
+  Lines: 19
+  Word Count: ~129
+  Title: # Chapter 7: Synchronistic/Acausal Dimension - Reading Notes
+
+File: ./notes/reading_notes/by_chapter/README.md
+  Size: 1236 bytes
+  Lines: 42
+  Word Count: ~149
+  Title: # Reading Notes by Chapter
+
+File: ./project_management/chapter_tracker.md
+  Size: 18947 bytes
+  Lines: 419
+  Word Count: ~3002
+  Title: # Chapter Tracker - Detailed Progress by Chapter
+
+File: ./quotes/by_chapter/chapter_01_Introduction.md
+  Size: 5517 bytes
+  Lines: 149
+  Word Count: ~741
+  Title: # Chapter 01 : Introduction
+
+File: ./quotes/by_chapter/chapter_01_quotes.md
+  Size: 4015 bytes
+  Lines: 101
+  Word Count: ~553
+  Title: # Chapter 1 Quotes: Introduction - Modern Mating Paradox
+
+File: ./quotes/by_chapter/chapter_02_Literature_Review.md
+  Size: 13360 bytes
+  Lines: 370
+  Word Count: ~1820
+  Title: # Chapter 02 : Literature Review
+
+File: ./quotes/by_chapter/chapter_02_quotes.md
+  Size: 8507 bytes
+  Lines: 168
+  Word Count: ~1104
+  Title: ## Source: Buss (2023) - The Sexual Selection of Human Mating Strategies
+
+File: ./quotes/by_chapter/chapter_03_Mating_Strategies.md
+  Size: 12999 bytes
+  Lines: 331
+  Word Count: ~1784
+  Title: # Chapter 03 : Mating Strategies
+
+File: ./quotes/by_chapter/chapter_03_quotes.md
+  Size: 1563 bytes
+  Lines: 47
+  Word Count: ~209
+  Title: # Chapter 3: Jungian Archetypal Psychology - Quote Database
+
+File: ./quotes/by_chapter/chapter_04_Economic_Dimensions.md
+  Size: 15002 bytes
+  Lines: 395
+  Word Count: ~2035
+  Title: # Chapter 04 : Economic Dimensions
+
+File: ./quotes/by_chapter/chapter_04_quotes.md
+  Size: 368 bytes
+  Lines: 13
+  Word Count: ~46
+  Title: # Chapter 4: Synchronicity and Acausal Connection - Quote Database
+
+File: ./quotes/by_chapter/chapter_05_Psychological_Dimensions.md
+  Size: 9710 bytes
+  Lines: 279
+  Word Count: ~1314
+  Title: # Chapter 05 : Psychological Dimensions
+
+File: ./quotes/by_chapter/chapter_05_quotes.md
+  Size: 388 bytes
+  Lines: 13
+  Word Count: ~46
+  Title: # Chapter 5: Transpersonal and Psychoid Dimensions - Quote Database
+
+File: ./quotes/by_chapter/chapter_06_Cultural_Evolution.md
+  Size: 8816 bytes
+  Lines: 253
+  Word Count: ~1169
+  Title: # Chapter 06 : Cultural Evolution
+
+File: ./quotes/by_chapter/chapter_07_Sex_Ratio_Dynamics.md
+  Size: 8663 bytes
+  Lines: 266
+  Word Count: ~1167
+  Title: # Chapter 07 : Sex Ratio Dynamics
+
+File: ./quotes/by_chapter/chapter_08_Synthesis.md
+  Size: 4269 bytes
+  Lines: 123
+  Word Count: ~580
+  Title: # Chapter 08 : Synthesis
+
+File: ./quotes/by_chapter/chapter_09_Implications.md
+  Size: 5784 bytes
+  Lines: 162
+  Word Count: ~795
+  Title: # Chapter 09 : Implications
+
+File: ./quotes/by_chapter/chapter_10_Conclusion.md
+  Size: 3052 bytes
+  Lines: 97
+  Word Count: ~425
+  Title: # Chapter 10 : Conclusion
+
+File: ./quotes/by_chapter/README.md
+  Size: 17 bytes
+  Lines: 2
+  Word Count: ~3
+  Title: # by\_chapter
+
+File: ./research-materials/quotes/by_chapter/chapter-06-quotes.md
+  Size: 23 bytes
+  Lines: 2
+  Word Count: ~5
+  Title: # Chapter 06 Quotes
+
+File: ./research-materials/quotes/by_chapter/chapter-07-quotes.md
+  Size: 23 bytes
+  Lines: 2
+  Word Count: ~5
+  Title: # Chapter 07 Quotes
+
+File: ./research-materials/quotes/by_chapter/chapter-08-quotes.md
+  Size: 23 bytes
+  Lines: 2
+  Word Count: ~5
+  Title: # Chapter 08 Quotes
+
+File: ./research-materials/quotes/by_chapter/chapter-09-quotes.md
+  Size: 23 bytes
+  Lines: 2
+  Word Count: ~5
+  Title: # Chapter 09 Quotes
+
+File: ./research-materials/quotes/by_chapter/chapter-10-quotes.md
+  Size: 23 bytes
+  Lines: 2
+  Word Count: ~5
+  Title: # Chapter 10 Quotes
+
+File: ./sources/integration_guides/Firman_2011_Chapter_Integration_Guide.md
+  Size: 43169 bytes
+  Lines: 470
+  Word Count: ~5236
+  Title: # Firman & Simmons (2011): Chapter Integration Guide
+
+====================================================================================================
+SECTION 5: README.MD (LANDING PAGE)
+====================================================================================================
+
+Total Lines: 33
+
+--- Full README.md Content ---
+---
+description: Outline of PHD thesis subject
+---
+
+# Pair bonding, reproduction and Jungian Archetypes
+
+**Author:** David Hurt\
+**GitHub:** [@dw-hurt](https://github.com/dw-hurt)\
+**Repository:** https://github.com/dw-hurt/phd-sacred-bonds-thesis
+
+## Overview
+
+Doctoral dissertation examining transpersonal dimensions in human pair bonding.
+
+**Central Thesis:** Sustainable human pair bonding operates across five dimensions (biological, psychological, archetypal, synchronistic, psychoid).
+
+## Structure
+
+* **chapters/** - All dissertation chapters (markdown)
+* **bibliography/** - References and reading notes
+* **data/** - Quantitative datasets
+* **notes/** - Research notes and summaries
+* **quotes/** - Quote database
+* **synthesis/** - Five-dimensional model development
+* **project\_management/** - Timeline and tasks
+
+## Privacy
+
+Public repository using GitHub privacy email: 91160603+dw-hurt@users.noreply.github.com
+
+***
+
+**Last Updated:** 2025-11-14
+
+====================================================================================================
+SECTION 6: SOURCES & REFERENCES ORGANIZATION
+====================================================================================================
+
+--- sources/ Directory Structure ---
+./sources/bibliography/ - 1 files
+./sources/comparative_analyses/ - 1 files
+./sources/integration_guides/ - 1 files
+./sources/quotes/ - 1 files
+./sources/summaries/ - 1 files
+./sources/bibliography/Firman_2011_Bibliography.bib (5485 bytes)
+./sources/comparative_analyses/Firman_Larsen_Comparative_Analysis.md (39710 bytes)
+./sources/integration_guides/Firman_2011_Chapter_Integration_Guide.md (43169 bytes)
+./sources/quotes/Firman_2011_Quotes_Database.md (29535 bytes)
+./sources/summaries/Firman_2011_Source_Summary.md (48137 bytes)
+
+--- Bibliography Files ---
+./bibliography/references.bib (720 bytes)
+./sources/bibliography/Firman_2011_Bibliography.bib (5485 bytes)
+
+====================================================================================================
+SECTION 7: ORPHANED FILES (NOT LINKED IN SUMMARY.MD)
+====================================================================================================
+
+Total orphaned files: 73
+
+Orphaned files list:
+  - archive/2025-11-23_142730/ARCHIVE_INFO.md
+  - archive/2025-11-23_142730/citation_guide.md
+  - archive/2025-11-23_142730/commit-and-push.md
+  - archive/2025-11-23_142730/copy-files-to-project_management-folder.md
+  - archive/2025-11-23_142730/goal-have-chapter-2-draft-advancing-while-unlocking-chapter-3-material.md
+  - archive/2025-11-23_142730/navigate-to-ai-drive-location.md
+  - archive/2025-11-23_142730/notes/project_management/source_inventory.md
+  - archive/2025-11-23_142730/notes/reading_notes/by_chapter/chapter_01_notes.md
+  - archive/2025-11-23_142730/notes/reading_notes/by_chapter/chapter_02_notes.md
+  - archive/2025-11-23_142730/notes/reading_notes/by_chapter/chapter_07_notes.md
+  - archive/2025-11-23_142730/notes/reading_notes/by_source/fayyaz_2019_resource_record.md
+  - archive/2025-11-23_142730/notes/reading_notes/by_source/limar_2011_resource_record.md
+  - archive/2025-11-23_142730/project_management/source_inventory.md
+  - archive/2025-11-23_142730/project_management/stage_status.md
+  - archive/2025-11-23_142730/project_management/weekly_review.md
+  - archive/2025-11-23_142730/project_management/weekly_reviews/weekly_review_2025-11-21.md
+  - archive/2025-11-23_142730/research_journal/2025-11-19_synchronicity_modern_dating.md
+  - archive/2025-11-23_142730/research_journal/daily/2025-11-22_progress.md
+  - archive/2025-11-23_142730/research_journal/journal_template.md
+  - archive/2025-11-23_142730/run-daily_progress.ps1-update-word-counts.md
+  - archive/2025-11-23_142730/save-summary.md-ctrl+s.md
+  - archive/2025-11-23_142730/source_inventory.md
+  - archive/2025-11-23_142730/source-processing-begin-processing-jung-psychology-of-transference.md
+  - archive/2025-11-23_142730/status-material-ready-15-quotes-available.md
+  - archive/2025-11-23_142730/target-draft-section-1.2-research-questions-800-1-000-words.md
+  - archive/2025-11-23_142730/target-draft-section-2.1-darwins-sexual-selection-framework-4-000-5-000-words.md
+  - archive/2025-11-23_142730/test-gitbook-to-github.md
+  - archive/2025-11-23_142730/test.md
+  - archive/2025-11-23_142730/update-todo_list.md-check-off-tasks.md
+  - archive/2025-11-23_142730/writing-continue-drafting-chapter-2-sections-sequentially.md
+  - bibliography/bibliography-alphabetical.md
+  - bibliography/source-inventory.md
+  - citation_guide.md
+  - commit-and-push.md
+  - copy-files-to-project_management-folder.md
+  - goal-have-chapter-2-draft-advancing-while-unlocking-chapter-3-material.md
+  - navigate-to-ai-drive-location.md
+  - notes/project_management/source_inventory.md
+  - notes/reading_notes/by_chapter/chapter_01_notes.md
+  - notes/reading_notes/by_chapter/chapter_02_notes.md
+  - notes/reading_notes/by_chapter/chapter_07_notes.md
+  - notes/reading_notes/by_source/fayyaz_2019_resource_record.md
+  - notes/reading_notes/by_source/limar_2011_resource_record.md
+  - project_management/source_inventory.md
+  - project_management/stage_status.md
+  - project_management/weekly_review.md
+  - project_management/weekly_reviews/weekly_review_2025-11-21.md
+  - quotes/by_chapter/chapter_01_Introduction.md
+  - quotes/by_chapter/chapter_02_Literature_Review.md
+  - quotes/by_chapter/chapter_03_Mating_Strategies.md
+  - quotes/by_chapter/chapter_04_Economic_Dimensions.md
+  - quotes/by_chapter/chapter_05_Psychological_Dimensions.md
+  - quotes/by_chapter/chapter_06_Cultural_Evolution.md
+  - quotes/by_chapter/chapter_07_Sex_Ratio_Dynamics.md
+  - quotes/by_chapter/chapter_08_Synthesis.md
+  - quotes/by_chapter/chapter_09_Implications.md
+  - quotes/by_chapter/chapter_10_Conclusion.md
+  - quotes/by_theme/Cultural_Influences.md
+  - quotes/by_theme/Demographic_Crisis.md
+  - quotes/by_theme/Economic_Factors.md
+  - quotes/by_theme/Hypergamy.md
+  - quotes/by_theme/Mating_Market.md
+  - quotes/by_theme/Modernization_Effects.md
+  - quotes/by_theme/Parental_Investment.md
+  - quotes/by_theme/Polygyny.md
+  - quotes/by_theme/Psychological_Mechanisms.md
+  - quotes/by_theme/Sexual_Selection.md
+  - quotes/QUOTE_INDEX.md
+  - research_journal/2025-11-19_synchronicity_modern_dating.md
+  - research_journal/daily/2025-11-22_progress.md
+  - research_journal/daily/2025-11-23_progress.md
+  - research_journal/journal_template.md
+  - source_inventory.md
+
+====================================================================================================
+SECTION 8: GIT CONFIGURATION
+====================================================================================================
+
+--- Git Remotes ---
+origin	https://github.com/dw-hurt/phd-sacred-bonds-thesis.git (fetch)
+origin	https://github.com/dw-hurt/phd-sacred-bonds-thesis.git (push)
+
+--- Git Branch ---
+Current branch: main
+
+--- Recent Commits (Last 10) ---
+b83fb62 Remove Firman materials backup files
+105da66 Add Firman (2011) materials to GitBook navigation
+eef73ae Remove Firman backup files - cleanup after successful upload
+3af03d1 Add Firman (2011) materials to GitBook navigation
+d92e84c Add Firman (2011) research materials
+0c27e1b Clean up old workflow scripts and update dashboard - 2025-11-25
+5657f00 GITBOOK-14: No subject
+c53ee10 Add arguments related to mating strategies and reproduction
+df983a2 Add Script 7: Quote Reorganizer - Organize 111 quotes by chapter and theme
+931ab6f Repository cleanup complete: Remove 20 obsolete files, update source inventory
+
+====================================================================================================
+SECTION 9: METADATA & FRONT MATTER ANALYSIS
+====================================================================================================
+
+Files with front matter (YAML): 5
+Files without front matter: 201
+
+Files with front matter:
+  - ./archive/2025-11-23_142730/chapters/01_introduction/chapter_01_introduction.md
+  - ./archive/2025-11-23_142730/README.md
+  - ./archive/2025-11-23_142730/test-gitbook-to-github.md
+  - ./chapters/01_introduction/chapter_01_introduction.md
+  - ./README.md
+
