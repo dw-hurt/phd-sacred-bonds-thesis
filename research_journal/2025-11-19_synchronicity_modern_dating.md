@@ -28,6 +28,12 @@ terms of mechanical causation...
 
 ---
 
+## Notes from my reading
+- Jung and Pauli was to formulate the notion of the psychoid archetype, imagined as the deepest layer of archetypal reality where the psyche and matter meet and become indistinguishable.
+- Synchronistic phenomena are thought to arise from activations of this level of reality
+- Using the study of complex adaptive system which have the capacity for spontaneous self-organization with emergent properties, synchronistic phenomena become describable in contemporary terms.
+- [[Quantum Entanglement]]
+
 ## Key Concepts
 
 - Dating apps as modern psychoid dimension
@@ -41,6 +47,10 @@ terms of mechanical causation...
 ## Questions to Explore
 
 - How does Jung define "acausal" vs. random chance?
+-    **synchronicity** was defined by Jung as an [[acausal]] connecting principle, whereby internal, psychological events are linked to external world events by meaningful coincidences rather than causal chains
+-    https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/synchronicity-an-acausal-connecting-principle/
+-     meaningful coincidences,
+-   [synchronicity] as a term to cover … things happening at the same moment as an expression of the same time conten
 - Are there studies on how people narrativize app matches?
 - Can synchronicity operate through technological mediation?
 - What would Buss say about "fate" narratives - adaptive?
