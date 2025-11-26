@@ -1,4 +1,8 @@
-﻿# PhD Project ToDo List
+# Dissertation To-Do List
+
+**Last Updated:** 2025-11-25 19:21:29
+
+# PhD Project ToDo List
 ## Legend
 - 🔴 High Priority
 - 🟡 Medium Priority
@@ -16,3 +20,4 @@
 
 ---
 *Last Updated: 2025-11-23 11:56:08*
+
