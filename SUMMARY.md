@@ -37,6 +37,15 @@
 * [Bertrand et al.](notes/reading_notes/by_source/bertrand_et_al_hypergamy_summary.md)
 * [Limar (2011)](notes/reading_notes/by_source/limar_2011_summary.md)
 
+
+### Comparative Analyses
+
+* [Limar (2011) Comparative Analysis](sources/comparative_analyses/Limar_Comparative_Analysis.md)
+* [Bertrand et al. Comparative Analysis](sources/comparative_analyses/Bertrand_Comparative_Analysis.md)
+* [Buss (2023) Comparative Analysis](sources/comparative_analyses/Buss_2023_Comparative_Analysis.md)
+* [Larsen (2023) Comparative Analysis](sources/comparative_analyses/Larsen_2023_Comparative_Analysis.md)
+* [Gangestad & Simpson (2000) Comparative Analysis](sources/comparative_analyses/Gangestad_Simpson_2000_Comparative_Analysis.md)
+
 ## Quote Collections
 
 ### Quotes by Chapter
