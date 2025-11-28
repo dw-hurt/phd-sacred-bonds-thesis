@@ -25,7 +25,7 @@
 * [Firman & Simmons (2011)](sources/summaries/Firman_2011_Source_Summary.md)
   * [Quotes (35)](sources/quotes/Firman_2011_Quotes_Database.md)
   * [Integration Guide](sources/integration_guides/Firman_2011_Chapter_Integration_Guide.md)
-  * [Comparative Analysis](sources/comparative_analyses/Firman_Larsen_Comparative_Analysis.md)
+  * [Comparative Analysis](comparative-analyses/Firman_Larsen_Comparative_Analysis.md)
   * [Bibliography](primary-sources/firman_2011_source_summary/bibliography.md)
 * [Gangestad & Simpson (2000)](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
   * [Quotes](quotes/by_source/gangestad_simpson_quotes.md)
