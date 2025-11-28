@@ -31,9 +31,26 @@ What has led to this evolution of unreasonable standards and outcomes? How does 
 
 The contemporary Western world faces a paradox in human pair bonding: despite unprecedented access to potential partners through digital technology and expanded social networks, relationship formation and stability have reached historic lows.
 
-**Key statistics to include:**
+**Statistical examples include:**
 
-* Marriage rates declining (cite sources)
+The fertility collapse in the most egalitarian country in the world. &#x20;
+
+**Fertility Collapse:**
+
+* Norwegian fertility rate: 1.96 → 1.48 (within one decade)
+* Finnish fertility rate: 1.9 → 1.4
+* EU average: 1.5 (well below replacement rate of 2.1)
+* Projections: Spain, Japan, and 20+ nations on track to halve populations by 2100
+
+**Singlehood Epidemic:**
+
+* Scandinavia: World's highest one-person households (43-46%)
+* From 1985-2012, Norwegian men failing to reproduce by age 45: 14% → 23%
+* Involuntary childlessness affects men **3x more** than women
+* Denmark: 45% of low-skilled men live alone
+
+
+
 * Divorce rates increasing (cite sources)
 * Dating app dysfunction (cite research)
 * Increased loneliness and relationship dissatisfaction
@@ -41,7 +58,7 @@ The contemporary Western world faces a paradox in human pair bonding: despite un
 
 [\[CONTINUE WITH YOUR ANALYSIS...\]](../../quotes/by_source/larsen_2023_polygyny_quotes.md)
 
-Larsen proposes a solution to a problem driven by the actions of women in the dating pool and in western societies. &#x20;
+Larsen proposes a solution to a problem driven by the actions of women in the dating pool and in western societies.
 
 ***
 

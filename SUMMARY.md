@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 
@@ -20,17 +20,13 @@
 * [Chapter 9: Implications (Extended)](chapters/09_implications/chapter_09_implications.md)
 * [Chapter 10: Conclusion](chapters/10_conclusion/chapter_10_conclusion.md)
 
----
-
-## Research Sources
-
-### Primary Sources
+## Primary Sources
 
 * [Firman & Simmons (2011)](sources/summaries/Firman_2011_Source_Summary.md)
   * [Quotes (35)](sources/quotes/Firman_2011_Quotes_Database.md)
   * [Integration Guide](sources/integration_guides/Firman_2011_Chapter_Integration_Guide.md)
   * [Comparative Analysis](sources/comparative_analyses/Firman_Larsen_Comparative_Analysis.md)
-  * [Bibliography](sources/bibliography/Firman_2011_Bibliography.bib)
+  * [Bibliography](primary-sources/firman_2011_source_summary/bibliography.md)
 * [Gangestad & Simpson (2000)](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
   * [Quotes](quotes/by_source/gangestad_simpson_quotes.md)
   * [Resource Record](notes/reading_notes/by_source/gangestad_simpson_resource_record.md)
@@ -47,21 +43,17 @@
   * [Quotes](quotes/by_source/fayyaz_2019_quotes.md)
   * [Resource Record](notes/reading_notes/by_source/fayyaz_2019_resource_record.md)
 
+## Comparative Analyses
 
-### Comparative Analyses
+* [Comparative Analyses Overview](comparative-analyses/comparative-analyses-overview.md)
+* [Limar (2011) Comparative Analysis](comparative-analyses/limar-2011-comparative-analysis.md)
+* [Bertrand et al. Comparative Analysis](comparative-analyses/bertrand-et-al.-comparative-analysis.md)
+* [Buss (2023) Comparative Analysis](comparative-analyses/buss-2023-comparative-analysis.md)
+* [Larsen (2023) Comparative Analysis](comparative-analyses/larsen-2023-comparative-analysis.md)
+* [Gangestad & Simpson (2000) Comparative Analysis](comparative-analyses/gangestad-and-simpson-2000-comparative-analysis.md)
 
-* [Comparative Analyses Overview](sources/comparative_analyses/_Analyses_Overview.md)
-* [Limar (2011) Comparative Analysis](sources/comparative_analyses/Limar_Comparative_Analysis.md)
-* [Bertrand et al. Comparative Analysis](sources/comparative_analyses/Bertrand_Comparative_Analysis.md)
-* [Buss (2023) Comparative Analysis](sources/comparative_analyses/Buss_2023_Comparative_Analysis.md)
-* [Larsen (2023) Comparative Analysis](sources/comparative_analyses/Larsen_2023_Comparative_Analysis.md)
-* [Gangestad & Simpson (2000) Comparative Analysis](sources/comparative_analyses/Gangestad_Simpson_2000_Comparative_Analysis.md)
+## Quotes by Source
 
----
-
-## Quote Collections
-
-### Quotes by Source
 * [Overview](quotes/README.md)
 * [Gangestad & Simpson](quotes/by_source/gangestad_simpson_quotes.md)
 * [Firman & Simmons (2011)](sources/quotes/Firman_2011_Quotes_Database.md)
@@ -69,7 +61,8 @@
 * [Fayyaz (2019)](quotes/by_source/fayyaz_2019_quotes.md)
 * [Limar (2011)](quotes/by_source/limar_2011_quotes.md)
 
-### Quotes by Chapter
+## Quotes by Chapter
+
 * [Chapter Index](quotes/by_chapter/README.md)
 * [Chapter 1 Quotes](quotes/by_chapter/chapter_01_quotes.md)
 * [Chapter 2 Quotes](quotes/by_chapter/chapter_02_quotes.md)
@@ -77,76 +70,72 @@
 * [Chapter 4 Quotes](quotes/by_chapter/chapter_04_quotes.md)
 * [Chapter 5 Quotes](quotes/by_chapter/chapter_05_quotes.md)
 
-### Quotes by Theme
+## Quotes by Theme
+
 * [Demographic Crisis](quotes/by_theme/Demographic_Crisis.md)
 * [Modernization Effects](quotes/by_theme/Modernization_Effects.md)
 * [Parental Investment](quotes/by_theme/Parental_Investment.md)
 * [Psychological Mechanisms](quotes/by_theme/Psychological_Mechanisms.md)
 
-### Quote Index
+## Quote Index
+
 * [Complete Quote Index](quotes/QUOTE_INDEX.md)
 
----
+## Notes Overview
 
-## Reading Notes
-
-### Notes Overview
 * [Reading Notes Home](notes/reading_notes/README.md)
 * [By Source Overview](notes/reading_notes/by_source/README.md)
 * [By Chapter Overview](notes/reading_notes/by_chapter/README.md)
 * [By Type Overview](notes/reading_notes/by_type/README.md)
 
-### Notes by Chapter
+## Notes by Chapter
+
 * [Chapter 1 Notes](notes/reading_notes/by_chapter/chapter_01_notes.md)
 * [Chapter 2 Notes](notes/reading_notes/by_chapter/chapter_02_notes.md)
 * [Chapter 7 Notes](notes/reading_notes/by_chapter/chapter_07_notes.md)
 
-### Notes by Type
+## Notes by Type
+
 * [Advisor Comments](notes/reading_notes/by_type/advisor_comments.md)
 * [Ideas & Insights](notes/reading_notes/by_type/ideas.md)
 
-### Integration Notes
+## Integration Notes
+
 * [Integration Overview](notes/integration_notes/README.md)
 
----
+## Research Journal Home
 
-## Research Journal
-
-### Research Journal Home
 * [Journal Overview](research_journal/README.md)
 * [Journal Template](research_journal/journal_template.md)
 
-### Recent Reflections
+## Recent Reflections
+
 * [Synchronicity in Modern Dating (2025-11-19)](research_journal/2025-11-19_synchronicity_modern_dating.md)
 
-### Idea Linking & Cross-References
+## Idea Linking & Cross-References
+
 * [Gangestad & Simpson Cross-References](research_journal/idea_linking/cross_reference_gangestad_simpson_all_sources.md)
 * [Larsen Cross-References](research_journal/idea_linking/cross_reference_larsen_all_sources.md)
 
-### Daily Progress
+## Daily Progress
+
 * [Daily Progress (2025-11-22)](research_journal/daily/2025-11-22_progress.md)
 * [Daily Progress (2025-11-23)](research_journal/daily/2025-11-23_progress.md)
-
----
 
 ## Bibliography & References
 
 * [Bibliography Overview](bibliography/bibliography-alphabetical.md)
 * [Source Inventory](bibliography/source-inventory.md)
 
----
-
 ## Research Materials
 
 * [Summaries Overview](research_materials/summaries/README.md)
 * [Thesis Outline](research_materials/thesis_outline.md)
 
----
+## Weekly Review
 
-## Dashboard
-
-### Weekly Review
 * [Latest Weekly Review (2025-11-21)](project_management/weekly_reviews/weekly_review_2025-11-21.md)
 
-### Progress Summary
+## Progress Summary
+
 * [Dissertation Progress Summary (2025-11-23)](project_management/dissertation_progress_summary_2025_11_23.md)
