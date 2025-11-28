@@ -45,12 +45,12 @@
 
 ## Comparative Analyses
 
-* [Comparative Analyses Overview](comparative-analyses/comparative-analyses-overview.md)
-* [Limar (2011) Comparative Analysis](comparative-analyses/limar-2011-comparative-analysis.md)
-* [Bertrand et al. Comparative Analysis](comparative-analyses/bertrand-et-al.-comparative-analysis.md)
-* [Buss (2023) Comparative Analysis](comparative-analyses/buss-2023-comparative-analysis.md)
-* [Larsen (2023) Comparative Analysis](comparative-analyses/larsen-2023-comparative-analysis.md)
-* [Gangestad & Simpson (2000) Comparative Analysis](comparative-analyses/gangestad-and-simpson-2000-comparative-analysis.md)
+* [Comparative Analyses Overview](comparative-analyses/_Analyses_Overview.md)
+* [Limar (2011) Comparative Analysis](comparative-analyses/Limar_Comparative_Analysis.md)
+* [Bertrand et al. Comparative Analysis](comparative-analyses/Bertrand_Comparative_Analysis.md)
+* [Buss (2023) Comparative Analysis](comparative-analyses/Buss_2023_Comparative_Analysis.md)
+* [Larsen (2023) Comparative Analysis](comparative-analyses/Larsen_2023_Comparative_Analysis.md)
+* [Gangestad & Simpson (2000) Comparative Analysis](comparative-analyses/Gangestad_Simpson_2000_Comparative_Analysis.md)
 
 ## Quotes by Source
 
