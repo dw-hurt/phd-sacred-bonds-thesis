@@ -1,14 +1,10 @@
-# Table of Contents
+# Summary
 
-* [Pair Bonding, Reproduction and Jungian Archetypes](README.md)
-
-## Front Matter
-
-* [Abstract](front_matter/abstract.md)
-* [Acknowledgements](front_matter/acknowledgements.md)
+* [Introduction](README.md)
 
 ## Dissertation Chapters
 
+* [Chapters Overview](chapters/README.md)
 * [Chapter 1: Introduction](chapters/01_introduction/chapter_01_introduction.md)
 * [Chapter 2: Evolutionary Foundations](chapters/02_evolutionary_foundations/chapter_02_evolutionary_foundations.md)
 * [Chapter 3: Archetypal Dimensions](chapters/03_archetypal_dimensions/chapter_03_archetypal_dimensions.md)
@@ -17,12 +13,14 @@
 * [Chapter 6: Contemporary Crisis](chapters/06_contemporary_crisis/chapter_06_contemporary_crisis.md)
 * [Chapter 7: Synthesis](chapters/07_synthesis/chapter_07_synthesis.md)
 * [Chapter 8: Implications](chapters/08_implications/chapter_08_implications.md)
-* [Chapter 9: Applications](chapters/09_implications/chapter_09_implications.md)
+* [Chapter 9: Implications (Extended)](chapters/09_implications/chapter_09_implications.md)
 * [Chapter 10: Conclusion](chapters/10_conclusion/chapter_10_conclusion.md)
+
+---
 
 ## Research Sources
 
-### Academic Sources
+### Primary Sources
 
 * [Firman & Simmons (2011)](sources/summaries/Firman_2011_Source_Summary.md)
   * [Quotes (35)](sources/quotes/Firman_2011_Quotes_Database.md)
@@ -31,11 +29,19 @@
   * [Bibliography](sources/bibliography/Firman_2011_Bibliography.bib)
 * [Gangestad & Simpson (2000)](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
   * [Quotes](quotes/by_source/gangestad_simpson_quotes.md)
-* [Larsen (2023)](notes/reading_notes/by_source/larsen_2023_polygyny_demographic_collapse_summary.md)
-  * [Quotes](quotes/by_source/larsen_2023_polygyny_quotes.md)
+  * [Resource Record](notes/reading_notes/by_source/gangestad_simpson_resource_record.md)
 * [Buss (2023)](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
 * [Bertrand et al.](notes/reading_notes/by_source/bertrand_et_al_hypergamy_summary.md)
+  * [Quotes](quotes/by_source/bertrand_et_al_hypergamy_quotes.md)
+  * [Resource Record](notes/reading_notes/by_source/bertrand_et_al_hypergamy_resource_record.md)
+* [Larsen (2023)](notes/reading_notes/by_source/larsen_2023_polygyny_demographic_collapse_summary.md)
+  * [Resource Record](notes/reading_notes/by_source/larsen_2023_polygyny_resource_record.md)
 * [Limar (2011)](notes/reading_notes/by_source/limar_2011_summary.md)
+  * [Quotes](quotes/by_source/limar_2011_quotes.md)
+  * [Resource Record](notes/reading_notes/by_source/limar_2011_resource_record.md)
+* [Fayyaz (2019)](notes/reading_notes/by_source/fayyaz_2019_summary.md)
+  * [Quotes](quotes/by_source/fayyaz_2019_quotes.md)
+  * [Resource Record](notes/reading_notes/by_source/fayyaz_2019_resource_record.md)
 
 
 ### Comparative Analyses
@@ -47,42 +53,96 @@
 * [Larsen (2023) Comparative Analysis](sources/comparative_analyses/Larsen_2023_Comparative_Analysis.md)
 * [Gangestad & Simpson (2000) Comparative Analysis](sources/comparative_analyses/Gangestad_Simpson_2000_Comparative_Analysis.md)
 
+---
+
 ## Quote Collections
 
-### Quotes by Chapter
+### Quotes by Source
+* [Overview](quotes/README.md)
+* [Gangestad & Simpson](quotes/by_source/gangestad_simpson_quotes.md)
+* [Firman & Simmons (2011)](sources/quotes/Firman_2011_Quotes_Database.md)
+* [Bertrand et al.](quotes/by_source/bertrand_et_al_hypergamy_quotes.md)
+* [Fayyaz (2019)](quotes/by_source/fayyaz_2019_quotes.md)
+* [Limar (2011)](quotes/by_source/limar_2011_quotes.md)
 
-* [Chapter 1: Introduction](quotes/by_chapter/chapter_01_Introduction.md)
-* [Chapter 2: Literature Review](quotes/by_chapter/chapter_02_Literature_Review.md)
-* [Chapter 3: Mating Strategies](quotes/by_chapter/chapter_03_Mating_Strategies.md)
-* [Chapter 4: Economic Dimensions](quotes/by_chapter/chapter_04_Economic_Dimensions.md)
-* [Chapter 5: Psychological Dimensions](quotes/by_chapter/chapter_05_Psychological_Dimensions.md)
-* [Chapter 6: Cultural Evolution](quotes/by_chapter/chapter_06_Cultural_Evolution.md)
-* [Chapter 7: Sex Ratio Dynamics](quotes/by_chapter/chapter_07_Sex_Ratio_Dynamics.md)
-* [Chapter 8: Synthesis](quotes/by_chapter/chapter_08_Synthesis.md)
-* [Chapter 9: Implications](quotes/by_chapter/chapter_09_Implications.md)
-* [Chapter 10: Conclusion](quotes/by_chapter/chapter_10_Conclusion.md)
+### Quotes by Chapter
+* [Chapter Index](quotes/by_chapter/README.md)
+* [Chapter 1 Quotes](quotes/by_chapter/chapter_01_quotes.md)
+* [Chapter 2 Quotes](quotes/by_chapter/chapter_02_quotes.md)
+* [Chapter 3 Quotes](quotes/by_chapter/chapter_03_quotes.md)
+* [Chapter 4 Quotes](quotes/by_chapter/chapter_04_quotes.md)
+* [Chapter 5 Quotes](quotes/by_chapter/chapter_05_quotes.md)
 
 ### Quotes by Theme
+* [Demographic Crisis](quotes/by_theme/Demographic_Crisis.md)
+* [Modernization Effects](quotes/by_theme/Modernization_Effects.md)
+* [Parental Investment](quotes/by_theme/Parental_Investment.md)
+* [Psychological Mechanisms](quotes/by_theme/Psychological_Mechanisms.md)
 
-* [Cultural Influences](quotes/by_theme/Cultural_Influences.md)
-* [Economic Factors](quotes/by_theme/Economic_Factors.md)
-* [Hypergamy](quotes/by_theme/Hypergamy.md)
-* [Mating Market](quotes/by_theme/Mating_Market.md)
-* [Polygyny](quotes/by_theme/Polygyny.md)
-* [Sexual Selection](quotes/by_theme/Sexual_Selection.md)
+### Quote Index
+* [Complete Quote Index](quotes/QUOTE_INDEX.md)
 
-## Bibliography
+---
 
-* [Bibliography](bibliography/README.md)
-* [Source Inventory](bibliography/source_inventory.md)
+## Reading Notes
 
-## Project Management
+### Notes Overview
+* [Reading Notes Home](notes/reading_notes/README.md)
+* [By Source Overview](notes/reading_notes/by_source/README.md)
+* [By Chapter Overview](notes/reading_notes/by_chapter/README.md)
+* [By Type Overview](notes/reading_notes/by_type/README.md)
 
-* [Progress Dashboard](project_management/dashboard.md)
-* [Chapter Tracker](project_management/chapter_tracker.md)
-* [ToDo List](project_management/todo.md)
+### Notes by Chapter
+* [Chapter 1 Notes](notes/reading_notes/by_chapter/chapter_01_notes.md)
+* [Chapter 2 Notes](notes/reading_notes/by_chapter/chapter_02_notes.md)
+* [Chapter 7 Notes](notes/reading_notes/by_chapter/chapter_07_notes.md)
 
-## Archive
+### Notes by Type
+* [Advisor Comments](notes/reading_notes/by_type/advisor_comments.md)
+* [Ideas & Insights](notes/reading_notes/by_type/ideas.md)
 
-* [Archive Index](archive/archive_index.md)
+### Integration Notes
+* [Integration Overview](notes/integration_notes/README.md)
 
+---
+
+## Research Journal
+
+### Research Journal Home
+* [Journal Overview](research_journal/README.md)
+* [Journal Template](research_journal/journal_template.md)
+
+### Recent Reflections
+* [Synchronicity in Modern Dating (2025-11-19)](research_journal/2025-11-19_synchronicity_modern_dating.md)
+
+### Idea Linking & Cross-References
+* [Gangestad & Simpson Cross-References](research_journal/idea_linking/cross_reference_gangestad_simpson_all_sources.md)
+* [Larsen Cross-References](research_journal/idea_linking/cross_reference_larsen_all_sources.md)
+
+### Daily Progress
+* [Daily Progress (2025-11-22)](research_journal/daily/2025-11-22_progress.md)
+* [Daily Progress (2025-11-23)](research_journal/daily/2025-11-23_progress.md)
+
+---
+
+## Bibliography & References
+
+* [Bibliography Overview](bibliography/bibliography-alphabetical.md)
+* [Source Inventory](bibliography/source-inventory.md)
+
+---
+
+## Research Materials
+
+* [Summaries Overview](research_materials/summaries/README.md)
+* [Thesis Outline](research_materials/thesis_outline.md)
+
+---
+
+## Dashboard
+
+### Weekly Review
+* [Latest Weekly Review (2025-11-21)](project_management/weekly_reviews/weekly_review_2025-11-21.md)
+
+### Progress Summary
+* [Dissertation Progress Summary (2025-11-23)](project_management/dissertation_progress_summary_2025_11_23.md)
