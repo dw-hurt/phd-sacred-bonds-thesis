@@ -53,7 +53,7 @@
 * [Limar (2011) Comparative Analysis](comparative-analyses/Limar_Comparative_Analysis.md)
 * [Bertrand et al. Comparative Analysis](comparative-analyses/Bertrand_Comparative_Analysis.md)
 * [Buss (2023) Comparative Analysis](comparative-analyses/Buss_2023_Comparative_Analysis.md)
-* [Larsen (2023) Comparative Analysis](comparative-analyses/Larsen_2023_Comparative_Analysis.md
+* [\[Larsen (2023) Comparative Analysis\](comparative-analyses/Larsen\_2023\_Comparative\_Analysis.md](comparative-analyses/larsen-2023-comparative-analysis-comparative-analyses-larsen_2023_comparative_analysis.md.md)
 * [Thompson (In press)](comparative-analyses/Thompson_Comparative_Analysis.md)
 * [Gangestad & Simpson (2000) Comparative Analysis](comparative-analyses/Gangestad_Simpson_2000_Comparative_Analysis.md)
 
