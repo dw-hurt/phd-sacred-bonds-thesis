@@ -2,7 +2,7 @@
 description: Outline of PHD thesis subject
 ---
 
-# Pair bonding, reproduction and Jungian Archetypes
+# Transpersonal dimensions in human pair bonding
 
 **Author:** David Hurt\
 **GitHub:** [@dw-hurt](https://github.com/dw-hurt)\
@@ -12,7 +12,7 @@ description: Outline of PHD thesis subject
 
 Doctoral dissertation examining transpersonal dimensions in human pair bonding.
 
-**Central Thesis:** Sustainable human pair bonding operates across five dimensions (biological, psychological, archetypal, synchronistic, psychoid).
+**Central Thesis:** Sustainable human pair bonding operates across six dimensions (biological, psychological, archetypal, synchronistic, psychoid, economic).
 
 ## Structure
 
@@ -31,5 +31,3 @@ Public repository using GitHub privacy email: 91160603+dw-hurt@users.noreply.git
 ***
 
 **Last Updated:** 2025-11-14
-
-<!-- Updated: 2025-11-27 20:43 -->

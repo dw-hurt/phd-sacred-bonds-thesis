@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Transpersonal dimensions in human pair bonding](README.md)
 
 ## Front Matter
 
