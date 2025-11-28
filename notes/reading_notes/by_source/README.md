@@ -83,3 +83,16 @@ Sources are processed using a standardized template:
 **Last Updated:** November 18, 2024  
 **Next Source to Process:** Jung - Collected Works Volume 9 (Anima/Animus)# by\_source
 
+
+## Thompson (In press)
+
+### Research Summary
+- [Full Summary](Thompson_InPress_Summary.md)
+- **Focus:** Digital dating platforms, non-monogamy, platform normativity
+- **Method:** Qualitative multimodal discourse analysis
+- **Key Finding:** Platform design reinforces mononormativity despite inclusive features
+
+### Related Materials
+- [Quotes Database](../../quotes/by_source/Thompson_InPress_Quotes.md)
+- [Comparative Analysis](../../comparative-analyses/Thompson_Comparative_Analysis.md)
+- [Bibliography Entry](../../bibliography/Thompson_InPress.md)
