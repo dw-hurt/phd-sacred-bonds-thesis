@@ -42,8 +42,6 @@ The mismatch extends beyond information processing to fundamental features of ch
 
 Buss's (2023) analysis of modern mating strategies documents additional mismatch problems. The anonymity and geographic dispersion of modern urban life removes ancestral constraints on short-term mating. Historically, pursuing short-term strategies carried reputation costs—damaged social standing, reduced future mating opportunities, reputational damage to kin. Modern conditions often eliminate these costs; individuals can pursue short-term encounters with strangers they will never see again, in contexts where their broader social network remains unaware. This removal of constraints may trigger increased pursuit of short-term strategies among individuals who ancestrally would have pursued long-term pair-bonding, not because preferences have changed but because cost-benefit calculations have shifted. The result is a mating environment where short-term strategies proliferate at the expense of pair-bond formation, even among individuals whose ultimate goals involve long-term relationships.
 
-The mismatch framework also illuminates why modern mating challenges persist despite rising awareness and education. Because the underlying problem involves evolutionary adaptations encountering novel environments, simply understanding the mismatch does not automatically solve it. A person can intellectually recognize that dating applications create distorted perceptions of available partners while still experiencing the emotional pull toward pursuing more options. They can understand that their mate preferences evolved for different contexts while still feeling those preferences as immediate, compelling desires. Addressing evolutionary mismatch requires not just cognitive understanding but institutional and technological design changes that align modern environments with ancestral psychological architecture—or, alternatively, interventions that help individuals override maladaptive impulses. Neither approach is straightforward, explaining the persistence of mating challenges despite widespread recognition of their existence.
-
 ---
 
 ## 1.4 Beyond Reductionism: The Case for Multi-Dimensional Analysis
@@ -74,8 +72,6 @@ The Sacred Bonds framework integrates six interdependent dimensions, each addres
 
 **Dimension 6: Integration and Synthesis** addresses the question of response—how individuals, communities, and societies might address the mating crisis through interventions informed by multi-dimensional understanding. Rather than offering simplistic solutions, this dimension examines how different levels of intervention—technological design, cultural narrative, psychological development, spiritual practice—might work synergistically to better align modern conditions with human mating psychology. It explores both individual-level responses (how people might navigate modern mating landscapes more effectively) and systemic interventions (how institutions might be redesigned to better support pair-bond formation). Chapter 7 synthesizes insights across dimensions and proposes an integrative framework for addressing contemporary challenges.
 
-The power of this framework lies not in any single dimension but in their integration. Evolutionary analysis without archetypal understanding misses the phenomenological depth of human mating; archetypal analysis without evolutionary foundation lacks grounding in functional adaptation; transpersonal approaches without attention to contemporary crisis remain abstract. By systematically examining each dimension while maintaining focus on their interactions, the Sacred Bonds framework aims to provide more comprehensive understanding than approaches that privilege any single level of analysis. The following chapters develop each dimension in detail, building toward an integrated understanding of both the crisis and potential pathways toward its resolution.
-
 ---
 
 ## 1.6 Dissertation Structure and Methodology
@@ -85,8 +81,6 @@ This dissertation proceeds systematically through the six dimensions outlined ab
 Chapter 6 (Contemporary Crisis) synthesizes insights from previous chapters to provide detailed analysis of specific crisis manifestations, including demographic trends, technological disruption, and economic transformation of mating markets. This chapter draws extensively on comparative analysis of key sources—Larsen (2023) on polygyny and demographic collapse, Buss (2023) on contemporary mating strategies, Gangestad and Simpson (2000) on strategic pluralism, and Bertrand et al. on hypergamy—to document the empirical reality of the crisis and its multi-faceted causes. Chapter 7 (Synthesis and Integration) returns to the question of response, examining how multi-dimensional understanding might inform individual adaptation and systemic intervention. The chapter proposes specific interventions at multiple levels while acknowledging the inherent difficulties of addressing problems rooted in evolutionary mismatch.
 
 Methodologically, this dissertation employs integrative theoretical analysis, drawing on multiple disciplines—evolutionary psychology, analytical psychology, transpersonal psychology, sociology, demography, and cultural studies—to build comprehensive understanding. Each chapter includes substantial engagement with empirical research where available, while acknowledging that some dimensions (particularly archetypal and transpersonal) resist purely empirical investigation and require phenomenological and hermeneutic approaches. The dissertation does not prioritize one methodology over others but employs methods appropriate to each dimension's subject matter, maintaining consistent focus on the central question of how humans might form stable, satisfying pair-bonds in contemporary conditions.
-
-The comparative analyses developed for this research—detailed examinations of Larsen (2023), Buss (2023), Gangestad and Simpson (2000), Bertrand et al., and Firman and Larsen (2011)—serve crucial integrative functions. By systematically comparing these sources' theoretical frameworks, empirical findings, and analytical approaches, the comparative analyses identify points of convergence and divergence that illuminate the mating crisis from multiple angles. These analyses demonstrate how insights from different disciplinary perspectives can be synthesized without reducing one approach to another, modeling the kind of integrative thinking the Sacred Bonds framework embodies. Readers are encouraged to consult these comparative analyses (available in Appendices A-E) for detailed examination of how key sources inform the framework.
 
 ---
 
@@ -102,34 +96,26 @@ The following chapters develop each dimension systematically, building toward co
 
 ## References
 
-[Full references to be compiled from comparative analyses and source materials]
-
-- Bertrand, M., et al. (Year). *The Economics of Hypergamy*
-- Buss, D. M. (2023). *The Evolution of Desire: Strategies of Human Mating* (Revised Edition)
-- Darwin, C. (1871). *The Descent of Man and Selection in Relation to Sex*
-- Fayyaz, N. M. (2019). [Full citation from source materials]
-- Firman, J., & Larsen, D. J. (2011). *Toward a Psychology of the Sacred: A Psychosynthesis Perspective*
-- Gangestad, S. W., & Simpson, J. A. (2000). The evolution of human mating: Trade-offs and strategic pluralism. *Behavioral and Brain Sciences*, 23(4), 573-587.
-- Henrich, J., Boyd, R., & Richerson, P. J. (2012). The puzzle of monogamous marriage. *Philosophical Transactions of the Royal Society B*, 367(1589), 657-669.
-- Jung, C. G. (1960). *The Structure and Dynamics of the Psyche*
-- Karmin, M., et al. (2015). A recent bottleneck of Y chromosome diversity coincides with a global change in culture. *Genome Research*, 25(4), 459-466.
-- Larsen, E. R. (2023). *Polygyny and Demographic Collapse* [Full citation from source materials]
-- Pew Research Center. (2020). *Marriage and Cohabitation in the U.S.*
-- Puts, D. (2016). Human sexual selection. *Current Opinion in Psychology*, 7, 28-32.
-- Rosenfeld, M. J., Thomas, R. J., & Hausen, S. (2019). Disintermediating your friends: How online dating in the United States displaces other ways of meeting. *PNAS*, 116(36), 17753-17758.
-- Schwartz, B. (2004). *The Paradox of Choice: Why More Is Less*
-- Trivers, R. L. (1972). Parental investment and sexual selection. In B. Campbell (Ed.), *Sexual Selection and the Descent of Man* (pp. 136-179).
-- U.S. Census Bureau. (2021). *Estimated Median Age at First Marriage*
+Bertrand, M., et al. (Year). The Economics of Hypergamy  
+Betzig, L. (1986). Despotism and differential reproduction: A Darwinian view of history  
+Buss, D. M. (2023). The Evolution of Desire: Strategies of Human Mating (Revised Edition)  
+Darwin, C. (1871). The Descent of Man and Selection in Relation to Sex  
+Fayyaz, N. M. (2019). [Full citation]  
+Firman, J., & Larsen, D. J. (2011). Toward a Psychology of the Sacred  
+Gangestad, S. W., & Simpson, J. A. (2000). The evolution of human mating: Trade-offs and strategic pluralism. Behavioral and Brain Sciences, 23(4), 573-587  
+Henrich, J., Boyd, R., & Richerson, P. J. (2012). The puzzle of monogamous marriage. Philosophical Transactions of the Royal Society B, 367(1589), 657-669  
+Jung, C. G. (1960). The Structure and Dynamics of the Psyche  
+Karmin, M., et al. (2015). A recent bottleneck of Y chromosome diversity coincides with a global change in culture. Genome Research, 25(4), 459-466  
+Larsen, E. R. (2023). Polygyny and Demographic Collapse  
+Pew Research Center. (2020). Marriage and Cohabitation in the U.S.  
+Puts, D. (2016). Human sexual selection. Current Opinion in Psychology, 7, 28-32  
+Rosenfeld, M. J., Thomas, R. J., & Hausen, S. (2019). Disintermediating your friends: How online dating in the United States displaces other ways of meeting. PNAS, 116(36), 17753-17758  
+Schwartz, B. (2004). The Paradox of Choice: Why More Is Less  
+Trivers, R. L. (1972). Parental investment and sexual selection  
+U.S. Census Bureau. (2021). Estimated Median Age at First Marriage
 
 ---
 
-**Chapter 1 Word Count**: ~7,500 words (expanded from original draft)
-
-**Integration Notes**:
-- Sections 1.1-1.3 integrate empirical findings from Larsen (2023), Buss (2023), Bertrand et al., and demographic sources
-- Section 1.2 develops Fayyaz's (2019) civilizational evolution argument in depth
-- Section 1.3 applies mismatch theory systematically to contemporary conditions
-- Section 1.4 addresses Fayyaz's critique of reductionism directly
-- Section 1.5 provides substantive overview of all six dimensions with clear chapter mapping
-- Throughout: 2-4 substantive paragraphs per section as specified
-- Quotes from Chapter 1 quote file integrated throughout with proper citations
+**Word Count**: ~7,500 words  
+**Structure**: 7 major sections, 2-4 paragraphs each  
+**Integration**: Fayyaz quotes, comparative analyses findings, multi-dimensional framework
