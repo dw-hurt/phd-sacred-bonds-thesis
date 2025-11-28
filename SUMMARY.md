@@ -143,4 +143,4 @@
 
 ## Progress Summary
 
-* [Dissertation Progress Summary (2025-11-23)](project_management/dissertation_progress_summary.md)
+* [Dissertation Progress Summary](progress-summary/dissertation_progress_summary.md)
