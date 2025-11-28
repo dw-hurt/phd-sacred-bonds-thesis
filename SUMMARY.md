@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## Front Matter
+
+* [Abstract](front_matter/abstract.md)
+
 ## Dissertation Chapters
 
 * [Chapters Overview](chapters/README.md)
