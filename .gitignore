@@ -17,3 +17,6 @@ desktop.ini
 *.tmp
 *.bak
 temp/
+
+# PhD Tools
+tools/
