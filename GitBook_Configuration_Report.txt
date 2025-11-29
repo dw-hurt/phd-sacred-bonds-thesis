@@ -1,3 +1,33 @@
+========================================
+GITBOOK CONFIGURATION REPORT
+Sacred Bonds Thesis Project
+========================================
+
+Generated: 2025-11-28 22:09:12
+Repository: C:\Users\user\Documents\PhD\phd-sacred-bonds-thesis
+Branch: main
+Commit: 265219f
+
+========================================
+SECTION 1: REPOSITORY OVERVIEW
+========================================
+
+Total Markdown Files: 257
+  - Chapter files: 12
+  - Source files: 10
+  - Literature files: 0
+
+Configuration Files Found:
+  - SUMMARY.md   - .gitbook.yaml   - README.md
+
+========================================
+SECTION 2: GITBOOK MENU STRUCTURE
+========================================
+
+SUMMARY.md Status: ✓ Found
+Total Menu Items: 100
+
+Current Menu Structure:
 # Table of contents
 
 * [Transpersonal dimensions in human pair bonding](README.md)
@@ -174,3 +204,53 @@
 * [Dissertation Progress Summary](progress-summary/dissertation_progress_summary.md)
 
 
+
+
+========================================
+SECTION 3: CHAPTER STRUCTURE
+========================================
+
+Total Chapters: 12
+
+Chapter: 00_front_matter   Files: 0   Path: .\chapters\00_front_matter  Chapter: 01_introduction   Files: 2   Path: .\chapters\01_introduction  Chapter: 02_evolutionary_foundations   Files: 1   Path: .\chapters\02_evolutionary_foundations  Chapter: 03_archetypal_dimensions   Files: 1   Path: .\chapters\03_archetypal_dimensions  Chapter: 04_synchronicity   Files: 1   Path: .\chapters\04_synchronicity  Chapter: 05_transpersonal_dimensions   Files: 1   Path: .\chapters\05_transpersonal_dimensions  Chapter: 06_contemporary_crisis   Files: 1   Path: .\chapters\06_contemporary_crisis  Chapter: 07_synthesis   Files: 1   Path: .\chapters\07_synthesis  Chapter: 08_implications   Files: 1   Path: .\chapters\08_implications  Chapter: 09_back_matter   Files: 0   Path: .\chapters\09_back_matter  Chapter: 09_implications   Files: 1   Path: .\chapters\09_implications  Chapter: 10_conclusion   Files: 1   Path: .\chapters\10_conclusion 
+
+========================================
+SECTION 4: JUNG SOURCES STATUS
+========================================
+
+Jung Files Found: 0 / 5
+Jung Files in Menu: 0 / 0
+
+Detailed Status:
+  Jung_Literature_Summary_Anima-Animus_Essay.md     File Exists: ✗ No     In SUMMARY.md: ✗ No    Jung_Literature_Summary_CW16_Transference.md     File Exists: ✗ No     In SUMMARY.md: ✗ No    Jung_Literature_Summary_CW9-1_Archetypes.md     File Exists: ✗ No     In SUMMARY.md: ✗ No    Literature_Summary_Jungian_Archetypes_Infidelity_Dissertation.md     File Exists: ✗ No     In SUMMARY.md: ✗ No    Jung_Sources_Bibliography.md     File Exists: ✗ No     In SUMMARY.md: ✗ No 
+
+========================================
+SECTION 5: GIT STATUS
+========================================
+
+Current Branch: main
+Current Commit: 265219f
+
+Uncommitted Changes:
+None - Working directory clean
+
+Sync Status:
+
+
+  ✓ Local and remote in sync
+
+========================================
+SECTION 6: RECOMMENDATIONS
+========================================
+
+
+
+
+
+
+
+✓ ALL SYSTEMS GREEN: Repository fully configured and synced
+
+========================================
+END OF REPORT
+========================================

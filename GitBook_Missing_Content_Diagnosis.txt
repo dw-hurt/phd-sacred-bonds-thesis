@@ -1,0 +1,74 @@
+========================================
+GITBOOK MISSING CONTENT DIAGNOSTIC REPORT
+Sacred Bonds Thesis Project
+========================================
+
+Generated: 2025-11-28 22:19:26
+Repository: C:\Users\user\Documents\PhD\phd-sacred-bonds-thesis
+
+PROBLEM: Jung source menu items visible in GitBook, but content not showing
+
+========================================
+DIAGNOSIS SUMMARY
+========================================
+
+Total Jung Files Expected: 6
+Files Found: 0
+Files Missing: 6
+Empty Files: 6
+Files with No Content: 6
+
+========================================
+DETAILED FILE STATUS
+========================================
+
+File: Bibliography   • Filename: 00_Jung_Sources_Bibliography.md   • Exists: ✗ No   • Size: 0 KB (0 bytes)   • Lines: 0   • Has Content: ✗ No   • Last Modified:    • Path: 03_literature_sources\Jung_Sources\00_Jung_Sources_Bibliography.md  File: CW 9: Archetypes & Collective Unconscious   • Filename: 01_CW9-1_Archetypes_CollectiveUnconscious.md   • Exists: ✗ No   • Size: 0 KB (0 bytes)   • Lines: 0   • Has Content: ✗ No   • Last Modified:    • Path: 03_literature_sources\Jung_Sources\01_CW9-1_Archetypes_CollectiveUnconscious.md  File: CW 16: Psychology of Transference   • Filename: 02_CW16_Psychology_of_Transference.md   • Exists: ✗ No   • Size: 0 KB (0 bytes)   • Lines: 0   • Has Content: ✗ No   • Last Modified:    • Path: 03_literature_sources\Jung_Sources\02_CW16_Psychology_of_Transference.md  File: Anima & Animus Essay   • Filename: 03_Anima_Animus_Essay.md   • Exists: ✗ No   • Size: 0 KB (0 bytes)   • Lines: 0   • Has Content: ✗ No   • Last Modified:    • Path: 03_literature_sources\Jung_Sources\03_Anima_Animus_Essay.md  File: Archetypes & Infidelity Research   • Filename: 04_Jungian_Archetypes_Infidelity_Dissertation.md   • Exists: ✗ No   • Size: 0 KB (0 bytes)   • Lines: 0   • Has Content: ✗ No   • Last Modified:    • Path: 03_literature_sources\Jung_Sources\04_Jungian_Archetypes_Infidelity_Dissertation.md  File: Quotes by Chapter Reference   • Filename: 99_Jung_Quotes_By_Chapter_Reference.md   • Exists: ✗ No   • Size: 0 KB (0 bytes)   • Lines: 0   • Has Content: ✗ No   • Last Modified:    • Path: 03_literature_sources\Jung_Sources\99_Jung_Quotes_By_Chapter_Reference.md 
+
+========================================
+PROBLEM FILES IDENTIFIED
+========================================
+
+✓ No empty files 
+
+MISSING FILES (6):   • Bibliography     Expected at: 03_literature_sources\Jung_Sources\00_Jung_Sources_Bibliography.md   • CW 9: Archetypes & Collective Unconscious     Expected at: 03_literature_sources\Jung_Sources\01_CW9-1_Archetypes_CollectiveUnconscious.md   • CW 16: Psychology of Transference     Expected at: 03_literature_sources\Jung_Sources\02_CW16_Psychology_of_Transference.md   • Anima & Animus Essay     Expected at: 03_literature_sources\Jung_Sources\03_Anima_Animus_Essay.md   • Archetypes & Infidelity Research     Expected at: 03_literature_sources\Jung_Sources\04_Jungian_Archetypes_Infidelity_Dissertation.md   • Quotes by Chapter Reference     Expected at: 03_literature_sources\Jung_Sources\99_Jung_Quotes_By_Chapter_Reference.md 
+
+✓ All files have content 
+
+========================================
+ROOT CAUSE ANALYSIS
+========================================
+
+PRIMARY ISSUE: Empty or missing files   → Files exist in SUMMARY.md (menu shows up)   → Files are empty or missing (no content displays)   → GitBook cannot render empty files  SOLUTION NEEDED:   1. Locate original Jung source content   2. Copy content to the empty/missing files   3. Commit and push to GitHub   4. Wait for GitBook to sync
+
+========================================
+RECOMMENDED ACTIONS
+========================================
+
+IMMEDIATE ACTIONS REQUIRED:  1. RESTORE CONTENT FROM BACKUPS    • Check if Jung content files exist elsewhere    • Look in: C:\Users\user\Documents\PhD\    • Look in: Downloads folder    • Check /mnt/user-data/outputs/ (cloud storage)  2. COPY CONTENT TO REPOSITORY    • Copy Jung files to: C:\Users\user\Documents\PhD\phd-sacred-bonds-thesis\03_literature_sources\Jung_Sources    • Verify file sizes are substantial (not 0 bytes)  3. COMMIT AND PUSH    cd C:\Users\user\Documents\PhD\phd-sacred-bonds-thesis    git add 03_literature_sources/Jung_Sources/    git commit -m 'Fix: Add missing Jung source content'    git push origin main  4. WAIT FOR GITBOOK SYNC (2-5 minutes) 
+
+========================================
+FILE LOCATIONS TO CHECK FOR BACKUPS
+========================================
+
+Possible locations where Jung content might be:
+  • C:\Users\user\Documents\PhD\
+  • C:\Users\user\Downloads\
+  • Cloud outputs: Check files downloaded from assistant
+  • Repository history: git log --all --full-history -- "03_literature_sources/Jung_Sources/*"
+
+========================================
+GITBOOK URLS
+========================================
+
+GitHub Repository:
+  https://github.com/dw-hurt/phd-sacred-bonds-thesis
+
+GitBook:
+  https://app.gitbook.com/o/cyZpWhV7KomErB6BnmVk/s/hRoSpCiTUrfuH62swMvH/
+
+Direct link to Jung Sources in GitBook:
+  https://app.gitbook.com/o/cyZpWhV7KomErB6BnmVk/s/hRoSpCiTUrfuH62swMvH/03_literature_sources/jung-sources
+
+========================================
+END OF DIAGNOSTIC REPORT
+========================================

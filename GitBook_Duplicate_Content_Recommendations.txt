@@ -1,0 +1,134 @@
+# Duplicate Content Resolution Recommendations
+Generated: 2025-11-29 12:27:31
+
+The audit identified 8 pairs of documents with high similarity (70-91%). Below are recommendations for each pair.
+
+---
+
+## DUPLICATE PAIR 1: Jung Comparative Analyses (91% similar)
+**Files:**
+- comparative-analyses/Jung_Infidelity_Comparative_Analysis.md
+- comparative-analyses/Jung_CW16_Comparative_Analysis.md
+
+**Recommendation:** **KEEP BOTH - Differentiate**
+
+**Rationale:** 
+These documents address different Jung sources:
+- Jung_Infidelity: Focuses on archetypes in infidelity research (dissertation topic)
+- Jung_CW16: Focuses on Psychology of Transference (therapeutic relationship dynamics)
+
+**Action:**
+- Add clear headers distinguishing focus areas
+- Reduce redundant theoretical background (consolidate into one shared Jung overview document)
+- Emphasize unique contributions of each source to dissertation
+
+---
+
+## DUPLICATE PAIR 2: Jung Archetypes Analyses (88% similar)
+**Files:**
+- comparative-analyses/Jung_Anima_Animus_Comparative_Analysis.md
+- comparative-analyses/Jung_CW9-1_Comparative_Analysis.md
+
+**Recommendation:** **MERGE into Single Document**
+
+**Rationale:**
+Both cover foundational Jungian archetypal theory. High overlap is redundant.
+
+**Action:**
+1. Create new document: Jung_Archetypal_Theory_Comprehensive_Analysis.md
+2. Sections:
+   - A. Collective Unconscious & Archetypes (CW9-1 content)
+   - B. Anima & Animus in Pair Bonding (Anima-Animus content)
+   - C. Integration with Dissertation Themes
+3. Delete original separate files
+4. Update SUMMARY.md to reflect new single entry
+
+---
+
+## DUPLICATE PAIR 3: Thematic Category Overlap (82% similar)
+**Files:**
+- quotes/by_theme/Archetypal_Patterns.md
+- quotes/by_theme/Unconscious_Processes.md
+
+**Recommendation:** **KEEP BOTH - Clarify Boundaries**
+
+**Rationale:**
+While related, these are distinct themes:
+- Archetypal_Patterns: Specific Jung archetypes in mate selection
+- Unconscious_Processes: Broader unconscious mechanisms (shadow, projection, complexes)
+
+**Action:**
+- Add introductory paragraph to each clearly defining scope
+- Archetypal_Patterns: Focus on specific archetypes (Anima/Animus, Hero, Mother, Father)
+- Unconscious_Processes: Focus on mechanisms (projection, repression, complex activation)
+- Cross-reference each other for reader clarity
+
+---
+
+## DUPLICATE PAIR 4: Transpersonal Themes (77% similar)
+**Files:**
+- quotes/by_theme/Transpersonal_Sacred_Dimensions.md
+- quotes/by_theme/Synchronicity_Meaning.md
+
+**Recommendation:** **KEEP BOTH - Distinct Subtopics**
+
+**Rationale:**
+These represent different aspects of transpersonal psychology:
+- Transpersonal_Sacred: Spiritual, mystical, numinous experiences
+- Synchronicity_Meaning: Specific Jung concept of acausal connection
+
+**Action:**
+- Synchronicity document should be more narrowly focused on synchronicity definition, examples, research
+- Transpersonal document should broaden to include all non-synchronistic transpersonal elements
+- Reduce redundant Jung background in Synchronicity doc (link to Transpersonal doc)
+
+---
+
+## DUPLICATE PAIR 5: Individuation Theme (74% similar)
+**Files:**
+- quotes/by_theme/Individuation_Transformation.md
+- comparative-analyses/Jung_CW9-1_Comparative_Analysis.md
+
+**Recommendation:** **KEEP BOTH - Different Functions**
+
+**Rationale:**
+- Individuation_Transformation: Thematic quote collection for chapter writing
+- Jung_CW9-1: Source-specific comparative analysis
+
+**Action:**
+- Theme document: Focus on quotes and integration across all sources
+- Comparative document: Focus on CW9-1 as specific source
+- Add cross-reference links between them
+
+---
+
+## DUPLICATE PAIRS 6-8: Other Overlaps (70-75% similar)
+
+**General Recommendation:** 
+Review each pair individually to determine if:
+1. Documents serve different functions (theme vs. analysis) → KEEP BOTH
+2. Documents address same content from same perspective → MERGE
+3. Overlap is due to shared theoretical background → DIFFERENTIATE with clearer scoping
+
+---
+
+## Implementation Checklist
+
+- [ ] Merge Jung_Anima_Animus and Jung_CW9-1 analyses
+- [ ] Add clarifying headers to all Jung comparative analyses
+- [ ] Differentiate Archetypal_Patterns vs. Unconscious_Processes themes
+- [ ] Narrow focus of Synchronicity_Meaning theme
+- [ ] Add cross-reference links between related documents
+- [ ] Update SUMMARY.md after any merges/deletions
+- [ ] Commit and push changes to GitHub
+- [ ] Verify updated structure in GitBook
+
+---
+
+**Next Steps:**
+1. Review these recommendations
+2. Implement merges and differentiations
+3. Run audit script again to verify reduced duplication
+4. Target: Reduce duplicate pairs from 8 to <3
+
+**Document Generated:** 2025-11-29 12:27:31
