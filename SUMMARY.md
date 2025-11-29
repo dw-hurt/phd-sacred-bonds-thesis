@@ -51,6 +51,10 @@
 ## Comparative Analyses
 
 * [Comparative Analyses Overview](comparative-analyses/_Analyses_Overview.md)
+* [Jung - Archetypes & Infidelity Research Comparative Analysis](comparative-analyses/Jung_Infidelity_Comparative_Analysis.md)
+* [Jung - Psychology of Transference Comparative Analysis](comparative-analyses/Jung_CW16_Comparative_Analysis.md)
+* [Jung - Anima & Animus Comparative Analysis](comparative-analyses/Jung_Anima_Animus_Comparative_Analysis.md)
+* [Jung - Archetypes & Collective Unconscious Comparative Analysis](comparative-analyses/Jung_CW9-1_Comparative_Analysis.md)
 * [Limar (2011) Comparative Analysis](comparative-analyses/Limar_Comparative_Analysis.md)
 * [Bertrand et al. Comparative Analysis](comparative-analyses/Bertrand_Comparative_Analysis.md)
 * [Buss (2023) Comparative Analysis](comparative-analyses/Buss_2023_Comparative_Analysis.md)
