@@ -164,3 +164,24 @@
 ## Progress Summary
 
 * [Dissertation Progress Summary](progress-summary/dissertation_progress_summary.md)
+
+## New Sources Added (2025-11-29)
+
+### Transpersonal Psychology Sources
+* [Busemeyer & Lu (2023): Quantum Consciousness](03_literature_sources/Transpersonal_Sources/Busemeyer_Lu_Quantum_Consciousness_Summary.md)
+  * [Comparative Analysis](comparative-analyses/Busemeyer_Lu_Quantum_Consciousness_Comparative_Analysis.md)
+  * [Quotes by Chapter](quotes/by_source/Busemeyer_Lu_Quantum_Consciousness_Quotes_By_Chapter.md)
+
+### Primary Sources (Evolutionary Psychology)
+* [Schmitt et al. (2004): Mate Poaching](04_sources/01_primary/Schmitt_Mate_Poaching_Summary.md)
+  * [Comparative Analysis](comparative-analyses/Schmitt_Mate_Poaching_Comparative_Analysis.md)
+  * [Quotes by Chapter](quotes/by_source/Schmitt_Mate_Poaching_Quotes_By_Chapter.md)
+
+* [Miller (2000): Geographical Variability](04_sources/01_primary/Miller_Geographical_Variability_Summary.md)
+  * [Comparative Analysis](comparative-analyses/Miller_Geographical_Variability_Comparative_Analysis.md)
+  * [Quotes by Chapter](quotes/by_source/Miller_Geographical_Variability_Quotes_By_Chapter.md)
+
+* [Wlodarski & Dunbar (2015): Mating Phenotypes](04_sources/01_primary/Wlodarski_Dunbar_Mating_Phenotypes_Summary.md)
+  * [Comparative Analysis](comparative-analyses/Wlodarski_Dunbar_Mating_Phenotypes_Comparative_Analysis.md)
+  * [Quotes by Chapter](quotes/by_source/Wlodarski_Dunbar_Mating_Phenotypes_Quotes_By_Chapter.md)
+
