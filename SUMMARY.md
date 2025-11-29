@@ -131,12 +131,9 @@
 * [Daily Progress (2025-11-22)](research_journal/daily/2025-11-22_progress.md)
 * [Daily Progress (2025-11-23)](research_journal/daily/2025-11-23_progress.md)
 
-
----
-
 ## Reference Materials
 
-* [Literature Sources](03_literature_sources/README.md)
+* [Literature Sources](reference-materials/literature-sources/README.md)
   * [Jung Sources](03_literature_sources/Jung_Sources/README.md)
     * [Bibliography](03_literature_sources/Jung_Sources/00_Jung_Sources_Bibliography.md)
     * [CW 9: Archetypes & Collective Unconscious](03_literature_sources/Jung_Sources/01_CW9-1_Archetypes_CollectiveUnconscious.md)
@@ -144,9 +141,6 @@
     * [Anima & Animus Essay](03_literature_sources/Jung_Sources/03_Anima_Animus_Essay.md)
     * [Archetypes & Infidelity Research](03_literature_sources/Jung_Sources/04_Jungian_Archetypes_Infidelity_Dissertation.md)
     * [Quotes by Chapter Reference](03_literature_sources/Jung_Sources/99_Jung_Quotes_By_Chapter_Reference.md)
-
-
----
 
 ## Bibliography & References
 
@@ -165,5 +159,3 @@
 ## Progress Summary
 
 * [Dissertation Progress Summary](progress-summary/dissertation_progress_summary.md)
-
-
