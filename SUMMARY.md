@@ -126,7 +126,9 @@
 
 * [Synchronicity in Modern Dating (2025-11-19)](research_journal/2025-11-19_synchronicity_modern_dating.md)
 
-## Idea Linking & Cross-References
+## Idea Linking & Cross-Reference
+
+* [Integration Roadmap (2025-11-29)](idea_linking_and_cross_reference/Integration_Roadmap_2025-11-29.md)s
 
 * [Gangestad & Simpson Cross-References](research_journal/idea_linking/cross_reference_gangestad_simpson_all_sources.md)
 * [Larsen Cross-References](research_journal/idea_linking/cross_reference_larsen_all_sources.md)
