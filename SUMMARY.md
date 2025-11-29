@@ -144,17 +144,6 @@
 
 ---
 
-## Reference Materials
-
-* [Literature Sources](03_literature_sources/README.md)
-  * [Jung Sources](03_literature_sources/Jung_Sources/README.md)
-    * [Bibliography](03_literature_sources/Jung_Sources/00_Jung_Sources_Bibliography.md)
-    * [CW 9: Archetypes & Collective Unconscious](03_literature_sources/Jung_Sources/01_CW9-1_Archetypes_CollectiveUnconscious.md)
-    * [CW 16: Psychology of Transference](03_literature_sources/Jung_Sources/02_CW16_Psychology_of_Transference.md)
-    * [Anima & Animus Essay](03_literature_sources/Jung_Sources/03_Anima_Animus_Essay.md)
-    * [Archetypes & Infidelity Research](03_literature_sources/Jung_Sources/04_Jungian_Archetypes_Infidelity_Dissertation.md)
-    * [Quotes by Chapter Reference](03_literature_sources/Jung_Sources/99_Jung_Quotes_By_Chapter_Reference.md)
-
 ## Bibliography & References
 
 * [Bibliography Overview](bibliography/bibliography-alphabetical.md)
