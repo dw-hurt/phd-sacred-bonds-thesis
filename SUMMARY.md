@@ -85,6 +85,11 @@
 * [Modernization Effects](quotes/by_theme/Modernization_Effects.md)
 * [Parental Investment](quotes/by_theme/Parental_Investment.md)
 * [Psychological Mechanisms](quotes/by_theme/Psychological_Mechanisms.md)
+* [Archetypal Patterns in Pair Bonding](quotes/by_theme/Archetypal_Patterns.md)
+* [Transpersonal & Sacred Dimensions](quotes/by_theme/Transpersonal_Sacred_Dimensions.md)
+* [Unconscious Processes in Mate Selection](quotes/by_theme/Unconscious_Processes.md)
+* [Synchronicity & Meaningful Encounters](quotes/by_theme/Synchronicity_Meaning.md)
+* [Individuation & Transformation](quotes/by_theme/Individuation_Transformation.md)
 
 ## Quote Index
 
