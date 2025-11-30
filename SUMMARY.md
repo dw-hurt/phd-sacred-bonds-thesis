@@ -4,7 +4,7 @@
 
 ## Front Matter
 
-* [Abstract](front_matter/abstract.md)
+* [Abstract](00_front_matter/abstract.md)
 
 ## Dissertation Chapters
 
