@@ -128,8 +128,7 @@
 
 ## Idea Linking & Cross-Reference
 
-* [Integration Roadmap (2025-11-29)](idea_linking_and_cross_reference/Integration_Roadmap_2025-11-29.md)s
-
+* [Integration Roadmap (2025-11-29)](idea_linking_and_cross_reference/Integration_Roadmap_2025-11-29.md)
 * [Gangestad & Simpson Cross-References](research_journal/idea_linking/cross_reference_gangestad_simpson_all_sources.md)
 * [Larsen Cross-References](research_journal/idea_linking/cross_reference_larsen_all_sources.md)
 
@@ -167,24 +166,20 @@
 
 * [Dissertation Progress Summary](progress-summary/dissertation_progress_summary.md)
 
-## New Sources Added (2025-11-29)
+## Transpersonal Psychology Sources
 
-### Transpersonal Psychology Sources
-* [Busemeyer & Lu (2023): Quantum Consciousness](03_literature_sources/Transpersonal_Sources/Busemeyer_Lu_Quantum_Consciousness_Summary.md)
+* [Busemeyer & Lu (2023): Quantum Consciousness](transpersonal-psychology-sources/busemeyer-and-lu-2023-quantum-consciousness/README.md)
   * [Comparative Analysis](comparative-analyses/Busemeyer_Lu_Quantum_Consciousness_Comparative_Analysis.md)
   * [Quotes by Chapter](quotes/by_source/Busemeyer_Lu_Quantum_Consciousness_Quotes_By_Chapter.md)
 
-### Primary Sources (Evolutionary Psychology)
-* [Schmitt et al. (2004): Mate Poaching](04_sources/01_primary/Schmitt_Mate_Poaching_Summary.md)
+## Primary Sources (Evolutionary Psychology)
+
+* [Schmitt et al. (2004): Mate Poaching](primary-sources-evolutionary-psychology/schmitt-et-al.-2004-mate-poaching/README.md)
   * [Comparative Analysis](comparative-analyses/Schmitt_Mate_Poaching_Comparative_Analysis.md)
   * [Quotes by Chapter](quotes/by_source/Schmitt_Mate_Poaching_Quotes_By_Chapter.md)
-
-* [Miller (2000): Geographical Variability](04_sources/01_primary/Miller_Geographical_Variability_Summary.md)
+* [Miller (2000): Geographical Variability](primary-sources-evolutionary-psychology/miller-2000-geographical-variability/README.md)
   * [Comparative Analysis](comparative-analyses/Miller_Geographical_Variability_Comparative_Analysis.md)
   * [Quotes by Chapter](quotes/by_source/Miller_Geographical_Variability_Quotes_By_Chapter.md)
-
-* [Wlodarski & Dunbar (2015): Mating Phenotypes](04_sources/01_primary/Wlodarski_Dunbar_Mating_Phenotypes_Summary.md)
+* [Wlodarski & Dunbar (2015): Mating Phenotypes](primary-sources-evolutionary-psychology/wlodarski-and-dunbar-2015-mating-phenotypes/README.md)
   * [Comparative Analysis](comparative-analyses/Wlodarski_Dunbar_Mating_Phenotypes_Comparative_Analysis.md)
   * [Quotes by Chapter](quotes/by_source/Wlodarski_Dunbar_Mating_Phenotypes_Quotes_By_Chapter.md)
-
-
