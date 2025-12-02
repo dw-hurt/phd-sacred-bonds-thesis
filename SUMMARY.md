@@ -1,185 +1,24 @@
-# Table of contents
+# Table of Contents
 
-* [Transpersonal dimensions in human pair bonding](README.md)
+* [Sacred Bonds Thesis](README.md)
 
-## Front Matter
+## Literature Review
 
-* [Abstract](00_front_matter/abstract.md)
+* [Evolutionary Psychology](Literature-Review/02-Evolutionary-Psychology/Mens-Long-Term-Mating/Buss_Mens_Long_Term_Mating_Strategies.md)
 
-## Dissertation Chapters
+## Bibliography
 
-* [Chapters Overview](chapters/README.md)
-* [Chapter 1: Introduction](chapters/01_introduction/chapter_01_introduction.md)
-* [Chapter 2: Evolutionary Foundations](chapters/02_evolutionary_foundations/chapter_02_evolutionary_foundations.md)
-* [Chapter 3: Archetypal Dimensions](chapters/03_archetypal_dimensions/chapter_03_archetypal_dimensions.md)
-* [Chapter 4: Synchronicity](chapters/04_synchronicity/chapter_04_synchronicity.md)
-* [Chapter 5: Transpersonal Dimensions](chapters/05_transpersonal_dimensions/chapter_05_transpersonal_dimensions.md)
-* [Chapter 6: Contemporary Crisis](chapters/06_contemporary_crisis/chapter_06_contemporary_crisis.md)
-* [Chapter 7: Synthesis](chapters/07_synthesis/chapter_07_synthesis.md)
-* [Chapter 8: Implications](chapters/08_implications/chapter_08_implications.md)
-* [Chapter 9: Implications (Extended)](chapters/09_implications/chapter_09_implications.md)
-* [Chapter 10: Conclusion](chapters/10_conclusion/chapter_10_conclusion.md)
+* [Primary Sources](Bibliography/Primary-Sources/Buss_Evolutionary_Psychology_Handbook.md)
 
-## Primary Sources
+## Resources
 
-* [Firman & Simmons (2011)](sources/summaries/Firman_2011_Source_Summary.md)
-  * [Quotes (35)](sources/quotes/Firman_2011_Quotes_Database.md)
-  * [Integration Guide](sources/integration_guides/Firman_2011_Chapter_Integration_Guide.md)
-  * [Comparative Analysis](comparative-analyses/Firman_Larsen_Comparative_Analysis.md)
-  * [Bibliography](primary-sources/firman_2011_source_summary/bibliography.md)
-* [Gangestad & Simpson (2000)](notes/reading_notes/by_source/gangestad_simpson_2000_source_summary.md)
-  * [Quotes](quotes/by_source/gangestad_simpson_quotes.md)
-  * [Resource Record](notes/reading_notes/by_source/gangestad_simpson_resource_record.md)
-* [Buss (2023)](notes/reading_notes/by_source/buss_2023_mating_strategies_summary.md)
-* [Bertrand et al.](notes/reading_notes/by_source/bertrand_et_al_hypergamy_summary.md)
-  * [Quotes](quotes/by_source/bertrand_et_al_hypergamy_quotes.md)
-  * [Resource Record](notes/reading_notes/by_source/bertrand_et_al_hypergamy_resource_record.md)
-* [Larsen (2023)](notes/reading_notes/by_source/larsen_2023_polygyny_demographic_collapse_summary.md)
-  * [Resource Record](notes/reading_notes/by_source/larsen_2023_polygyny_resource_record.md)
-  * [Thompson (In press)](notes/reading_notes/by_source/Thompson_InPress_Summary.md)
-    * [Quotes](quotes/by_source/Thompson_InPress_Quotes.md)
-    * [Comparative Analysis](comparative-analyses/Thompson_Comparative_Analysis.md)
-    * [Bibliography](bibliography/Thompson_InPress.md)
-* [Thompson (In press)](comparative-analyses/Thompson_Comparative_Analysis.md)
-* [Limar (2011)](notes/reading_notes/by_source/limar_2011_summary.md)
-  * [Quotes](quotes/by_source/limar_2011_quotes.md)
-  * [Resource Record](notes/reading_notes/by_source/limar_2011_resource_record.md)
-* [Fayyaz (2019)](notes/reading_notes/by_source/fayyaz_2019_summary.md)
-  * [Quotes](quotes/by_source/fayyaz_2019_quotes.md)
-  * [Resource Record](notes/reading_notes/by_source/fayyaz_2019_resource_record.md)
+* [Key Quotes](Resources/Key-Quotes/Evolutionary-Psychology/Buss_Quotes_Mate_Preferences.md)
 
-## Comparative Analyses
+## Research Notes
 
-* [Comparative Analyses Overview](comparative-analyses/_Analyses_Overview.md)
-* [Jung - Archetypes & Infidelity Research Comparative Analysis](comparative-analyses/Jung_Infidelity_Comparative_Analysis.md)
-* [Jung - Psychology of Transference Comparative Analysis](comparative-analyses/Jung_CW16_Comparative_Analysis.md)
-* [Jung - Anima & Animus Comparative Analysis](comparative-analyses/Jung_Anima_Animus_Comparative_Analysis.md)
-* [Jung - Archetypes & Collective Unconscious Comparative Analysis](comparative-analyses/Jung_CW9-1_Comparative_Analysis.md)
-* [Limar (2011) Comparative Analysis](comparative-analyses/Limar_Comparative_Analysis.md)
-* [Bertrand et al. Comparative Analysis](comparative-analyses/Bertrand_Comparative_Analysis.md)
-* [Buss (2023) Comparative Analysis](comparative-analyses/Buss_2023_Comparative_Analysis.md)
-* [\[Larsen (2023) Comparative Analysis\](comparative-analyses/Larsen\_2023\_Comparative\_Analysis.md](comparative-analyses/larsen-2023-comparative-analysis-comparative-analyses-larsen_2023_comparative_analysis.md.md)
-* [Gangestad & Simpson (2000) Comparative Analysis](comparative-analyses/Gangestad_Simpson_2000_Comparative_Analysis.md)
+* [Integration Guides](Research-Notes/Integration-Guides/Buss_Integration_Sacred_Bonds.md)
 
-## Quotes by Source
+## Analysis
 
-* [Overview](quotes/README.md)
-* [Gangestad & Simpson](quotes/by_source/gangestad_simpson_quotes.md)
-* [Firman & Simmons (2011)](sources/quotes/Firman_2011_Quotes_Database.md)
-* [Bertrand et al.](quotes/by_source/bertrand_et_al_hypergamy_quotes.md)
-* [Fayyaz (2019)](quotes/by_source/fayyaz_2019_quotes.md)
-* [Limar (2011)](quotes/by_source/limar_2011_quotes.md)
+* [Theoretical Frameworks](Analysis/Theoretical-Frameworks/Evolutionary-vs-Social/Buss_Comparative_Framework_Analysis.md)
 
-## Quotes by Chapter
-
-* [Chapter Index](quotes/by_chapter/README.md)
-* [Chapter 1 Quotes](quotes/by_chapter/chapter_01_quotes.md)
-* [Chapter 2 Quotes](quotes/by_chapter/chapter_02_quotes.md)
-* [Chapter 3 Quotes](quotes/by_chapter/chapter_03_quotes.md)
-* [Chapter 4 Quotes](quotes/by_chapter/chapter_04_quotes.md)
-* [Chapter 5 Quotes](quotes/by_chapter/chapter_05_quotes.md)
-
-## Quotes by Theme
-
-* [Demographic Crisis](quotes/by_theme/Demographic_Crisis.md)
-* [Modernization Effects](quotes/by_theme/Modernization_Effects.md)
-* [Parental Investment](quotes/by_theme/Parental_Investment.md)
-* [Psychological Mechanisms](quotes/by_theme/Psychological_Mechanisms.md)
-* [Archetypal Patterns in Pair Bonding](quotes/by_theme/Archetypal_Patterns.md)
-* [Transpersonal & Sacred Dimensions](quotes/by_theme/Transpersonal_Sacred_Dimensions.md)
-* [Unconscious Processes in Mate Selection](quotes/by_theme/Unconscious_Processes.md)
-* [Synchronicity & Meaningful Encounters](quotes/by_theme/Synchronicity_Meaning.md)
-* [Individuation & Transformation](quotes/by_theme/Individuation_Transformation.md)
-
-## Quote Index
-
-* [Complete Quote Index](quotes/QUOTE_INDEX.md)
-
-## Notes Overview
-
-* [Reading Notes Home](notes/reading_notes/README.md)
-* [By Source Overview](notes/reading_notes/by_source/README.md)
-* [By Chapter Overview](notes/reading_notes/by_chapter/README.md)
-* [By Type Overview](notes/reading_notes/by_type/README.md)
-
-## Notes by Chapter
-
-* [Chapter 1 Notes](notes/reading_notes/by_chapter/chapter_01_notes.md)
-* [Chapter 2 Notes](notes/reading_notes/by_chapter/chapter_02_notes.md)
-* [Chapter 7 Notes](notes/reading_notes/by_chapter/chapter_07_notes.md)
-
-## Notes by Type
-
-* [Advisor Comments](notes/reading_notes/by_type/advisor_comments.md)
-* [Ideas & Insights](notes/reading_notes/by_type/ideas.md)
-
-## Integration Notes
-
-* [Integration Overview](notes/integration_notes/README.md)
-
-## Research Journal Home
-
-* [Journal Overview](research_journal/README.md)
-* [Journal Template](research_journal/journal_template.md)
-
-## Recent Reflections
-
-* [Synchronicity in Modern Dating (2025-11-19)](research_journal/2025-11-19_synchronicity_modern_dating.md)
-
-## Idea Linking & Cross-Reference
-
-* [Integration Roadmap (2025-11-29)](idea_linking_and_cross_reference/Integration_Roadmap_2025-11-29.md)
-* [Gangestad & Simpson Cross-References](research_journal/idea_linking/cross_reference_gangestad_simpson_all_sources.md)
-* [Larsen Cross-References](research_journal/idea_linking/cross_reference_larsen_all_sources.md)
-
-## Daily Progress
-
-* [Daily Progress (2025-11-22)](research_journal/daily/2025-11-22_progress.md)
-* [Daily Progress (2025-11-23)](research_journal/daily/2025-11-23_progress.md)
-
-## Reference Materials
-
-* [Literature Sources](reference-materials/literature-sources/README.md)
-  * [Jung Sources](03_literature_sources/Jung_Sources/README.md)
-    * [Bibliography](03_literature_sources/Jung_Sources/00_Jung_Sources_Bibliography.md)
-    * [CW 9: Archetypes & Collective Unconscious](03_literature_sources/Jung_Sources/01_CW9-1_Archetypes_CollectiveUnconscious.md)
-    * [CW 16: Psychology of Transference](03_literature_sources/Jung_Sources/02_CW16_Psychology_of_Transference.md)
-    * [Anima & Animus Essay](03_literature_sources/Jung_Sources/03_Anima_Animus_Essay.md)
-    * [Archetypes & Infidelity Research](03_literature_sources/Jung_Sources/04_Jungian_Archetypes_Infidelity_Dissertation.md)
-    * [Quotes by Chapter Reference](03_literature_sources/Jung_Sources/99_Jung_Quotes_By_Chapter_Reference.md)
-
-## Bibliography & References
-
-* [Bibliography Overview](bibliography/bibliography-alphabetical.md)
-* [Source Inventory](bibliography/source-inventory.md)
-
-## Research Materials
-
-* [Summaries Overview](research_materials/summaries/README.md)
-* [Thesis Outline](research_materials/thesis_outline.md)
-
-## Weekly Review
-
-* [Latest Weekly Review (2025-11-21)](project_management/weekly_reviews/weekly_review_2025-11-21.md)
-
-## Progress Summary
-
-* [Dissertation Progress Summary](progress-summary/dissertation_progress_summary.md)
-
-## Transpersonal Psychology Sources
-
-* [Busemeyer & Lu (2023): Quantum Consciousness](transpersonal-psychology-sources/busemeyer-and-lu-2023-quantum-consciousness/README.md)
-  * [Comparative Analysis](comparative-analyses/Busemeyer_Lu_Quantum_Consciousness_Comparative_Analysis.md)
-  * [Quotes by Chapter](quotes/by_source/Busemeyer_Lu_Quantum_Consciousness_Quotes_By_Chapter.md)
-
-## Primary Sources (Evolutionary Psychology)
-
-* [Schmitt et al. (2004): Mate Poaching](primary-sources-evolutionary-psychology/schmitt-et-al.-2004-mate-poaching/README.md)
-  * [Comparative Analysis](comparative-analyses/Schmitt_Mate_Poaching_Comparative_Analysis.md)
-  * [Quotes by Chapter](quotes/by_source/Schmitt_Mate_Poaching_Quotes_By_Chapter.md)
-* [Miller (2000): Geographical Variability](primary-sources-evolutionary-psychology/miller-2000-geographical-variability/README.md)
-  * [Comparative Analysis](comparative-analyses/Miller_Geographical_Variability_Comparative_Analysis.md)
-  * [Quotes by Chapter](quotes/by_source/Miller_Geographical_Variability_Quotes_By_Chapter.md)
-* [Wlodarski & Dunbar (2015): Mating Phenotypes](primary-sources-evolutionary-psychology/wlodarski-and-dunbar-2015-mating-phenotypes/README.md)
-  * [Comparative Analysis](comparative-analyses/Wlodarski_Dunbar_Mating_Phenotypes_Comparative_Analysis.md)
-  * [Quotes by Chapter](quotes/by_source/Wlodarski_Dunbar_Mating_Phenotypes_Quotes_By_Chapter.md)

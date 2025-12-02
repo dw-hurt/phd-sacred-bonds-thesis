@@ -1,15 +1,6 @@
-# GitBook Configuration
 root: ./
 
 structure:
   readme: README.md
   summary: SUMMARY.md
-
-exclude:
-  - .git/
-  - backups/
-  - archive/
-  - automation/
-  - '*.ps1'
-  - '*.log'
 
