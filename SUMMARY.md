@@ -1,24 +1,27 @@
 # Table of Contents
 
-* [Sacred Bonds Thesis](README.md)
+* [Overview](README.md)
 
-## Literature Review
+## Part I: Theoretical Foundations
 
-* [Evolutionary Psychology](Literature-Review/02-Evolutionary-Psychology/Mens-Long-Term-Mating/Buss_Mens_Long_Term_Mating_Strategies.md)
+* [Chapter 2: Theoretical Framework](chapters/02_theoretical_framework/chapter_02_draft_v2.md)
+* [Chapter 3: Mating Strategies](chapters/03_mating_strategies/chapter_03_draft_v3_expanded.md)
+* [Chapter 4: Female Mate Preferences](chapters/04_female_mate_preferences/chapter_04_draft_v1.md)
 
-## Bibliography
+## Part II: Empirical Analysis
 
-* [Primary Sources](Bibliography/Primary-Sources/Buss_Evolutionary_Psychology_Handbook.md)
+* [Chapter 7: Sex Ratio Imbalances](chapters/07_sex_ratio_imbalances/chapter_07_draft_v1.md)
 
-## Resources
+## Part III: The Modern Mating Crisis
 
-* [Key Quotes](Resources/Key-Quotes/Evolutionary-Psychology/Buss_Quotes_Mate_Preferences.md)
+* [Chapter 9: Modern Mating Crisis](chapters/09_mating_crisis/chapter_09_draft_v1.md)
 
-## Research Notes
+## Part IV: Solutions
 
-* [Integration Guides](Research-Notes/Integration-Guides/Buss_Integration_Sacred_Bonds.md)
+* [Chapter 10: Policy Interventions](chapters/10_policy_interventions/chapter_10_draft_v1.md)
 
-## Analysis
+---
 
-* [Theoretical Frameworks](Analysis/Theoretical-Frameworks/Evolutionary-vs-Social/Buss_Comparative_Framework_Analysis.md)
+## Progress: 6/10 Chapters (60%)
 
+Last Updated: December 12, 2025
