@@ -1,0 +1,152 @@
+﻿MANUSCRIPT COMPILATION REPORT
+================================================================================
+
+Compilation Date: December 13, 2025 23:26
+Repository: C:\Users\user\Documents\PhD\phd-sacred-bonds-thesis
+Output File: full_manuscript\dissertation_complete_draft_2025-12-13-2326.md
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total Chapters Found: 16
+Total Word Count: 46458
+Completion: 46%
+File Size: 355.1 KB
+
+CHAPTER DETAILS
+--------------------------------------------------------------------------------
+
+Chapter 7: Synthesis and Integration
+  Directory: 07_synthesis
+  File: chapter_07_synthesis.md
+  Words: 35
+  Status: OUTLINE
+  Last Modified: 2025-11-22 00:22
+
+Chapter 8: Implications and Applications
+  Directory: 08_implications
+  File: chapter_08_implications.md
+  Words: 36
+  Status: OUTLINE
+  Last Modified: 2025-11-22 00:22
+
+Chapter 6: Contemporary Mating Crisis
+  Directory: 06_contemporary_crisis
+  File: chapter_06_contemporary_crisis.md
+  Words: 40
+  Status: OUTLINE
+  Last Modified: 2025-11-22 00:22
+
+Chapter 7: Sex Ratio Imbalances and Relational Dynamics
+  Directory: 07_sex_ratio_imbalances
+  File: chapter_07_draft_v2_corrected.md
+  Words: 6861
+  Status: COMPLETE
+  Last Modified: 2025-12-13 19:50
+
+Chapter 10: Conclusion - Toward Integrated Pair Bonding
+  Directory: 10_conclusion
+  File: chapter_10_conclusion.md
+  Words: 165
+  Status: OUTLINE
+  Last Modified: 2025-11-22 15:09
+
+Chapter 10: Policy Implications and Interventions
+  Directory: 10_policy_interventions
+  File: chapter_10_draft_v1.md
+  Words: 4858
+  Status: DRAFT
+  Last Modified: 2025-12-12 22:51
+
+Chapter 9: Implications and Applications
+  Directory: 09_implications
+  File: chapter_09_implications.md
+  Words: 136
+  Status: OUTLINE
+  Last Modified: 2025-11-22 15:09
+
+Chapter 9: The Modern Mating Crisis - Evolutionary Mismatch and Systemic Dysfunction
+  Directory: 09_mating_crisis
+  File: chapter_09_draft_v1.md
+  Words: 7733
+  Status: COMPLETE
+  Last Modified: 2025-12-12 21:35
+
+Chapter 2: Literature Review - Evolutionary Foundations of Human Mating
+  Directory: 02_literature_review
+  File: chapter_02_draft_v2_expanded.md
+  Words: 8519
+  Status: COMPLETE
+  Last Modified: 2025-12-12 09:53
+
+Chapter 3: Archetypal Dimensions of Mating
+  Directory: 03_archetypal_dimensions
+  File: chapter_03_archetypal_dimensions.md
+  Words: 89
+  Status: OUTLINE
+  Last Modified: 2025-11-22 15:52
+
+Chapter 1: Introduction
+  Directory: 01_introduction
+  File: chapter_01_introduction_draft_12-13.md
+  Words: 5948
+  Status: COMPLETE
+  Last Modified: 2025-12-13 20:02
+
+Chapter 2: Evolutionary Foundations
+  Directory: 02_evolutionary_foundations
+  File: chapter_02_evolutionary_foundations.md
+  Words: 1602
+  Status: DRAFT
+  Last Modified: 2025-11-29 11:33
+
+Chapter 4: Synchronicity and Meaningful Encounters in Pair Bonding
+  Directory: 04_synchronicity
+  File: chapter_04_synchronicity.md
+  Words: 651
+  Status: OUTLINE
+  Last Modified: 2025-11-29 12:27
+
+Chapter 5: Transpersonal and Sacred Dimensions of Pair Bonding
+  Directory: 05_transpersonal_dimensions
+  File: chapter_05_transpersonal_dimensions.md
+  Words: 836
+  Status: OUTLINE
+  Last Modified: 2025-11-29 12:27
+
+Chapter 3: Mating Strategies and Adaptive Pluralism
+  Directory: 03_mating_strategies
+  File: chapter_03_draft_v3_expanded.md
+  Words: 4469
+  Status: DRAFT
+  Last Modified: 2025-12-12 19:40
+
+Chapter 4: Hypergamy and Assortative Mating
+  Directory: 04_hypergamy
+  File: chapter_04_draft_v1.md
+  Words: 4480
+  Status: DRAFT
+  Last Modified: 2025-12-12 18:40
+
+
+PROGRESS METRICS
+--------------------------------------------------------------------------------
+Complete Chapters (>5,000 words): 4
+Draft Chapters (1,000-5,000 words): 4
+Outline Chapters (<1,000 words): 8
+
+TARGET vs ACTUAL
+--------------------------------------------------------------------------------
+Target Word Count: 100,000 words
+Current Word Count: 46458 words
+Remaining: 53542 words
+Progress: 46%
+
+SKIPPED DIRECTORIES
+--------------------------------------------------------------------------------
+  - 00_front_matter (no markdown files found)
+  - 09_back_matter (no markdown files found)
+  - Chapter-01-Introduction (no markdown files found)
+  - Chapter-02-Theoretical-Foundations (no markdown files found)
+
+================================================================================
+End of Report
