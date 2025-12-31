@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [ABSTRACT](README.md)
 
 ## Part I: Theoretical Foundations
 
