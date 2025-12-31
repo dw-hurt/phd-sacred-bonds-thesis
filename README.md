@@ -263,4 +263,151 @@ The dissertation develops actionable policy recommendations including:
 
 These recommendations are grounded in empirical evidence and evaluated using cost-effectiveness criteria, enabling policymakers to prioritize the most promising interventions.
 
+### 1.6 Dissertation Structure and Overview
+
+
+
+This dissertation consists of ten chapters organized into four parts:
+
+#### Part I: Theoretical Foundations (Chapters 1-3)
+
+
+
+**Chapter 1 (Current Chapter): Introduction**\
+Introduces the modern mating crisis, presents research questions and theoretical framework, and previews dissertation structure.
+
+**Chapter 2: Evolutionary Psychology of Mating**\
+Reviews foundational theories including Parental Investment Theory (Trivers, 1972), Sexual Strategies Theory (Buss & Schmitt, 1993), and Strategic Pluralism (Gangestad & Simpson, 2000). Synthesizes evidence on sex differences in mate preferences, individual variation in mating strategies, and contextual modulation of mate choice.
+
+**Chapter 3: Genetic Mechanisms of Mate Choice**\
+Examines behavioral genetics research on mate preferences, including heritability estimates, genetic correlates of attractiveness, and postcopulatory sexual selection. Integrates Firman & Simmons (2011) findings on sperm competition with human evidence on cryptic female choice, differential orgasm frequency, and paternity uncertainty.
+
+#### Part II: Modern Mate Market Dynamics (Chapters 4-7)
+
+
+
+**Chapter 4: Digital Platforms and Mate Market Transformation**\
+Analyzes how dating apps restructure mate markets through expanded choice sets, concentrated attention, and algorithmic amplification. Introduces Virtual OSR concept and derives effective sex ratios for users at different mate value percentiles.
+
+**Chapter 5: Hypergamy and Assortative Mating**\
+Examines economic constraints on mate choice, focusing on female hypergamy (preference for equal/higher status partners) and male hypogamy (willingness to marry down). Integrates Bertrand et al. (2015) findings with evolutionary models of mate choice trade-offs.
+
+**Chapter 6: Reproductive Stratification and Inequality**\
+Develops quantitative models of reproductive advantage across precopulatory and postcopulatory selection stages. Synthesizes Larsen (2024) historical data with Firman & Simmons (2011) experimental findings to estimate cumulative reproductive stratification (\~30:1 for top-tier males).
+
+**Chapter 7: Sex Ratio Imbalances and Relational Dynamics**\
+Examines how operational sex ratios influence mating strategies, relationship commitment, and sexual behavior. Introduces Virtual OSR Hypothesis and validates Parameter Exceeding Hypothesis using empirical data from digital platforms.
+
+#### Part III: Aggregate Outcomes and Crises (Chapters 8-9)
+
+
+
+**Chapter 8: Assortative Mating Breakdown**\
+Analyzes the collapse of traditional assortative mating patterns (similar individuals pairing together) due to economic inequality, digital platform dynamics, and shifting mate preferences. Documents rising educational and economic inequality within couples.
+
+**Chapter 9: The Modern Mating Crisis**\
+Synthesizes evidence on five crisis indicators:
+
+* **Sexual inequality**: Growing divergence in sexual/romantic access between high-status and low-status individuals
+* **Commitment failure**: Declining marriage rates and rising cohabitation instability
+* **Mating market withdrawal**: Rising singlehood and voluntary celibacy rates
+* **Fertility collapse**: Below-replacement fertility across all developed nations
+* **Relationship dissatisfaction**: Declining reported satisfaction in existing relationships
+
+#### Part IV: Interventions and Conclusions (Chapter 10)
+
+
+
+**Chapter 10: Interventions and Policy Recommendations**\
+Evaluates potential interventions across four domains:
+
+* **Platform-level**: Algorithmic reforms, interface changes, compatibility-based matching
+* **Economic**: UBI, wage compression, educational subsidies
+* **Cultural**: Messaging campaigns, relationship education, norm shifts
+* **Institutional**: Tax incentives, childcare subsidies, workplace flexibility
+
+Each intervention is evaluated on implementation feasibility, expected impact, distributional effects, and unintended consequences.
+
+***
+
+### 1.7 Limitations and Scope
+
+
+
+This dissertation has five primary limitations:
+
+#### 1.7.1 Geographic and Cultural Scope
+
+
+
+The dissertation focuses primarily on Western, educated, industrialized, rich, and democratic (WEIRD) societies (Henrich, Heine, & Norenzayan, 2010), particularly the United States and Western Europe. While foundational evolutionary psychology findings (sex differences in mate preferences) replicate across diverse cultures (Buss, 1989), the specific manifestations of the modern mating crisis—particularly digital platform dynamics—are most pronounced in WEIRD societies. Generalization to non-WEIRD contexts requires caution.
+
+#### 1.7.2 Temporal Scope
+
+
+
+Empirical data on digital dating platforms span only 10-15 years (roughly 2009-2024), representing a brief snapshot of rapidly evolving technologies. Long-term effects of digital mating markets on relationship stability, child outcomes, and intergenerational transmission of relationship skills remain unknown. The dissertation's projections about future demographic trends should be interpreted as conditional forecasts based on current trajectories.
+
+#### 1.7.3 Sexual Orientation Scope
+
+
+
+The dissertation focuses primarily on heterosexual mating dynamics, which constitute the majority of reproductive partnerships. Same-sex mating dynamics, while increasingly studied (e.g., Bailey & Hurd, 2005; Peplau & Fingerhut, 2007), operate under different selective pressures (no direct fertility consequences) and market structures (more balanced sex ratios in same-sex markets). Future research should extend the Virtual OSR framework to same-sex contexts.
+
+#### 1.7.4 Causality and Confounding
+
+
+
+Observational data on mate preferences and demographic outcomes are subject to confounding and reverse causation. For example, does economic independence cause women to raise mate standards (causal pathway implied by Bertrand et al., 2015), or do women with higher mate standards invest more in education and career (reverse causation)? The dissertation addresses this limitation through:
+
+* Triangulation across multiple data sources (experimental, observational, historical)
+* Sensitivity analyses testing alternative causal models
+* Conservative interpretation of findings where causality remains ambiguous
+
+#### 1.7.5 Quantum-Molecular Speculations
+
+
+
+Level 1 of the theoretical framework (quantum-molecular foundations) is highly speculative and not central to the dissertation's core arguments. Limar (2011) proposes quantum entanglement mechanisms for DNA-level mate choice, but empirical evidence for such mechanisms in humans is lacking. This level is included for theoretical completeness but should be interpreted as a speculative research frontier rather than established science.
+
+***
+
+### 1.8 Ethical Considerations
+
+
+
+Research on mating, sexuality, and reproduction raises ethical considerations across three domains:
+
+#### 1.8.1 Normative Implications
+
+
+
+Evolutionary explanations of mate preferences are sometimes misinterpreted as normative justifications—the "naturalistic fallacy" of deriving "ought" from "is" (Moore, 1903). This dissertation does not argue that current mate preferences are morally justified because they are evolutionarily adaptive. Rather, it argues that understanding the evolutionary origins of preferences is necessary for designing effective interventions that respect human autonomy while facilitating welfare-enhancing outcomes.
+
+#### 1.8.2 Gender and Sexual Inequality
+
+
+
+The dissertation documents stark inequalities in romantic and sexual access, with high-status individuals (particularly males) experiencing abundance while low-status individuals face scarcity. Describing these inequalities is not equivalent to endorsing them. The policy recommendations (Chapter 10) aim explicitly to reduce these inequalities through interventions that expand access and improve welfare for disadvantaged groups.
+
+#### 1.8.3 Reproductive Freedom and Autonomy
+
+
+
+Some proposed interventions (e.g., cultural campaigns to shift mate preferences, algorithmic matching systems) might be seen as paternalistic infringements on individual choice. The dissertation adopts a "libertarian paternalism" framework (Thaler & Sunstein, 2008): interventions should aim to improve outcomes while preserving individual autonomy and choice architecture. For example, modifying dating app algorithms to encourage compatibility-based matching preserves user freedom while reducing attention concentration.
+
+***
+
+### 1.9 Conclusion: A Roadmap for Understanding and Addressing the Modern Mating Crisis
+
+
+
+The modern mating crisis represents one of the most profound social transformations of the 21st century—comparable in scope to the Industrial Revolution, the Sexual Revolution, or the demographic transition. Its consequences—fertility collapse, rising singlehood, relationship instability, and male romantic withdrawal—threaten the foundations of family formation and intergenerational reproduction that have sustained human societies for millennia.
+
+Yet this crisis is not inevitable, irreversible, or incomprehensible. It results from predictable interactions between evolutionarily ancient psychological mechanisms and novel informational environments. Understanding these mechanisms—from molecular genetics to psychological adaptations to economic constraints to demographic outcomes—is the first step toward designing interventions that can reduce evolutionary mismatch and facilitate adaptive pair bonding in modern contexts.
+
+This dissertation provides a comprehensive theoretical framework for understanding the modern mating crisis, synthesizes evidence across multiple disciplines, develops novel concepts (Virtual OSR, quantitative reproductive stratification, evolutionary mismatch typology), and proposes actionable policy recommendations. The chapters that follow trace the causal pathways from genes to preferences to mate markets to demographic outcomes, showing how individually adaptive choices aggregate to produce collectively maladaptive results—and how targeted interventions can break this cycle.
+
+The road ahead is challenging. Reversing fertility collapse, reducing sexual inequality, and rebuilding functional mating markets will require coordinated action across technological platforms, economic policies, cultural norms, and institutional structures. But the alternative—accepting the demographic collapse of developed nations and the breakdown of pair bonding as inevitable—is unacceptable. The stakes are too high, and the solutions, while difficult, are within reach.
+
 <br>
