@@ -1,5 +1,82 @@
 # Chapter 2: Theoretical Framework
 
+This chapter establishes the evolutionary theoretical foundation for understanding contemporary mating dynamics. I trace the development of sexual selection theory from Darwin through modern evolutionary psychology, focusing on three interconnected pillars:
+
+1. **Trivers's parental investment theory** - explains WHY sex differences emerge
+2. **Cross-cultural empirical evidence** - documents WHAT preferences exist universally
+3. **Ecological context effects** - shows HOW preferences adjust to local conditions
+
+**Key Argument:** Human mating psychology exhibits both universality (cross-cultural consistency indicating evolved foundations) and flexibility (context-dependent adjustment to local ecology). This framework is essential for understanding the modern mating crisis.
+
+***
+
+### 2.1 Sexual Selection: From Darwin to Modern Evolutionary Psychology
+
+
+
+#### 2.1.1 Darwin's Original Insight
+
+
+
+Charles Darwin (1871) recognized that natural selection alone could not explain certain extravagant traits like the peacock's tail. He proposed **sexual selection** as a second evolutionary force operating through:
+
+* **Intrasexual competition:** Same-sex rivalry for mates
+* **Intersexual choice:** Mate preferences of the opposite sex
+
+Darwin observed that males typically compete more intensely while females exercise greater selectivity. However, he couldn't explain _why_ this asymmetry exists. This question remained unresolved for a century until Trivers (1972).
+
+#### 2.1.2 The Parental Investment Revolution
+
+
+
+Robert Trivers's 1972 chapter represents the foundational breakthrough in understanding sex differences in mating behavior.
+
+**Trivers's Definition:**
+
+> "Parental investment is defined as any investment by the parent in an individual offspring that increases the offspring's chance of surviving at the cost of the parent's ability to invest in other offspring" (Trivers, 1972, p. 139).
+
+This captures the critical concept of **opportunity cost**: resources devoted to one offspring cannot be allocated to others.
+
+**Trivers's Core Theorem:**
+
+> "What governs the operation of sexual selection is the relative parental investment of the sexes in their offspring" (Trivers, 1972, p. 141).
+
+**Key Predictions:**
+
+1. Higher investors are choosier
+2. Lower investors compete more intensely
+3. Lower investors show greater variance in reproductive success
+4. Sex roles reverse if investment reverses
+
+#### 2.1.3 Human Parental Investment Asymmetry
+
+
+
+**Female Minimum Investment:**
+
+* Ovum (larger, costly gametes)
+* Gestation: 9 months
+* Lactation: 2-3 years (ancestral)
+* Extended childcare (human infants helpless)
+* **Total:** \~4-5 years minimum per offspring
+
+**Male Minimum Investment:**
+
+* Sperm (small, abundant gametes)
+* Copulation: minutes
+* **Total:** Near zero (though facultative investment varies)
+
+**Resulting Predictions:**
+
+> "Since female reproductive success is limited more by ability to produce and raise offspring than by ability to locate mates, females should be choosier than males" (Trivers, 1972, p. 143).
+
+> "Since male reproductive success is usually limited more by access to females than by ability to produce gametes, males typically compete more intensely for mates" (Trivers, 1972, p. 143).
+
+**Specific Predictions for Humans:**
+
+* **Females should value:** Resources, investment capacity, status
+* **Males should value:** Fertility cues (youth, attractiveness, health)
+
 ### 2.2 Jungian Depth Psychology
 
 
